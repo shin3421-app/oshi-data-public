@@ -1,0 +1,22 @@
+{
+  "date": "2025-10-10",
+  "streams": [
+    {
+      "videoId": "sxUQgwJ65ek",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】秋すぎてびっくりしてる- ハニカムステーション！-183【HACHI 】",
+      "actualStartTime": "2025-10-10T12:32:08Z",
+      "durationSec": 4623,
+      "setlistType": "full",
+      "songCount": 10,
+      "setlistComment": {
+        "rawText": "1  . 00:20 アルジャーノン/ヨルシカ\r\n2  . 18:47 藍二乗/ヨルシカ\r\n3  . 24:08 月のワルツ/諫山実生\r\n4  . 30:22 366日/HY\r\n5  . 37:46 変わらないもの/奥華子\r\n6  . 47:36 アポリア/ヨルシカ\r\n7  . 52:21 ブルーアンバー/back number\r\n8  . 56:24 JANE DOE/米津玄師&宇多田ヒカル\r\n9  . 1:06:13 Deep Sleep Sheep/\r\n10. 1:10:52 Rainy proof/",
+        "songCount": 10,
+        "timestampFirst": "00:20",
+        "timestampSecFirst": 20
+      }
+    }
+  ]
+}

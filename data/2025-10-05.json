@@ -1,0 +1,39 @@
+{
+  "date": "2025-10-05",
+  "streams": [
+    {
+      "videoId": "Vl0RzyHY6-A",
+      "channelId": "UCRXWpdEe987CRaZt5HNf-WA",
+      "channelName": "ファム・ファタル - (f)EMME FATALE",
+      "oshiName": "ファム・ファタル - (f)EMME FATALE",
+      "title": "【 #麗しの歌姫歌枠リレー 】歌姫（らしい）（気合い！）【ファム・ファタル/LADY:MUSE PRODUCTION】",
+      "actualStartTime": "2025-10-05T10:28:13Z",
+      "durationSec": 1853,
+      "setlistType": "partial",
+      "songCount": 5,
+      "setlistComment": {
+        "rawText": "#麗しの歌姫歌枠リレー\n\n0:02:47 Magia/Kalafina\n0:09:44 Symphony/Clean Bandit ft.Zera Larsson\n0:14:43 からくりピエロ/40mP\n0:19:30 ERROR/niki\n0:25:49 Tell Your World/livetune",
+        "songCount": 5,
+        "timestampFirst": "0:02:47",
+        "timestampSecFirst": 167
+      }
+    },
+    {
+      "videoId": "Eghz5A6vKMI",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【 #歌枠 / Sing 】歌枠リレーたのしかったありがとう歌枠！【 #あかつきるき 】",
+      "actualStartTime": "2025-10-05T12:00:28Z",
+      "durationSec": 8549,
+      "setlistType": "full",
+      "songCount": 14,
+      "setlistComment": {
+        "rawText": "Setlist\n\n1:24 　　  あなたがここにいる理由 / Rie fu\r\n29:12 　　IRIS OUT / 米津玄師\r\n32:15 　　JANE DOE / 米津玄師、宇多田ヒカル\r\n40:38 　　らぶこーる (アカペラ.ver) / 中川かのん\r\n51:59 　　DESHO? / あかつき るき\r\n1:18:43 　インフィニティ / May'n\r\n1:24:17 　裏切りの夕焼け / THEATRE BROOK\r\n1:29:15 　ギブス / 椎名林檎\r\n1:38:03 　RE:I AM / Aimer\r\n1:44:03 　aLIEz / SawanoHiroyuki[nZK]:mizu\r\n1:50:09 　薄ら氷心中 / 林原めぐみ\r\n1:54:25 　今際の死神 (アカペラ.ver) / 林原めぐみ\r\n2:01:25 　恐山ル・ヴォワール / 林原めぐみ\r\n2:11:40 　ラビスラズリ / 藍井エイル\n\n2:20:52 　ヴァイ",
+        "songCount": 14,
+        "timestampFirst": "1:24",
+        "timestampSecFirst": 84
+      }
+    }
+  ]
+}

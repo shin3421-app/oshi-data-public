@@ -1,0 +1,22 @@
+{
+  "date": "2024-09-12",
+  "streams": [
+    {
+      "videoId": "STWFEGzmSjA",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【 -`🎙 歌枠/Singing 】ワンマンライブ直前！みんなでカラオケ！ 【獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2024-09-12T11:00:31Z",
+      "durationSec": 4372,
+      "setlistType": "partial",
+      "songCount": 6,
+      "setlistComment": {
+        "rawText": "00:07:05 ようこそジャパリパークへ / どうぶつビスケッツ×PPP\r\n00:14:33 ダンスホール / Mrs. GREEN APPLE\r\n00:19:37 YUME日和 / 島谷ひとみ\r\n00:27:07 告白日和、です！ / 南ことり(内田彩)＆小泉花陽(久保ユリカ)\r\n00:51:27 ヒバナ / DECO*27\r\n01:00:41 可愛くてごめん / HoneyWorks",
+        "songCount": 6,
+        "timestampFirst": "00:07:05",
+        "timestampSecFirst": 425
+      }
+    }
+  ]
+}

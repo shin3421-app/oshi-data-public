@@ -1,0 +1,22 @@
+{
+  "date": "2025-09-21",
+  "streams": [
+    {
+      "videoId": "loAESsQQjBw",
+      "channelId": "UCRXWpdEe987CRaZt5HNf-WA",
+      "channelName": "ファム・ファタル - (f)EMME FATALE",
+      "oshiName": "ファム・ファタル - (f)EMME FATALE",
+      "title": "【 #個性きらめく歌枠リレー 】自分らしく！おまえの運命の女、参上。【ファム・ファタル/LADY:MUSE PRODUCTION】",
+      "actualStartTime": "2025-09-21T11:29:26Z",
+      "durationSec": 1814,
+      "setlistType": "partial",
+      "songCount": 5,
+      "setlistComment": {
+        "rawText": "#個性きらめく歌枠リレー\n\n0:01:38 エンゼルフィッシュ/パトリチェフ\n0:08:43 Drop/HANA\n0:11:19 Finesse/Bruno Mars\n0:17:28 カタオモイ/Aimer\n0:24:10 Automatic/宇多田ヒカル",
+        "songCount": 5,
+        "timestampFirst": "0:01:38",
+        "timestampSecFirst": 98
+      }
+    }
+  ]
+}

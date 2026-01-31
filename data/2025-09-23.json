@@ -1,0 +1,39 @@
+{
+  "date": "2025-09-23",
+  "streams": [
+    {
+      "videoId": "VvRKbHFM9hs",
+      "channelId": "UCRXWpdEe987CRaZt5HNf-WA",
+      "channelName": "ファム・ファタル - (f)EMME FATALE",
+      "oshiName": "ファム・ファタル - (f)EMME FATALE",
+      "title": "【 #夜に溺れる歌枠リレー 】夕方ですが、ほっとひといき。【ファム・ファタル/LADY:MUSE PRODUCTION】",
+      "actualStartTime": "2025-09-23T09:28:25Z",
+      "durationSec": 1845,
+      "setlistType": "partial",
+      "songCount": 5,
+      "setlistComment": {
+        "rawText": "#夜に溺れる歌枠リレー\n\n0:02:33 Overdose/なとり\n0:09:07 Ghost of You/ファム・ファタル\n0:13:18 quiet room/有機酸\n0:19:09 Daydream/Lily Meola\n0:26:18 道/宇多田ヒカル",
+        "songCount": 5,
+        "timestampFirst": "0:02:33",
+        "timestampSecFirst": 153
+      }
+    },
+    {
+      "videoId": "Mo3sIw_dY10",
+      "channelId": "UC1CXNJGwnUUVawDeCwwOmFg",
+      "channelName": "鈴鳴すばる🐶⚠️まりなす",
+      "oshiName": "鈴鳴すばる🐶⚠️まりなす",
+      "title": "まりなす/鈴鳴すばる 初主催✨#Super9歌枠リレー　閉会式！鈴鳴すばる（まりなす）",
+      "actualStartTime": "2025-09-23T12:29:38Z",
+      "durationSec": 2843,
+      "setlistType": "partial",
+      "songCount": 6,
+      "setlistComment": {
+        "rawText": "＜タイムスタンプ＞\n01:39　開始\n01:39　RE:I AM　/　Aimer\n07:26　罪と罰　/　椎名林檎\n12:09　Confident　/　Demi Lovato(デミ・ロヴァート)\n14:09　アルデバラン　/　AI(アイ)\n18:36　PAIN IS BEAUTY　/　ちゃんみな\n22:32　IZANAI　/　鈴鳴すばる\n25:53　MC\n26:53　閉会式\n33:13　メンバーの各歌枠を振り返り\n41:27　告知\n44:51　閉…？",
+        "songCount": 6,
+        "timestampFirst": "01:39",
+        "timestampSecFirst": 99
+      }
+    }
+  ]
+}

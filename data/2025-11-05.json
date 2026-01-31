@@ -1,0 +1,22 @@
+{
+  "date": "2025-11-05",
+  "streams": [
+    {
+      "videoId": "_r2O1x1s4uY",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】しっとりちょっぴり歌枠-Midnight station -107【HACHI】",
+      "actualStartTime": "2025-11-04T15:00:47Z",
+      "durationSec": 3570,
+      "setlistType": "partial",
+      "songCount": 7,
+      "setlistComment": {
+        "rawText": "1  . 15:10 パレード/ヨルシカ\r\n2  . 21:18 JANE DOE/米津玄師&宇多田ヒカル\r\n3  . 27:03 バーモント・キッス/相対性理論\r\n4  . 32:45 ウィアートル/rionos\r\n5  . 39:18 心做し/蝶々P\r\n6  . 45:29 Gold ～また逢う日まで～/宇多田ヒカル\r\n7  . 51:22 √64/",
+        "songCount": 7,
+        "timestampFirst": "15:10",
+        "timestampSecFirst": 910
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2025-11-11",
+  "streams": [
+    {
+      "videoId": "PuaZDwKhbTM",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【歌枠】寒いから歌ってあったまろうの会",
+      "actualStartTime": "2025-11-11T09:32:07Z",
+      "durationSec": 4050,
+      "setlistType": "full",
+      "songCount": 10,
+      "setlistComment": {
+        "rawText": "Set List\n0:03:49 開始\n0:06:46 01. あなたのことをおしえて / キタニタツヤ\n0:10:46 02. unravel / TK from 凛として時雨\n0:16:49 03. 本能／椎名林檎\n0:23:33 04. イケナイ太陽 / ORANGE RANGE\n0:27:26 05. 恋愛裁判 / 40mP\n0:34:23 06. サリシノハラ / みきとP\n0:38:59 07. お願いマッスル / 紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人) \n0:42:52 08. 怪獣の花唄 / Vaundy\n0:47:49 09. 花になって / 緑黄色社会\n0:52:47 10. ワールドイズマイン / ryo(supercell)",
+        "songCount": 10,
+        "timestampFirst": "0:06:46",
+        "timestampSecFirst": 406
+      }
+    }
+  ]
+}

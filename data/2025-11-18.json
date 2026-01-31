@@ -1,0 +1,39 @@
+{
+  "date": "2025-11-18",
+  "streams": [
+    {
+      "videoId": "KF6zBgrLAt8",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【 お披露目あり歌枠 】半年あっという間だ〜【雨夜リズ/ミリプロ】",
+      "actualStartTime": "2025-11-18T10:03:40Z",
+      "durationSec": 3663,
+      "setlistType": "partial",
+      "songCount": 9,
+      "setlistComment": {
+        "rawText": "Set List\n0:02:55 開始\n0:04:52 お披露目\n0:08:55 1. ファンサ / mona(夏川椎菜)\n0:15:45 2. God knows... / 涼宮ハルヒ(平野綾)\n0:21:59 3. Snow halation / μ's\n0:27:59 4. 一度だけの恋なら / ワルキューレ\n0:34:15 5. ノーダウト / Official髭男dism\n0:39:22 6. うっせぇわ / Ado\n0:44:32 7. IRIS OUT / 米津玄師\n0:49:00 8. Catch the Moment / LiSA\n0:54:35 9. ブラック★ロックシューター / ryo(supercell)",
+        "songCount": 9,
+        "timestampFirst": "0:08:55",
+        "timestampSecFirst": 535
+      }
+    },
+    {
+      "videoId": "t594Ua7N-30",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】ヤバい！！！！！！！！！！！！！！！！！！！【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2025-11-18T11:00:34Z",
+      "durationSec": 3191,
+      "setlistType": "full",
+      "songCount": 11,
+      "setlistComment": {
+        "rawText": "❤‍🔥🎙🎶セットリスト❤‍🔥🎙🎶\r\n01.    00:05:36    REALiZE  /  LiSA\r\n02.    00:08:59    オメガリズム  /  UPLIFT SPICE\r\n03.    00:12:13    天樂 - 双響 -  /  ゆうゆ\r\n04.    00:17:10    敗北の少年  /  KEMU VOXX\r\n05.    00:21:06    ギブス  /  椎名林檎\r\n06.    00:27:24    革命道中  /  アイナ・ジ・エンド\r\n07.    00:30:47    monolith  /  04 Limited Sazabys\r\n08.    00:34:08    Let Me Hear  /  Fear, and Loathing in Las Vegas\r\n09.    00:38:10    1,000,000 TIMES  /  MY FIRST STORY\r\n10.    00:43:38    Re:make  /  ONE OK ROCK\r\n11.    00:48:05    Make A Wish  /  ELLEGARDEN",
+        "songCount": 11,
+        "timestampFirst": "00:05:36",
+        "timestampSecFirst": 336
+      }
+    }
+  ]
+}

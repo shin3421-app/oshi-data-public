@@ -1,0 +1,22 @@
+{
+  "date": "2025-10-24",
+  "streams": [
+    {
+      "videoId": "li1_61fz0ZQ",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】ゆったり歌うぞ！- ハニカムステーション！-183【HACHI 】",
+      "actualStartTime": "2025-10-24T12:01:37Z",
+      "durationSec": 4977,
+      "setlistType": "full",
+      "songCount": 11,
+      "setlistComment": {
+        "rawText": "1  . 00:56 グレゴリオ/古川本舗\r\n2  . 09:19 Deep Sleep Sheep/\r\n3  . 19:47 ばいばい、テディベア/\r\n4  . 25:44 Rainy proof/\r\n5  . 34:24 いつまでも/\r\n6  . 39:42 さよならfrequency/\r\n7  . 44:25 レコードのように/\r\n8  . 52:43 万華鏡/\r\n9  . 58:56 Weekend milk/\r\n10. 1:04:43 ビー玉/\r\n11. 1:11:52 スウィングバイ/",
+        "songCount": 11,
+        "timestampFirst": "00:56",
+        "timestampSecFirst": 56
+      }
+    }
+  ]
+}

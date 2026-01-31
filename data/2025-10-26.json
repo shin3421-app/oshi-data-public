@@ -1,0 +1,39 @@
+{
+  "date": "2025-10-26",
+  "streams": [
+    {
+      "videoId": "5J1ZqT1UJqU",
+      "channelId": "UCPd0Z22gF43dUidPYEQO5-w",
+      "channelName": "VESPERBELL",
+      "oshiName": "VESPERBELL",
+      "title": "【歌枠】秋ってなんかスピる【VESPERBELL カスカ】",
+      "actualStartTime": "2025-10-26T06:52:09Z",
+      "durationSec": 4236,
+      "setlistType": "partial",
+      "songCount": 8,
+      "setlistComment": {
+        "rawText": "SETLIST\n\n01.  00:10:28  カオスが極まる / UNISON SQUARE GARDEN\n02.  00:14:26  いけないボーダーライン / ワルキューレ\n03.  00:28:09  瞬間センチメンタル / SCANDAL\n04.  00:39:12  ワールドイズマイン / supercell\n05.  00:44:26  Can't Take My Eyes Off You / Frankie Valli\n06.  00:51:38  ギターと孤独と蒼い惑星 / 結束バンド\n07.  00:57:03  ちゅ、多様性。 / ano\n08.  01:05:43  怪獣の花唄 / Vaundy",
+        "songCount": 8,
+        "timestampFirst": "00:10:28",
+        "timestampSecFirst": 628
+      }
+    },
+    {
+      "videoId": "hWFSPeKm6es",
+      "channelId": "UCUAy59_4jUN0WGB5gLY8LBg",
+      "channelName": "聖ルナティア / Sei Lunathia",
+      "oshiName": "聖ルナティア / Sei Lunathia",
+      "title": "【歌枠/KARAOKE】横型じゃねーか！！！！！！！【聖ルナティア/ゆにれいど】",
+      "actualStartTime": "2025-10-26T09:29:21Z",
+      "durationSec": 11523,
+      "setlistType": "full",
+      "songCount": 28,
+      "setlistComment": {
+        "rawText": "【𝕋𝕊・セトリ】　声入り　0:56 \n𓈒 𓏸 𓐍 𓂃 𓈒𓏸 𓂃◌𓈒𓐍 𓈒𓈒 𓏸 𓐍 𓂃 𓈒𓏸 𓂃◌𓈒𓐍\n☾CH4NGE／Giga feat.可不　5:05 \n☾The Everlasting Guilty Crown／EGOIST　12:06 \n☾ジェへナ／wotaku feat.初音ミク　20:16 \n☾名前のない怪物／EGOIST　31:15 \n☾高音厨音域テスト／木村わいP feat.初音ミク　41:24 \n☾聖槍爆裂ボーイ／れるりり,もじゃ feat.鏡音レン　 47:39 (敗北謝罪あり)\n☾IRIS OUT／米津玄師　55:06 \n☾JANE DOE／米津玄師,宇多田ヒカル　58:32 \n☾From Y to Y／ジミーサムP　1:06:55 \n☾咲かせや咲かせ／EGOIST　1:16:32 \n☾トウキョウ・シャンディ・ランデヴ／MAISONdes feat.花譜,ツキミ　1:23:42 \n☾Bunny Girl／AKASAKI　1:29:47 \n☾踊／Ado　1:36:07 \n☾give it back／Cö shu Nie　1:48:34 \n☾asphyxia／Cö shu Nie　1:54:14 \n☾DANDAN心魅かれてく／FIELD OF VIEW　2:00:34 \n☾Arrietty's Song／セシル・コルベル　2:05:55 \n☾忘れじの言の葉／未来古代楽団　2:11:37 \n☾プロポーズ／なとり　2:17:58 \n☾ヨワネハキ／MAISONdes feat.和ぬか,asmi　2:22:55 \n☾酔いどれ知らず／Kanaria　2:26:36 \n☾ウタカタララバイ／Ado　2:31:31 \n☾ただ声一つ／ロクデナシ　2:36:41 \n☾ハム太郎とっとこうた／ハムちゃんず　2:41:13 \n☾めざせポケモンマスター／松本梨香　2:45:03 \n☾ウィーアー！(1番のみ)／きただにひろし　2:53:00 \n☾月のワルツ／諫山実生　2:57:21 \n☾唱／Ado　3:04:42",
+        "songCount": 28,
+        "timestampFirst": "5:05",
+        "timestampSecFirst": 305
+      }
+    }
+  ]
+}

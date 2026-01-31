@@ -1,0 +1,22 @@
+{
+  "date": "2025-05-03",
+  "streams": [
+    {
+      "videoId": "ZtZhuOwt8_U",
+      "channelId": "UC2hc-00y-MSR6eYA4eQ4tjQ",
+      "channelName": "龍ヶ崎リン / Rene Ryugasaki【ななしいんく】",
+      "oshiName": "龍ヶ崎リン / Rene Ryugasaki【ななしいんく】",
+      "title": "【#MF歌枠リレー】最後のバトンを渡すのはこの俺【龍ヶ崎リン / ななしいんく】",
+      "actualStartTime": "2025-05-03T10:59:42Z",
+      "durationSec": 1812,
+      "setlistType": "partial",
+      "songCount": 7,
+      "setlistComment": {
+        "rawText": "SETLIST / Timestamp\r\n0:57 Beyond the way / Giga\r\n4:01 フライディ・チャイナタウン / 泰葉\r\n8:46 偽愛とハイボール / LET ME KNOW\r\n13:17 フライデー・ナイト / なとり\r\n17:03 最後の雨 / 中西保志\r\n21:51 東京フラッシュ / Vaundy\r\n26:56 LA・LA・LA LOVE SONG / 久保田利伸",
+        "songCount": 7,
+        "timestampFirst": "0:57",
+        "timestampSecFirst": 57
+      }
+    }
+  ]
+}

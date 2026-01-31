@@ -1,0 +1,56 @@
+{
+  "date": "2025-11-08",
+  "streams": [
+    {
+      "videoId": "Tiuxg9JFU0g",
+      "channelId": "UClalgSZ1Q4m2j96cP24XGBw",
+      "channelName": "みなとん。は歌う",
+      "oshiName": "みなとん。は歌う",
+      "title": "【歌枠】魂を震わせろ！かっこいい曲縛りで歌うぜっ🗡【#Vtuber #みなとん】",
+      "actualStartTime": "2025-11-08T06:34:01Z",
+      "durationSec": 5170,
+      "setlistType": "full",
+      "songCount": 15,
+      "setlistComment": {
+        "rawText": "💉time stamp🎧\r\n0:01:51 OPENING TALK\r\n0:06:07 01.KING/Kanaria\r\n0:09:42 02.かくれんぼ/AliA\r\n0:16:40 03.天ノ弱/164\r\n0:21:24 04.フォニイ/ツミキ\r\n0:26:37 05.勇者/YOASOBI\r\n0:31:15 06.逆光/Ado\r\n0:36:20 07.唱/Ado\r\n0:41:45 08.ブリキノダンス/日向電工\r\n0:47:12 09.踊/Ado\r\n0:52:28 10.ロウワー/ぬゆり\r\n0:57:15 11.マーシャル・マキシマイザー/柊マグネタイト\r\n1:01:46 12.花になって/緑黄色社会\r\n1:07:13 13.プロポーズ/内緒のピアス\r\n1:13:36 14.愛して愛して愛して/きくお\r\n1:19:22 15. My song/角煮わため\r\n1:22:47 ENDING TALK",
+        "songCount": 15,
+        "timestampFirst": "0:06:07",
+        "timestampSecFirst": 367
+      }
+    },
+    {
+      "videoId": "y-Qj1tJUGcY",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【#歌に惚れてけ歌枠リレー】感情揺さぶる僕の歌声に溺れて行かん？【 歌枠/新人vtuber/五木つかさ 】",
+      "actualStartTime": "2025-11-08T09:58:17Z",
+      "durationSec": 1870,
+      "setlistType": "full",
+      "songCount": 12,
+      "setlistComment": {
+        "rawText": "【 SET LIST 】🐺タイムスタンプ\r\n0:02:37 スタート\r\n0:03:10 カーテンコール / 優里\r\n0:07:32 メロウ / 須田景凪\r\n0:12:01 斜陽 / ヨルシカ\r\n0:16:00 へび / ヨルシカ\r\n0:20:41 僕のこと / Mrs. GREEN APPLE\r\n0:26:36 月が満ちる / 月詠み\r\n\n\n【 SET LIST 】🐺MCタイムスタンプ有ver.\r\n0:02:37 スタート\r\n0:03:10 カーテンコール / 優里\r\n0:07:15 MC①\r\n0:07:32 メロウ / 須田景凪\r\n0:12:01 斜陽 / ヨルシカ\r\n0:16:00 へび / ヨルシカ\r\n0:20:30 MC②\r\n0:20:41 僕のこと / Mrs. GREEN APPLE\r\n0:26:18 MC③\r\n0:26:36 月が満ちる / 月詠み\r\n0:30:01 MC④",
+        "songCount": 12,
+        "timestampFirst": "0:03:10",
+        "timestampSecFirst": 190
+      }
+    },
+    {
+      "videoId": "C5FrVHc_BxM",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠 / KARAOKE 】次なに歌う？リクエストルーレット歌枠#11🌙🎼【 #ヨノ  / RK Music】",
+      "actualStartTime": "2025-11-08T13:04:19Z",
+      "durationSec": 11286,
+      "setlistType": "full",
+      "songCount": 12,
+      "setlistComment": {
+        "rawText": "🌙🎼セトリ🌙🎼\r\n22:13 月に吠える / ヨルシカ\r\n\r\n35:45 都落ち / ヨルシカ\r\n\r\n45:33 vivi / 米津玄師\r\n\r\n54:03 Letter(弾き語り) / TRUE\r\n\r\n01:01:34 酔いどれ知らず / Kanaria\r\n\r\n01:06:48 RE:I AM / Aimer\r\n\r\n01:16:42 雨とカプチーノ / ヨルシカ\r\n\r\n01:25:50 森の小さなレストラン(弾き語り) / 手嶌葵\r\n\r\n01:38:35 カントリー・ロード / 本名陽子\r\n\r\n01:48:10 星の消えた夜に(弾き語り) / Aimer\r\n\r\n01:56:20 怪獣 / サカナクション\r\n\r\n02:07:26 だんご大家族 / 茶太",
+        "songCount": 12,
+        "timestampFirst": "22:13",
+        "timestampSecFirst": 1333
+      }
+    }
+  ]
+}

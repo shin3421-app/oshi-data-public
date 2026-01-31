@@ -1,0 +1,39 @@
+{
+  "date": "2025-10-04",
+  "streams": [
+    {
+      "videoId": "w1BpMhTJ2EU",
+      "channelId": "UClalgSZ1Q4m2j96cP24XGBw",
+      "channelName": "みなとん。は歌う",
+      "oshiName": "みなとん。は歌う",
+      "title": "【歌枠】秋の夜長に聞く歌枠【#Vtuber #みなとん】",
+      "actualStartTime": "2025-10-04T06:00:50Z",
+      "durationSec": 8794,
+      "setlistType": "full",
+      "songCount": 19,
+      "setlistComment": {
+        "rawText": "💉set list​​🎧\r\n0:03:05 OPENING TALK\r\n0:11:45 01.満ちていく/藤井風\r\n0:19:38 02.明日への手紙/手嶌葵\r\n0:28:08 03.月のしずく/柴咲コウ\r\n0:36:04 04.キラキラ/aiko\r\n0:44:40 05.Time goes by/Every Little Thing\r\n0:51:24 06.明日への扉/I WISH\r\n0:58:29 07.永遠のあくる日/Ado\r\n1:05:02 08.Overdose/なとり\r\n1:10:45 09.悪魔の子/ヒグチアイ\r\n1:16:52 10.青いベンチ/サスケ\r\n1:23:04 11.ENDLESS STORY/REIRA starring YUNA ITO\r\n1:31:08 12.GLAMOROUS SKY/NANA starring MIKA NAKASHIMA\r\n1:38:17 13.oath sign/LiSA\r\n1:46:40 14.花/ORANGE RANGE\r\n1:53:02 15.花になって/緑黄色社会\r\n1:58:04 16.忘れてください/ヨルシカ\r\n2:04:44 17.晴る/ヨルシカ\r\n2:11:47 18.夜明けと蛍/N-buna\r\n2:18:00 19.だから僕は音楽を辞めた/ヨルシカ\r\n2:22:04 ENDING TALK",
+        "songCount": 19,
+        "timestampFirst": "0:11:45",
+        "timestampSecFirst": 705
+      }
+    },
+    {
+      "videoId": "v9VhkaDUtFw",
+      "channelId": "UCRXWpdEe987CRaZt5HNf-WA",
+      "channelName": "ファム・ファタル - (f)EMME FATALE",
+      "oshiName": "ファム・ファタル - (f)EMME FATALE",
+      "title": "【#Karaoke 】17万人耐久歌枠！！！！ 【ファム・ファタル/#vtuber 】",
+      "actualStartTime": "2025-10-04T12:09:27Z",
+      "durationSec": 14481,
+      "setlistType": "full",
+      "songCount": 22,
+      "setlistComment": {
+        "rawText": "0:02:36 開始\n0:07:46 IRIS OUT/米津玄師\n0:11:29 JANE DOE/米津玄師,宇多田ヒカル\n0:18:02 二時間だけのバカンス\n                                /宇多田ヒカル featuring 椎名林檎\n0:23:38 歌舞伎町の女王/椎名林檎\n0:27:09 遭難/東京事変\n0:33:35 Femme Fatale/中央区言の葉党\n0:47:07 A Million Dreams/The Greatest Showman\n0:53:59 Rewrite The Stars\n                                               /The Greatest Showman\n0:59:13 The Other Side/The Greatest Showman\n1:12:20 Never Enough/The Greatest Showman\n1:28:41 more than words/羊文学\n1:34:28 光るとき/羊文学\n1:40:36 キラキラの灰/リーガルリリー\n1:55:21 サリシノハラ/みきとP\n2:20:36 熱帯夜/RIP SLYME\n2:30:14 flos/R Sound Design\n2:42:52 紗痲/煮ル果実\n2:51:04 からくりピエロ/40mP\n3:02:03 INSANE/Black Gryph0n & Baasik\n3:11:04 Super Shy/NewJeans\n3:22:01 Shape Of You/Ed Sheeran\n3:27:51 Shake it off/Taylor Swift\n3:35:23 輝く未来/塔の上のラプンツェル\n3:43:08 Just Be Friends/Dixie Flatline\n3:48:28 17万人おめでとうスパチャ読み\n3:51:30 歌った曲紹介や締めの挨拶\n3:53:33 ファムぬい告知\n \n\n1:17:16 ラジオ体操タイム\n2:00:19 SNS用動画撮影１\n3:14:20 SNS用動画撮影２\n3:46:04 17万人達成！！！",
+        "songCount": 22,
+        "timestampFirst": "0:07:46",
+        "timestampSecFirst": 466
+      }
+    }
+  ]
+}

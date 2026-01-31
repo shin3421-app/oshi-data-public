@@ -1,0 +1,39 @@
+{
+  "date": "2025-10-30",
+  "streams": [
+    {
+      "videoId": "AzmJ_Mj4WyY",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】アップテンポ曲｜Culua′s PlayList 13【CULUA】",
+      "actualStartTime": "2025-10-30T11:30:41Z",
+      "durationSec": 5667,
+      "setlistType": "full",
+      "songCount": 12,
+      "setlistComment": {
+        "rawText": "0:00 OP\n2:34 START\n2:41 01. アイドル / YOASOBI\n7:03 OPENING \n12:37 02. ダーリンダンス / かいりきベア\n16:02 03. 魔法少女とチョコレゐト / ピノキオピー\n21:19 04. トウキョウ・シャンディ・ランデヴ / MAISONdes feat. 花譜,ツミキ\n24:35 05. チューイン・ディスコ / 花譜×ツミキ\n29:41 06. テレパシ / DECO*27\n32:08 07. チェリーポップ / DECO*27\n36:18 08. ビビデバ / 星街すいせい\n39:13 09. トンデモワンダーズ / sasakure. uk\n44:36 10. 低血ボルト / ずっと真夜中でいいのに。 \n48:13 11. 勘冴えて悔しいわ / ずっと真夜中でいいのに。\n54:43 12. 脳漿炸裂ガール / れるりり\n58:24 ENDING TALK\n1:31:55 END",
+        "songCount": 12,
+        "timestampFirst": "2:41",
+        "timestampSecFirst": 161
+      }
+    },
+    {
+      "videoId": "Lfu11jjkAsY",
+      "channelId": "UCH1B9AR8sfWJVf9zcu9rbGg",
+      "channelName": "響かさね / Hibiki Kasane",
+      "oshiName": "響かさね",
+      "title": "初縦型歌枠🍀低音女子が歌います🍀初見さんも大歓迎♪ #shorts #歌枠 #Vtuber",
+      "actualStartTime": "2025-10-30T13:27:01Z",
+      "durationSec": 5765,
+      "setlistType": "full",
+      "songCount": 12,
+      "setlistComment": {
+        "rawText": "セトリ\r\n0:02:25　●スタート\r\n0:11:17　01.　怪獣の花唄 ／ Vaundy\r\n0:15:22　02.　イージ㋴ー★ライダー ／ 奥田民生\r\n0:19:15　03.　LA・LA・LA LOVE SONG ／ 久保田利伸 with NAOMI CAMPBELL\r\n0:24:23　04.　アゲハ蝶 ／ ポルノグラフィティ\r\n0:29:20　05.　さよならエレジー ／ 菅田将暉\r\n0:34:02　06.　Sign ／ Mr.Children\r\n0:39:34　07.　Subtitle ／ Official髭男dism\r\n0:45:15　08.　白い恋人達 ／ 桑田佳祐\r\n0:49:59　09.　ひまわりの約束 ／ 秦基博\r\n0:55:12　10.　チェリー ／ スピッツ\r\n0:59:38　11.　空も飛べるはず ／ スピッツ\r\n1:04:12　12.　どんなときも。 ／ 槇原敬之\r\n1:08:52　●雑談パート\r\n1:34:32　●エンディング",
+        "songCount": 12,
+        "timestampFirst": "0:11:17",
+        "timestampSecFirst": 677
+      }
+    }
+  ]
+}

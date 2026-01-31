@@ -1,0 +1,22 @@
+{
+  "date": "2025-09-10",
+  "streams": [
+    {
+      "videoId": "z0OJNXggA8c",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】しっとり歌枠！！-Midnight station -104【HACHI】",
+      "actualStartTime": "2025-09-09T15:01:51Z",
+      "durationSec": 5373,
+      "setlistType": "full",
+      "songCount": 12,
+      "setlistComment": {
+        "rawText": "1  . 01:00 アポリア/ヨルシカ \r\n2  . 07:54 月のワルツ/諫山実生\r\n3  . 13:43 ブルーアンバー/back number\r\n4  . 19:09 地獄先生/相対性理論\r\n5  . 26:31 六月は雨上がりの街を書く/ヨルシカ\r\n6  . 32:21 もらい泣き/一青窈\r\n7  . 38:55 ​雲と幽霊/ヨルシカ\r\n8  . 53:17 アルジャーノン/ヨルシカ\r\n9  . 58:58 側にいて/阿部真央\r\n10. 1:11:11 空が待ってる/\r\n11. 1:18:42 √64/\r\n12. 1:23:00 Deep Sleep Sheep/",
+        "songCount": 12,
+        "timestampFirst": "01:00",
+        "timestampSecFirst": 60
+      }
+    }
+  ]
+}

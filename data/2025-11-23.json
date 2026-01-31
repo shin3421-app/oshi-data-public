@@ -1,0 +1,56 @@
+{
+  "date": "2025-11-23",
+  "streams": [
+    {
+      "videoId": "ApEM1PJzqBE",
+      "channelId": "UCH1B9AR8sfWJVf9zcu9rbGg",
+      "channelName": "響かさね / Hibiki Kasane",
+      "oshiName": "響かさね",
+      "title": "響かさね🍀 3Dお披露目ライブ 🍀 【 #響かさね3Dお披露目ライブ #Vtuber #Vsinger 】",
+      "actualStartTime": "2025-11-23T11:00:37Z",
+      "durationSec": 3364,
+      "setlistType": "partial",
+      "songCount": 8,
+      "setlistComment": {
+        "rawText": "セトリ\r\n0:02:29　●スタート\r\n0:02:32　01.　IDEA ／ 響かさね\r\n0:06:42　02.　永夜 ／ 響かさね\r\n0:10:53　03.　白光 ／ 響かさね\r\n0:15:23　04.　心響 ／ 響かさね\r\n0:20:03　●トークパート\r\n0:21:58　05.　アスノヨゾラ哨戒班 ／ Orangestar feat. IA\r\n0:26:01　06.　僕が死のうと思ったのは ／ 中島美嘉\r\n0:32:19　07.　1.0 ／ amazarashi\r\n0:38:03　●トークパート\r\n0:38:51　●告知：今回歌った 1st CD「Resonate」発売中\r\n0:40:16　●告知：1曲目に歌ったIDEA、M3参加のCD「AlternativeTrinity」通販再開予定\r\n0:40:53　●告知：3周年記念グッズ発売中\r\n0:42:35　●スクショタイム\r\n0:47:30　08.　幸せにするね ／ 響かさね\r\n0:53:24　●エンドカード",
+        "songCount": 8,
+        "timestampFirst": "0:02:32",
+        "timestampSecFirst": 152
+      }
+    },
+    {
+      "videoId": "2yHerQjB8eE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 #歌枠リレー魂響 】君の心に、届きますように【#五木つかさ  #KARAOKE】",
+      "actualStartTime": "2025-11-23T11:58:01Z",
+      "durationSec": 1879,
+      "setlistType": "full",
+      "songCount": 12,
+      "setlistComment": {
+        "rawText": "【 SET LIST 】🐺タイムスタンプ\r\n0:02:49 スタート\r\n0:03:49 泥中に咲く / はりー\r\n0:08:48 藍二乗 / ヨルシカ\r\n0:13:00 息の仕方も選べないのに / 五木つかさ\r\n0:17:30 六等星 / ざらめ\r\n0:22:09 スピカ / ロクデナシ\r\n0:25:35 変わらないもの / 奥華子\r\n\n\n【 SET LIST 】🐺MCタイムスタンプ有ver.\r\n0:02:49 スタート\r\n0:03:49 泥中に咲く / はりー\r\n0:08:35 MC①\r\n0:08:48 藍二乗 / ヨルシカ\r\n0:13:00 息の仕方も選べないのに / 五木つかさ\r\n0:16:27 MC②\r\n0:17:30 六等星 / ざらめ\r\n0:22:09 スピカ / ロクデナシ\r\n0:25:14 MC③\r\n0:25:35 変わらないもの / 奥華子\r\n0:30:16 MC④",
+        "songCount": 12,
+        "timestampFirst": "0:03:49",
+        "timestampSecFirst": 229
+      }
+    },
+    {
+      "videoId": "mH9wsFkAYEI",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "title": "【 #メロカラ歌枠リレー 】セルフ受肉Vsingerが透明な水色をお届けします🎤【#うら飯紺汰 ： #歌枠：#Vtuber ：#karaoke  】",
+      "actualStartTime": "2025-11-23T12:30:32Z",
+      "durationSec": 1790,
+      "setlistType": "partial",
+      "songCount": 4,
+      "setlistComment": {
+        "rawText": "🎨メロディ×カラーズ歌枠リレー💙\nセットリスト／Set List\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n0:02:12 #01. アイロニ〈Irony〉/ すこっぷ\n0:09:12 #02. 初めての恋が終わる時〈Hajimete no Koi ga Owarutoki〉/ Supercell\n0:19:15 #03. 僕は音楽を辞めた〈Boku wa Ongaku wo Yameta〉/ ヨルシカ\n0:25:02 #04. 溜生〈Tameiki〉/ うら飯紺汰 3rd オリジナル楽曲\n\n0:29:21 ",
+        "songCount": 4,
+        "timestampFirst": "0:02:12",
+        "timestampSecFirst": 132
+      }
+    }
+  ]
+}

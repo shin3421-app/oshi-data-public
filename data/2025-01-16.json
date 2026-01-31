@@ -1,0 +1,22 @@
+{
+  "date": "2025-01-16",
+  "streams": [
+    {
+      "videoId": "M-XmXALiyuQ",
+      "channelId": "UCVaF0JK21BWNs2XQBjav2Gw",
+      "channelName": "潮成実",
+      "oshiName": "潮成実",
+      "title": "【 #KARAOKE 歌枠 】初見さん歓迎🔴今！？中性的ボイスによる”新春・めでたい曲”あけおめ歌枠🐍🎶【 #Vsinger 潮成実 】",
+      "actualStartTime": "2025-01-16T12:25:11Z",
+      "durationSec": 6611,
+      "setlistType": "partial",
+      "songCount": 7,
+      "setlistComment": {
+        "rawText": "🌊Set List🎶\n\n0. 5:12 配信開始 \n1. 15:01 マツケンサンバⅡ / 松平健\n2. 22:06 ハレ晴レユカイ / 平野綾、茅原実里、後藤邑子\n3. 30:19 GO!!! / FLOW（PON!）\n4. 31:00 GO!!! / FLOW（Take2）\n5. 1:05:24 Climax Jump / AAA\n6. 1:12:51 Happiness / 嵐\n7. 1:39:34 Blessing feat. VOCALOIDS / alyosy",
+        "songCount": 7,
+        "timestampFirst": "15:01",
+        "timestampSecFirst": 901
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "date": "2025-01-11",
+  "streams": [
+    {
+      "videoId": "3Ss2Eax0uD8",
+      "channelId": "UCVaF0JK21BWNs2XQBjav2Gw",
+      "channelName": "潮成実",
+      "oshiName": "潮成実",
+      "title": "【 #歌枠レイド 】集結編：「オレはボマーだ。」すべてを爆風で吹き飛ばす勢いのある歌枠！💥【 潮成実 (爆撃士・ボマー) 】",
+      "actualStartTime": "2025-01-11T06:05:26Z",
+      "durationSec": 3680,
+      "setlistType": "partial",
+      "songCount": 7,
+      "setlistComment": {
+        "rawText": "🌊セットリスト🌊\n0:00:40  01. 微笑みの爆弾 / 馬渡松子\n0:14:20  02. 花火 / aiko\n0:23:32  03. じょいふる / いきものがかり\n0:31:41  04. ミックスナッツ / Official髭男dism\n0:35:58  05. 今夜はから騒ぎ / 東京事変\n0:44:27  06. タイミング ～Timing～ / BLACK BISCUITS\n0:49:40  07. 限界突破×サバイバー / 氷川きよし",
+        "songCount": 7,
+        "timestampFirst": "0:00:40",
+        "timestampSecFirst": 40
+      }
+    },
+    {
+      "videoId": "sFM2nawhb3M",
+      "channelId": "UCVaF0JK21BWNs2XQBjav2Gw",
+      "channelName": "潮成実",
+      "oshiName": "潮成実",
+      "title": "【 #歌枠レイド 】決戦編：切り込み隊長参ります！爆発力のある歌声を邪神にくらわす💥【 潮成実 (爆撃士・ボマー) 】",
+      "actualStartTime": "2025-01-11T09:28:26Z",
+      "durationSec": 1881,
+      "setlistType": "partial",
+      "songCount": 6,
+      "setlistComment": {
+        "rawText": "🌊セットリスト🌊\n0:02:44  01. Sweep Away / 潮成実\n0:05:48  02. ライラック / Mrs. GREEN APPLE\n0:14:05  03. きっとね！ / 中村佳穂\n0:18:10  04. 創造 / 星野源\n0:22:09  05. 人生は夢だらけ / 椎名林檎\n0:26:37  06. U / millennium parade × Belle",
+        "songCount": 6,
+        "timestampFirst": "0:02:44",
+        "timestampSecFirst": 164
+      }
+    }
+  ]
+}

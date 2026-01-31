@@ -1,0 +1,39 @@
+{
+  "date": "2025-11-02",
+  "streams": [
+    {
+      "videoId": "UB1CsPKPJ4g",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【#テックシーV学祭歌枠リレー】アニソンでV学祭超絶盛り上がろうー‼️【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2025-11-02T06:18:43Z",
+      "durationSec": 1908,
+      "setlistType": "partial",
+      "songCount": 5,
+      "setlistComment": {
+        "rawText": "テックシーV学祭歌枠リレー\r\n02:44 残響散歌 / Aimer\r\n08:51 ライオン / May'n\r\n14:01 星間飛行 / ランカ・リー=中島愛\r\n19:14 GLAMOROUS SKY / 中島美嘉\r\n26:48 Butter-Fly~tri.Version~ / 和田光司",
+        "songCount": 5,
+        "timestampFirst": "02:44",
+        "timestampSecFirst": 164
+      }
+    },
+    {
+      "videoId": "a8RyvtbQcN4",
+      "channelId": "UCRXWpdEe987CRaZt5HNf-WA",
+      "channelName": "ファム・ファタル - (f)EMME FATALE",
+      "oshiName": "ファム・ファタル - (f)EMME FATALE",
+      "title": "【#Vandarise 生バンド歌枠リレー】生バンドで歌枠リレー！？最高のグルーヴをお届け！【ファム・ファタル/LADY:MUSE PRODUCTION】",
+      "actualStartTime": "2025-11-02T11:30:26Z",
+      "durationSec": 1766,
+      "setlistType": "partial",
+      "songCount": 3,
+      "setlistComment": {
+        "rawText": "#Vandarise 生バンド歌枠リレー\n\n0:01:36 開始&説明\n0:03:07 遭難/東京事変\n0:08:36 テレキャスター・ストライプ\n                                                  /ポルカドットスティングレイ\n0:14:52 Shake it off/Taylor Swift\n0:22:50 新宝島/サカナクション\n\n0:22:10 新宝島前のファ厶様と今のファ厶様",
+        "songCount": 3,
+        "timestampFirst": "0:03:07",
+        "timestampSecFirst": 187
+      }
+    }
+  ]
+}

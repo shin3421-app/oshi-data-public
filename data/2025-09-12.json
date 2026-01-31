@@ -1,0 +1,39 @@
+{
+  "date": "2025-09-12",
+  "streams": [
+    {
+      "videoId": "WVYJKmaTMoo",
+      "channelId": "UCRXWpdEe987CRaZt5HNf-WA",
+      "channelName": "ファム・ファタル - (f)EMME FATALE",
+      "oshiName": "ファム・ファタル - (f)EMME FATALE",
+      "title": "【 #Karaoke 】ファムとアビのハートフルコラボ歌枠会場🎤【ファム・ファタル / アビス・ソング・シンドローム #vtuber】",
+      "actualStartTime": "2025-09-12T10:00:55Z",
+      "durationSec": 6711,
+      "setlistType": "partial",
+      "songCount": 5,
+      "setlistComment": {
+        "rawText": "0:05:24 Wake Up, Get Up, Get Out There\n                                                       /Lyn(🐙🎙️🌌🐍💄)\n0:09:57 トークパート【自己紹介と音割れ】\n0:20:20 忘れられないの\n                                 /サカナクション(🐙🎙️🌌🐍💄)\n0:24:28 新宝島/サカナクション(🐙🎙️🌌🐍💄)\n0:29:31 トークパート【挨拶と変わるセトリ】\n0:34:11 Colors Flying High/Lyn(🐍💄)\n0:38:12 トークパート【イラストの話】\n0:45:25 Beautiful World\n                                   /宇多田ヒカル(🐙🎙️🌌🐍💄)\n0:50:58 歌舞伎町の女王/椎名林檎(🐙🎙️🌌🐍💄)\n0:53:48 トークパート【口笛や楽器】\n1:06:25 Live&Learn/CRUSH40(🐙🎙️🌌)\n1:10:51 トークパート【自由な娘と奔走パパ】\n1:19:16 残酷な天使のテーゼ\n                                             /高橋洋子(🐙🎙️🌌🐍💄)\n1:23:25 トークパート【どこから観るべき？とG】\n1:29:58 Break Free\n                    /Ariana Grande and Zedd(🐙🎙️🌌🐍💄)\n1:33:31 トークパート【レディミュについて】\n1:41:58 ビビデバ/星街すいせい(🐙🎙️🌌🐍💄)\n1:44:56 感想と締めの挨拶",
+        "songCount": 5,
+        "timestampFirst": "0:24:28",
+        "timestampSecFirst": 1468
+      }
+    },
+    {
+      "videoId": "w-tVhpv07LA",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】ゆったり歌枠！- ハニカムステーション！-181【HACHI 】",
+      "actualStartTime": "2025-09-12T12:00:57Z",
+      "durationSec": 5378,
+      "setlistType": "partial",
+      "songCount": 7,
+      "setlistComment": {
+        "rawText": "1  . 01:02 初めての恋が終わる時/ryo\r\n2  . 25:59 First Love/宇多田ヒカル\r\n3  . 31:59 ブルーアンバー/back number\r\n4  . 36:20 風になる/辻亞彌乃\r\n5  . 47:46 少女レイ/みきとP  \r\n6  . 1:13:00 涙そうそう/夏川りみ\r\n7  . 1:21:28 more than words/羊文学",
+        "songCount": 7,
+        "timestampFirst": "01:02",
+        "timestampSecFirst": 62
+      }
+    }
+  ]
+}

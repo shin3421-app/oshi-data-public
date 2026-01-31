@@ -1,0 +1,22 @@
+{
+  "date": "2023-12-14",
+  "streams": [
+    {
+      "videoId": "9SwrLwNrUTw",
+      "channelId": "UC5UItsTdKsAW2dq249v_tVw",
+      "channelName": "白石香月🌙Kaduki Shiraishi",
+      "oshiName": "白石香月🌙Kaduki Shiraishi",
+      "title": "【歌枠/Singing stream】初めての歌枠を縦型配信で🌙 #karaoke #歌枠",
+      "actualStartTime": "2023-12-14T14:01:54Z",
+      "durationSec": 5959,
+      "setlistType": "full",
+      "songCount": 12,
+      "setlistComment": {
+        "rawText": "🌙セットリスト🌙\n\n8:38 海の幽霊 / 米津玄師\n17:40 ルームNo.4 / 超学生\n25:57 INSANE / Black Gryph0n & Baasik\n33:15 丸の内サディスティック / 椎名林檎\n40:42 目抜き通り / 椎名林檎とトータス松本\n47:14 君の知らない物語 / supercell\n52:36 千本桜 / 黒うさP\n59:10 アウトサイダー / Eve\n1:07:54 からくりピエロ / 40mP\n1:16:07 第六感 / Reol\n1:23:33 酔いどれ知らず / Kanaria\n1:31:53 世界の約束 / 倍賞千恵子",
+        "songCount": 12,
+        "timestampFirst": "8:38",
+        "timestampSecFirst": 518
+      }
+    }
+  ]
+}
