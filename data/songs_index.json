@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-02-10T21:30:24Z",
+  "generatedAt": "2026-02-11T05:15:59Z",
   "range": {
     "files": 176,
-    "songs": 14526
+    "songs": 14538
   },
   "songs": [
     {
@@ -1696,6 +1696,150 @@
       "t": "1:06:04",
       "sec": 3964,
       "label": "配信終了"
+    },
+    {
+      "date": "2026-02-10",
+      "videoId": "K28SuNRo-EI",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "こんばんわ　リハビリ歌配信【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-02-10T09:53:44Z",
+      "t": "0:41",
+      "sec": 41,
+      "label": "声入り"
+    },
+    {
+      "date": "2026-02-10",
+      "videoId": "K28SuNRo-EI",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "こんばんわ　リハビリ歌配信【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-02-10T09:53:44Z",
+      "t": "1:00",
+      "sec": 60,
+      "label": "OH MY LITTLE GIRL/尾崎豊"
+    },
+    {
+      "date": "2026-02-10",
+      "videoId": "K28SuNRo-EI",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "こんばんわ　リハビリ歌配信【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-02-10T09:53:44Z",
+      "t": "5:56",
+      "sec": 356,
+      "label": "モノクロ/HY"
+    },
+    {
+      "date": "2026-02-10",
+      "videoId": "K28SuNRo-EI",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "こんばんわ　リハビリ歌配信【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-02-10T09:53:44Z",
+      "t": "11:26",
+      "sec": 686,
+      "label": "なんでもないや/RADWIMPS"
+    },
+    {
+      "date": "2026-02-10",
+      "videoId": "K28SuNRo-EI",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "こんばんわ　リハビリ歌配信【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-02-10T09:53:44Z",
+      "t": "17:52",
+      "sec": 1072,
+      "label": "Wherever you are/ONEOKROCK"
+    },
+    {
+      "date": "2026-02-10",
+      "videoId": "K28SuNRo-EI",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "こんばんわ　リハビリ歌配信【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-02-10T09:53:44Z",
+      "t": "23:22",
+      "sec": 1402,
+      "label": "ラフ・メイカー/BUMP OF CHICKEN"
+    },
+    {
+      "date": "2026-02-10",
+      "videoId": "K28SuNRo-EI",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "こんばんわ　リハビリ歌配信【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-02-10T09:53:44Z",
+      "t": "27:12",
+      "sec": 1632,
+      "label": "ギルド/BUMP OF CHICKEN"
+    },
+    {
+      "date": "2026-02-10",
+      "videoId": "K28SuNRo-EI",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "こんばんわ　リハビリ歌配信【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-02-10T09:53:44Z",
+      "t": "33:33",
+      "sec": 2013,
+      "label": "ロストマン/BUMP OF CHICKEN"
+    },
+    {
+      "date": "2026-02-10",
+      "videoId": "K28SuNRo-EI",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "こんばんわ　リハビリ歌配信【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-02-10T09:53:44Z",
+      "t": "39:15",
+      "sec": 2355,
+      "label": "風の日/ELLEGARDEN"
+    },
+    {
+      "date": "2026-02-10",
+      "videoId": "K28SuNRo-EI",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "こんばんわ　リハビリ歌配信【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-02-10T09:53:44Z",
+      "t": "44:01",
+      "sec": 2641,
+      "label": "高架線/ELLEGARDEN"
+    },
+    {
+      "date": "2026-02-10",
+      "videoId": "K28SuNRo-EI",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "こんばんわ　リハビリ歌配信【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-02-10T09:53:44Z",
+      "t": "47:56",
+      "sec": 2876,
+      "label": "真赤/My Hair is Bad"
+    },
+    {
+      "date": "2026-02-10",
+      "videoId": "K28SuNRo-EI",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "こんばんわ　リハビリ歌配信【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-02-10T09:53:44Z",
+      "t": "51:40",
+      "sec": 3100,
+      "label": "IRIS OUT/米津玄師"
     },
     {
       "date": "2026-02-09",
@@ -174321,7 +174465,7 @@
   "topSongs": [
     {
       "key": "声入り",
-      "count": 87
+      "count": 88
     },
     {
       "key": "end",
@@ -174636,6 +174780,14 @@
       "count": 7
     },
     {
+      "key": "真赤/my hair is bad",
+      "count": 7
+    },
+    {
+      "key": "iris out/米津玄師",
+      "count": 7
+    },
+    {
       "key": "~ お名前呼び",
       "count": 7
     },
@@ -174752,14 +174904,6 @@
       "count": 6
     },
     {
-      "key": "真赤/my hair is bad",
-      "count": 6
-    },
-    {
-      "key": "iris out/米津玄師",
-      "count": 6
-    },
-    {
       "key": "僕のこと / mrs. green apple",
       "count": 6
     },
@@ -174773,6 +174917,10 @@
     },
     {
       "key": "all alone with you / egoist",
+      "count": 6
+    },
+    {
+      "key": "風の日/ellegarden",
       "count": 6
     },
     {
@@ -174912,6 +175060,18 @@
       "count": 5
     },
     {
+      "key": "oh my little girl/尾崎豊",
+      "count": 5
+    },
+    {
+      "key": "ラフ・メイカー/bump of chicken",
+      "count": 5
+    },
+    {
+      "key": "ロストマン/bump of chicken",
+      "count": 5
+    },
+    {
       "key": "ghost of a smile / egoist",
       "count": 5
     },
@@ -174921,10 +175081,6 @@
     },
     {
       "key": "奏/スキマスイッチ",
-      "count": 5
-    },
-    {
-      "key": "風の日/ellegarden",
       "count": 5
     },
     {
@@ -175105,18 +175261,6 @@
     },
     {
       "key": "別の人の彼女になったよ / wacci",
-      "count": 4
-    },
-    {
-      "key": "季節は次々死んでいく / amazarashi",
-      "count": 4
-    },
-    {
-      "key": "心做し / 蝶々p",
-      "count": 4
-    },
-    {
-      "key": "靴の花火 / ヨルシカ",
       "count": 4
     }
   ]

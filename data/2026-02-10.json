@@ -2,13 +2,30 @@
   "date": "2026-02-10",
   "streams": [
     {
+      "videoId": "K28SuNRo-EI",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "こんばんわ　リハビリ歌配信【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-02-10T09:53:44Z",
+      "durationSec": 3262,
+      "setlistType": "full",
+      "songCount": 11,
+      "setlistComment": {
+        "rawText": "0:41 声入り\n\n1:00 OH MY LITTLE GIRL/尾崎豊\n5:56 モノクロ/HY\n11:26 なんでもないや/RADWIMPS\n17:52 Wherever you are/ONEOKROCK\n23:22 ラフ・メイカー/BUMP OF CHICKEN\n27:12 ギルド/BUMP OF CHICKEN\n33:33 ロストマン/BUMP OF CHICKEN\n39:15 風の日/ELLEGARDEN\n44:01 高架線/ELLEGARDEN\n47:56 真赤/My Hair is Bad\n51:40 IRIS OUT/米津玄師\n\nリハビリたくさん感謝！いつもありがとう💜",
+        "songCount": 11,
+        "timestampFirst": "1:00",
+        "timestampSecFirst": 60
+      }
+    },
+    {
       "videoId": "hY4MxYleGgg",
       "channelId": "UC1CXNJGwnUUVawDeCwwOmFg",
       "channelName": "鈴鳴すばる🐶⚠️まりなす",
       "oshiName": "鈴鳴すばる🐶⚠️まりなす",
       "title": "【#りんすばの歌】📞🐶⚠まりなすの本気の歌枠！！！燈舞りん×鈴鳴すばる",
       "actualStartTime": "2026-02-10T10:59:26Z",
-      "durationSec": 4082,
+      "durationSec": 4087,
       "setlistType": "partial",
       "songCount": 9,
       "setlistComment": {
