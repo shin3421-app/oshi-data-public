@@ -1,10 +1,382 @@
 {
-  "generatedAt": "2026-02-11T05:15:59Z",
+  "generatedAt": "2026-02-11T21:21:47Z",
   "range": {
-    "files": 176,
-    "songs": 14538
+    "files": 177,
+    "songs": 14569
   },
   "songs": [
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "0:17:10",
+      "sec": 1030,
+      "label": "#01. 夜行〈Yakou〉/ ヨルシカ"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "0:41:39",
+      "sec": 2499,
+      "label": "#02. Celluloid / baker"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "0:57:47",
+      "sec": 3467,
+      "label": "#03. 斜陽〈Shayou〉/ ヨルシカ"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "1:09:23",
+      "sec": 4163,
+      "label": "#04. フリージア〈Freesia〉/ Uru"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "1:24:47",
+      "sec": 5087,
+      "label": "#05. 翡翠のまち〈Hisui no Machi〉/ メル"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "1:32:12",
+      "sec": 5532,
+      "label": "#06. 雪の華〈Yuki no Hana〉/ 中島美嘉"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "1:40:31",
+      "sec": 6031,
+      "label": "#07. フレンズ〈Friends〉/ REBECCA"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "1:51:59",
+      "sec": 6719,
+      "label": "#08. promise / 広瀬香美"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "2:02:24",
+      "sec": 7344,
+      "label": "#09. チェリー〈Cherry〉/ スピッツ"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "2:14:27",
+      "sec": 8067,
+      "label": "#10. 青いベンチ〈Aoi Benchi〉/ サスケ"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "2:25:56",
+      "sec": 8756,
+      "label": "#11. 怪物〈Kaibutsu〉/ YOASOBI"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "2:34:07",
+      "sec": 9247,
+      "label": "#12. 366日〈366 Nichi〉/ HY"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "2:46:54",
+      "sec": 10014,
+      "label": "#13. First Love / 宇多田ヒカル"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "2:54:57",
+      "sec": 10497,
+      "label": "#14. それがあなたの幸せとしても〈Sore ga Anata no Shiawase to Shitemo〉/ Heavens"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "3:08:14",
+      "sec": 11294,
+      "label": "#15. 君の知らない物語〈Kimi no Shiranai Monogatari〉/ Supercell"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "3:26:39",
+      "sec": 12399,
+      "label": "練習&チューニング中"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "-CPkmsyYtm8",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelName": "うら飯　紺汰 - Conta Urameshi -",
+      "oshiName": "うら飯　紺汰 - Conta Urameshi -",
+      "title": "【 #歌枠 #karaoke 】０時までに！チャンネル登録＋１０人挑戦配信🩵初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
+      "actualStartTime": "2026-02-11T12:01:29Z",
+      "t": "3:37:10",
+      "sec": 13030,
+      "label": "次回配信『2/14(土) 恋愛曲縛り歌枠』"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "D2-jeNBKVH4",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【 #歌枠 / Sing 】本日チケ発！！たのしくいっぱい歌うよ～！！！ #あかつきるき 】",
+      "actualStartTime": "2026-02-11T12:00:01Z",
+      "t": "1:07",
+      "sec": 67,
+      "label": "Swallowtail Batterflly ～あいのうた～ / YEN TOWN BAND"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "D2-jeNBKVH4",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【 #歌枠 / Sing 】本日チケ発！！たのしくいっぱい歌うよ～！！！ #あかつきるき 】",
+      "actualStartTime": "2026-02-11T12:00:01Z",
+      "t": "16:22",
+      "sec": 982,
+      "label": "秒針を噛む / ずっと真夜中でいいのに。"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "D2-jeNBKVH4",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【 #歌枠 / Sing 】本日チケ発！！たのしくいっぱい歌うよ～！！！ #あかつきるき 】",
+      "actualStartTime": "2026-02-11T12:00:01Z",
+      "t": "22:00",
+      "sec": 1320,
+      "label": "靴の花火 / ヨルシカ"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "D2-jeNBKVH4",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【 #歌枠 / Sing 】本日チケ発！！たのしくいっぱい歌うよ～！！！ #あかつきるき 】",
+      "actualStartTime": "2026-02-11T12:00:01Z",
+      "t": "28:39",
+      "sec": 1719,
+      "label": "G4L / Giga"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "D2-jeNBKVH4",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【 #歌枠 / Sing 】本日チケ発！！たのしくいっぱい歌うよ～！！！ #あかつきるき 】",
+      "actualStartTime": "2026-02-11T12:00:01Z",
+      "t": "33:24",
+      "sec": 2004,
+      "label": "ロストワンの号哭 / Neru"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "D2-jeNBKVH4",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【 #歌枠 / Sing 】本日チケ発！！たのしくいっぱい歌うよ～！！！ #あかつきるき 】",
+      "actualStartTime": "2026-02-11T12:00:01Z",
+      "t": "39:46",
+      "sec": 2386,
+      "label": "unravel / TK from 凛として時雨"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "D2-jeNBKVH4",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【 #歌枠 / Sing 】本日チケ発！！たのしくいっぱい歌うよ～！！！ #あかつきるき 】",
+      "actualStartTime": "2026-02-11T12:00:01Z",
+      "t": "45:41",
+      "sec": 2741,
+      "label": "遠恋 / RADWIMPS"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "D2-jeNBKVH4",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【 #歌枠 / Sing 】本日チケ発！！たのしくいっぱい歌うよ～！！！ #あかつきるき 】",
+      "actualStartTime": "2026-02-11T12:00:01Z",
+      "t": "57:22",
+      "sec": 3442,
+      "label": "月光 / キタニタツヤ・はるまきごはん"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "D2-jeNBKVH4",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【 #歌枠 / Sing 】本日チケ発！！たのしくいっぱい歌うよ～！！！ #あかつきるき 】",
+      "actualStartTime": "2026-02-11T12:00:01Z",
+      "t": "1:02:14",
+      "sec": 3734,
+      "label": "眩しいDNAだけ / ずっと真夜中でいいのに。"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "D2-jeNBKVH4",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【 #歌枠 / Sing 】本日チケ発！！たのしくいっぱい歌うよ～！！！ #あかつきるき 】",
+      "actualStartTime": "2026-02-11T12:00:01Z",
+      "t": "1:28:24",
+      "sec": 5304,
+      "label": "蜜月アン・ドゥ・トロワ / DATEKEN"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "D2-jeNBKVH4",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【 #歌枠 / Sing 】本日チケ発！！たのしくいっぱい歌うよ～！！！ #あかつきるき 】",
+      "actualStartTime": "2026-02-11T12:00:01Z",
+      "t": "1:32:43",
+      "sec": 5563,
+      "label": "カガリビト / millstones"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "D2-jeNBKVH4",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【 #歌枠 / Sing 】本日チケ発！！たのしくいっぱい歌うよ～！！！ #あかつきるき 】",
+      "actualStartTime": "2026-02-11T12:00:01Z",
+      "t": "1:37:54",
+      "sec": 5874,
+      "label": "ライラック / 美波"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "D2-jeNBKVH4",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【 #歌枠 / Sing 】本日チケ発！！たのしくいっぱい歌うよ～！！！ #あかつきるき 】",
+      "actualStartTime": "2026-02-11T12:00:01Z",
+      "t": "1:45:35",
+      "sec": 6335,
+      "label": "怪獣の花唄 / Vaundy"
+    },
+    {
+      "date": "2026-02-11",
+      "videoId": "D2-jeNBKVH4",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【 #歌枠 / Sing 】本日チケ発！！たのしくいっぱい歌うよ～！！！ #あかつきるき 】",
+      "actualStartTime": "2026-02-11T12:00:01Z",
+      "t": "1:53:59",
+      "sec": 6839,
+      "label": "ヴァイ"
+    },
     {
       "date": "2026-02-10",
       "videoId": "Uc7qt1lNxoA",
@@ -174484,12 +174856,12 @@
       "count": 23
     },
     {
-      "key": "スタート",
+      "key": "ヴァイ",
       "count": 22
     },
     {
-      "key": "ヴァイ",
-      "count": 21
+      "key": "スタート",
+      "count": 22
     },
     {
       "key": "お名前呼び",
@@ -174504,11 +174876,11 @@
       "count": 18
     },
     {
-      "key": "残響散歌 / aimer",
-      "count": 16
+      "key": "怪獣の花唄 / vaundy",
+      "count": 17
     },
     {
-      "key": "怪獣の花唄 / vaundy",
+      "key": "残響散歌 / aimer",
       "count": 16
     },
     {
@@ -174812,6 +175184,10 @@
       "count": 7
     },
     {
+      "key": "秒針を噛む / ずっと真夜中でいいのに。",
+      "count": 7
+    },
+    {
       "key": "mc⑥",
       "count": 7
     },
@@ -174944,10 +175320,6 @@
       "count": 6
     },
     {
-      "key": "秒針を噛む / ずっと真夜中でいいのに。",
-      "count": 6
-    },
-    {
       "key": "夜行 / ヨルシカ",
       "count": 6
     },
@@ -175057,6 +175429,10 @@
     },
     {
       "key": "jane doe/米津玄師,宇多田ヒカル",
+      "count": 5
+    },
+    {
+      "key": "靴の花火 / ヨルシカ",
       "count": 5
     },
     {
@@ -175257,10 +175633,6 @@
     },
     {
       "key": "ブルーアンバー / back number",
-      "count": 4
-    },
-    {
-      "key": "別の人の彼女になったよ / wacci",
       "count": 4
     }
   ]
