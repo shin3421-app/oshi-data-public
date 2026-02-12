@@ -1,10 +1,1450 @@
 {
-  "generatedAt": "2026-02-12T05:13:31Z",
+  "generatedAt": "2026-02-12T21:19:06Z",
   "range": {
-    "files": 177,
-    "songs": 14569
+    "files": 178,
+    "songs": 14689
   },
   "songs": [
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "0:40",
+      "sec": 40,
+      "label": "こんばんは🐈‍⬛🎵"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "2:34",
+      "sec": 154,
+      "label": "🎧️ 夜行🦌🎵/ヨルシカさん"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "7:15",
+      "sec": 435,
+      "label": "🎧️ 楓🍁/スピッツさん"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "12:30",
+      "sec": 750,
+      "label": "📌 ポットの音🎵"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "12:49",
+      "sec": 769,
+      "label": "🎸 チューニング"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "13:33",
+      "sec": 813,
+      "label": "🎧️ 猫🐈‍⬛/あいみょんさん"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "20:00",
+      "sec": 1200,
+      "label": "🎧️ 風になる🍃/つじあやのさん"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "25:30",
+      "sec": 1530,
+      "label": "🎧️ 丸の内サディスティック/椎名 林檎さん"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "29:44",
+      "sec": 1784,
+      "label": "🎧️ ただ/クリープハイプさん🎸"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "34:14",
+      "sec": 2054,
+      "label": "🎧️ 🐈‍⬛🎵 34:52 月灯りふんわり落ちてくる夜/小川 七生さん"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "40:50",
+      "sec": 2450,
+      "label": "🎧️ ふたりごと/RADWIMPSさん"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "46:43",
+      "sec": 2803,
+      "label": "🎧️ 🐈‍⬛🎵 46:50 火星人🐙/ヨルシカさん🦌"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "50:54",
+      "sec": 3054,
+      "label": "📌 コールアンドレスポンス🎸🎵"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "51:10",
+      "sec": 3070,
+      "label": "🎧️ 結婚しようよ/吉田 拓郎さん"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "58:56",
+      "sec": 3536,
+      "label": "🎧️ おしゃかしゃま/RADWIMPSさん"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "1:03:32",
+      "sec": 3812,
+      "label": "🎧️ Bye by me/Vaundyさん"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "1:08:13",
+      "sec": 4093,
+      "label": "🎧️ メルト/supercellさん"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "1:14:52",
+      "sec": 4492,
+      "label": "🎧️ サイダーのように言葉が湧き上がる/Never young beachさん"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "a70whxZny4E",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜刻々と終わっていく今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-12T14:48:42Z",
+      "t": "1:18:48",
+      "sec": 4728,
+      "label": "🎧️ ピノ/ズーカラデルさん"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "39BVMXrhTkU",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】重大告知な～！！！！！🌙🎼【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-02-12T14:07:20Z",
+      "t": "26:45",
+      "sec": 1605,
+      "label": "366日 / HY"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "39BVMXrhTkU",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】重大告知な～！！！！！🌙🎼【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-02-12T14:07:20Z",
+      "t": "35:41",
+      "sec": 2141,
+      "label": "蝶々結び / Aimer"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "39BVMXrhTkU",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】重大告知な～！！！！！🌙🎼【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-02-12T14:07:20Z",
+      "t": "41:20",
+      "sec": 2480,
+      "label": "明日への手紙 / 手嶌葵"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "39BVMXrhTkU",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】重大告知な～！！！！！🌙🎼【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-02-12T14:07:20Z",
+      "t": "49:49",
+      "sec": 2989,
+      "label": "たばこ / コレサワ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "39BVMXrhTkU",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】重大告知な～！！！！！🌙🎼【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-02-12T14:07:20Z",
+      "t": "59:32",
+      "sec": 3572,
+      "label": "10月無口な君を忘れる / あたらよ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "39BVMXrhTkU",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】重大告知な～！！！！！🌙🎼【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-02-12T14:07:20Z",
+      "t": "02:17:00",
+      "sec": 8220,
+      "label": "奏 / スキマスイッチ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "39BVMXrhTkU",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】重大告知な～！！！！！🌙🎼【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-02-12T14:07:20Z",
+      "t": "02:30:09",
+      "sec": 9009,
+      "label": "心做し / 蝶々P"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "39BVMXrhTkU",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】重大告知な～！！！！！🌙🎼【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-02-12T14:07:20Z",
+      "t": "02:39:07",
+      "sec": 9547,
+      "label": "拝啓、はじまりの色 / ヨノ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "3:09",
+      "sec": 189,
+      "label": "1曲目：115万キロのフィルム／Official髭男dism"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "16:46",
+      "sec": 1006,
+      "label": "2曲目：青いベンチ／サスケ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "23:57",
+      "sec": 1437,
+      "label": "3曲目：楓／スピッツ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "29:27",
+      "sec": 1767,
+      "label": "4曲目：少女レイ／みきとP"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "34:12",
+      "sec": 2052,
+      "label": "5曲目：トリノコシティ／40mP"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "37:48",
+      "sec": 2268,
+      "label": "6曲目：サリシノハラ／みきとP"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "46:51",
+      "sec": 2811,
+      "label": "7曲目：からくりピエロ／40mP"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "51:37",
+      "sec": 3097,
+      "label": "8曲目：モザイクロール／DECO*27"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "54:51",
+      "sec": 3291,
+      "label": "9曲目：夜咄ディセイブ／じん"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "1:01:15",
+      "sec": 3675,
+      "label": "10曲目： いろは唄／銀サク"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "1:08:23",
+      "sec": 4103,
+      "label": "11曲目：1925／冨田悠斗(とみー/T-POCKET"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "1:12:28",
+      "sec": 4348,
+      "label": "12曲目：バレリーコ／みきとP"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "1:18:59",
+      "sec": 4739,
+      "label": "13曲目：モノクロ∞ブルースカイ／のぼる↑"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "1:28:14",
+      "sec": 5294,
+      "label": "14曲目：白い雪のプリンセスは／のぼる↑"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "1:32:55",
+      "sec": 5575,
+      "label": "15曲目：若者のすべて／フジファブリック"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "1:38:52",
+      "sec": 5932,
+      "label": "16曲目： 卒業写真／荒井由実"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "1:44:31",
+      "sec": 6271,
+      "label": "17曲目：春よ、来い／松任谷由美"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "1:50:20",
+      "sec": 6620,
+      "label": "18曲目：ハナミズキ／一青窈"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "1:56:43",
+      "sec": 7003,
+      "label": "19曲目： いつも何度でも／木村弓"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "2:03:52",
+      "sec": 7432,
+      "label": "20曲目：悪魔の子／ヒグチアイ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "2:08:49",
+      "sec": 7729,
+      "label": "21曲目：テルーの唄／手嶌葵"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "2:15:34",
+      "sec": 8134,
+      "label": "22曲目：糸／中島みゆき"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "2:22:05",
+      "sec": 8525,
+      "label": "23曲目：蝶々結び／Aimer"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "2:27:47",
+      "sec": 8867,
+      "label": "24曲目：ふたりごと／RADWIMPS(久々うろ覚えチャレンジ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "2:30:34",
+      "sec": 9034,
+      "label": "25曲目：有心論／RADWINPS"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "2:38:05",
+      "sec": 9485,
+      "label": "26曲目：花に亡霊／ヨルシカ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "2:42:11",
+      "sec": 9731,
+      "label": "27曲目：夜明けと蛍／n-buna"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "2:47:58",
+      "sec": 10078,
+      "label": "28曲目：青と夏／Mrs. GREEN APPLE"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "2:54:56",
+      "sec": 10496,
+      "label": "29曲目： さよならの夏 ～コクリコ坂から～／手嶌葵"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "3:08:39",
+      "sec": 11319,
+      "label": "31曲目：Swallowtail Butterfly～あいのうた～／YEN TOWN BAND"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "3:14:34",
+      "sec": 11674,
+      "label": "32曲目：晩餐歌／tuki."
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "3:21:06",
+      "sec": 12066,
+      "label": "33曲目：美しい鰭／スピッツ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "3:32:38",
+      "sec": 12758,
+      "label": "34曲目：さよならミッドナイト／大柴広己"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "3:38:52",
+      "sec": 13132,
+      "label": "35曲目：猫／DISH//"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "3:46:25",
+      "sec": 13585,
+      "label": "36曲目：ビビデバ／星街すいせい"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "whvC87nCR4w",
+      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
+      "channelName": "MEDA",
+      "oshiName": "MEDA",
+      "title": "【#歌枠】やさしく。でも、本気で。ピアノ伴奏縛り┆睡眠導入×作業BGM【MEDA / RK Music】",
+      "actualStartTime": "2026-02-12T13:01:44Z",
+      "t": "4:02:33",
+      "sec": 14553,
+      "label": "37曲目：瑠璃色の地球／松田聖子"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "2AklhIDoLGE",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】なにが聴きたい？｜Culua′s PlayList 22【CULUA】",
+      "actualStartTime": "2026-02-12T11:01:01Z",
+      "t": "13:52",
+      "sec": 832,
+      "label": "01.モニタリング / DECO*27"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "2AklhIDoLGE",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】なにが聴きたい？｜Culua′s PlayList 22【CULUA】",
+      "actualStartTime": "2026-02-12T11:01:01Z",
+      "t": "19:27",
+      "sec": 1167,
+      "label": "02. おちゃめ機能 / ゴジマジP"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "2AklhIDoLGE",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】なにが聴きたい？｜Culua′s PlayList 22【CULUA】",
+      "actualStartTime": "2026-02-12T11:01:01Z",
+      "t": "25:09",
+      "sec": 1509,
+      "label": "03. ビビデバ / 星街すいせい"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "2AklhIDoLGE",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】なにが聴きたい？｜Culua′s PlayList 22【CULUA】",
+      "actualStartTime": "2026-02-12T11:01:01Z",
+      "t": "30:43",
+      "sec": 1843,
+      "label": "04. メルト / ryo"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "2AklhIDoLGE",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】なにが聴きたい？｜Culua′s PlayList 22【CULUA】",
+      "actualStartTime": "2026-02-12T11:01:01Z",
+      "t": "37:21",
+      "sec": 2241,
+      "label": "05. 勇者 / YOASOBI"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "2AklhIDoLGE",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】なにが聴きたい？｜Culua′s PlayList 22【CULUA】",
+      "actualStartTime": "2026-02-12T11:01:01Z",
+      "t": "42:42",
+      "sec": 2562,
+      "label": "06. とても素敵な六月でした / Eight"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "2AklhIDoLGE",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】なにが聴きたい？｜Culua′s PlayList 22【CULUA】",
+      "actualStartTime": "2026-02-12T11:01:01Z",
+      "t": "48:55",
+      "sec": 2935,
+      "label": "07. あの夏が飽和する。 / カンザキイオリ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "2AklhIDoLGE",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】なにが聴きたい？｜Culua′s PlayList 22【CULUA】",
+      "actualStartTime": "2026-02-12T11:01:01Z",
+      "t": "58:43",
+      "sec": 3523,
+      "label": "08. LOSER / 米津玄師"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "2AklhIDoLGE",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】なにが聴きたい？｜Culua′s PlayList 22【CULUA】",
+      "actualStartTime": "2026-02-12T11:01:01Z",
+      "t": "1:04:06",
+      "sec": 3846,
+      "label": "09. ロスタイムメモリー / じん"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "2AklhIDoLGE",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】なにが聴きたい？｜Culua′s PlayList 22【CULUA】",
+      "actualStartTime": "2026-02-12T11:01:01Z",
+      "t": "1:10:08",
+      "sec": 4208,
+      "label": "10. 惡魔の子 / ヒグチアイ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "2AklhIDoLGE",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】なにが聴きたい？｜Culua′s PlayList 22【CULUA】",
+      "actualStartTime": "2026-02-12T11:01:01Z",
+      "t": "1:15:27",
+      "sec": 4527,
+      "label": "11. magnet / 流星P"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "2AklhIDoLGE",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】なにが聴きたい？｜Culua′s PlayList 22【CULUA】",
+      "actualStartTime": "2026-02-12T11:01:01Z",
+      "t": "1:26:42",
+      "sec": 5202,
+      "label": "12. てんぺんち /"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "2AklhIDoLGE",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】なにが聴きたい？｜Culua′s PlayList 22【CULUA】",
+      "actualStartTime": "2026-02-12T11:01:01Z",
+      "t": "1:31:09",
+      "sec": 5469,
+      "label": "END（少しの自信があったら、"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "gBr_q0qVJMI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】最高出力でいざ行こう！！【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-02-12T11:00:36Z",
+      "t": "03:22",
+      "sec": 202,
+      "label": "カーテンコール / 優里"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "gBr_q0qVJMI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】最高出力でいざ行こう！！【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-02-12T11:00:36Z",
+      "t": "10:37",
+      "sec": 637,
+      "label": "swim / 04 Limited Sazabys"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "gBr_q0qVJMI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】最高出力でいざ行こう！！【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-02-12T11:00:36Z",
+      "t": "14:26",
+      "sec": 866,
+      "label": "ワタリドリ / [Alexandros"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "gBr_q0qVJMI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】最高出力でいざ行こう！！【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-02-12T11:00:36Z",
+      "t": "21:21",
+      "sec": 1281,
+      "label": "空色デイズ / 中川翔子"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "gBr_q0qVJMI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】最高出力でいざ行こう！！【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-02-12T11:00:36Z",
+      "t": "28:17",
+      "sec": 1697,
+      "label": "海色 / AKINO from Bless4"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "gBr_q0qVJMI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】最高出力でいざ行こう！！【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-02-12T11:00:36Z",
+      "t": "35:24",
+      "sec": 2124,
+      "label": "Survivor / BLUE ENCOUNT (タイトルエラー？"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "gBr_q0qVJMI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】最高出力でいざ行こう！！【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-02-12T11:00:36Z",
+      "t": "39:11",
+      "sec": 2351,
+      "label": "青春狂騒曲 / サンボマスター"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "gBr_q0qVJMI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】最高出力でいざ行こう！！【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-02-12T11:00:36Z",
+      "t": "48:16",
+      "sec": 2896,
+      "label": "駆けろ / 星街すいせい"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "gBr_q0qVJMI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】最高出力でいざ行こう！！【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-02-12T11:00:36Z",
+      "t": "53:22",
+      "sec": 3202,
+      "label": "ジターバグ / ELLEGARDEN"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "gBr_q0qVJMI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】最高出力でいざ行こう！！【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-02-12T11:00:36Z",
+      "t": "56:54",
+      "sec": 3414,
+      "label": "READY STEADY GO / L'Arc〜en〜Ciel"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "gBr_q0qVJMI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】最高出力でいざ行こう！！【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-02-12T11:00:36Z",
+      "t": "1:02:40",
+      "sec": 3760,
+      "label": "best day, best way / LiSA"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "IopeKuYAY9Y",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 1時間限定 ゲリラ歌枠 】見つけた君はラッキー⁉初見さん歓迎!! Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-02-12T09:45:29Z",
+      "t": "0:03:20",
+      "sec": 200,
+      "label": "スタート"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "IopeKuYAY9Y",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 1時間限定 ゲリラ歌枠 】見つけた君はラッキー⁉初見さん歓迎!! Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-02-12T09:45:29Z",
+      "t": "0:11:57",
+      "sec": 717,
+      "label": "ライラック / Mrs. GREEN APPLE"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "IopeKuYAY9Y",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 1時間限定 ゲリラ歌枠 】見つけた君はラッキー⁉初見さん歓迎!! Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-02-12T09:45:29Z",
+      "t": "0:16:59",
+      "sec": 1019,
+      "label": "カルマ / BUMP OF CHICKEN"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "IopeKuYAY9Y",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 1時間限定 ゲリラ歌枠 】見つけた君はラッキー⁉初見さん歓迎!! Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-02-12T09:45:29Z",
+      "t": "0:23:38",
+      "sec": 1418,
+      "label": "Give a reason / 林原めぐみ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "IopeKuYAY9Y",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 1時間限定 ゲリラ歌枠 】見つけた君はラッキー⁉初見さん歓迎!! Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-02-12T09:45:29Z",
+      "t": "0:28:28",
+      "sec": 1708,
+      "label": "アゲハ蝶 / ポルノグラフィティ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "IopeKuYAY9Y",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 1時間限定 ゲリラ歌枠 】見つけた君はラッキー⁉初見さん歓迎!! Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-02-12T09:45:29Z",
+      "t": "0:36:01",
+      "sec": 2161,
+      "label": "地獄恋文 / tuki."
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "IopeKuYAY9Y",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 1時間限定 ゲリラ歌枠 】見つけた君はラッキー⁉初見さん歓迎!! Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-02-12T09:45:29Z",
+      "t": "0:40:17",
+      "sec": 2417,
+      "label": "ノマド / バルーン"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "IopeKuYAY9Y",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 1時間限定 ゲリラ歌枠 】見つけた君はラッキー⁉初見さん歓迎!! Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-02-12T09:45:29Z",
+      "t": "0:44:34",
+      "sec": 2674,
+      "label": "からくりピエロ / 40mP"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "IopeKuYAY9Y",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 1時間限定 ゲリラ歌枠 】見つけた君はラッキー⁉初見さん歓迎!! Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-02-12T09:45:29Z",
+      "t": "0:50:11",
+      "sec": 3011,
+      "label": "夜明けと蛍 / n-buna"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "IopeKuYAY9Y",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 1時間限定 ゲリラ歌枠 】見つけた君はラッキー⁉初見さん歓迎!! Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-02-12T09:45:29Z",
+      "t": "0:58:35",
+      "sec": 3515,
+      "label": "だれかの心臓になれたなら / ユリイ・カノン"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "IopeKuYAY9Y",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 1時間限定 ゲリラ歌枠 】見つけた君はラッキー⁉初見さん歓迎!! Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-02-12T09:45:29Z",
+      "t": "1:05:25",
+      "sec": 3925,
+      "label": "斜陽 / ヨルシカ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "IopeKuYAY9Y",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 1時間限定 ゲリラ歌枠 】見つけた君はラッキー⁉初見さん歓迎!! Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-02-12T09:45:29Z",
+      "t": "1:10:35",
+      "sec": 4235,
+      "label": "晴る / ヨルシカ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "IopeKuYAY9Y",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 1時間限定 ゲリラ歌枠 】見つけた君はラッキー⁉初見さん歓迎!! Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-02-12T09:45:29Z",
+      "t": "1:15:40",
+      "sec": 4540,
+      "label": "Ｃパート：Ｑ.つかさくんの好きなところを教えて"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "00:03:50",
+      "sec": 230,
+      "label": "01. 若者のすべて / フジファブリック ← NEW"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "00:19:17",
+      "sec": 1157,
+      "label": "02. 一輪花 / tuki."
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "00:30:35",
+      "sec": 1835,
+      "label": "03. 夜に駆ける / YOASOBI"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "00:45:33",
+      "sec": 2733,
+      "label": "04. ただ声一つ / ロクデナシ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "00:50:39",
+      "sec": 3039,
+      "label": "05. 友達の唄 / BUMP OF CHICKEN"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "01:06:33",
+      "sec": 3993,
+      "label": "06. more than words / 羊文学"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "01:20:35",
+      "sec": 4835,
+      "label": "07. 嘘月 / ヨルシカ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "01:31:51",
+      "sec": 5511,
+      "label": "08. FINAL DISTANCE / 宇多田ヒカル"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "01:54:26",
+      "sec": 6866,
+      "label": "09. Good-bye days / YUI"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "02:04:50",
+      "sec": 7490,
+      "label": "10. フリージア / Uru"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "02:20:37",
+      "sec": 8437,
+      "label": "11. みちしるべ / 茅原実里"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "02:50:18",
+      "sec": 10218,
+      "label": "12. チノカテ / ヨルシカ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "03:03:37",
+      "sec": 11017,
+      "label": "13. はじまりのとき / 絢香"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "03:13:51",
+      "sec": 11631,
+      "label": "14. 声 / ヨルシカ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "03:21:34",
+      "sec": 12094,
+      "label": "15. アイネクライネ / 米津玄師"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "03:37:16",
+      "sec": 13036,
+      "label": "16. ただ君に晴れ / ヨルシカ"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "01:12:29",
+      "sec": 4349,
+      "label": "～ かみかみの深影さん。"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "01:44:59",
+      "sec": 6299,
+      "label": "～ 好きなカップ麺の話。トムヤムクン味とシンガポールラクサ味のカップヌードルが好き。"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "02:32:06",
+      "sec": 9126,
+      "label": "～ 歌の話。「歌ってなくても生きていけるけど、ないと最高につまらないよな。」"
+    },
+    {
+      "date": "2026-02-12",
+      "videoId": "9XoABjZfeK8",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春は曙、やうやう白くなりゆくハムケツ【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-02-11T16:01:03Z",
+      "t": "03:42:52",
+      "sec": 13372,
+      "label": "～ 22222名様達成！次回(2/14(土) 18時～の配信)語尾に「にゃん」をつける話。"
+    },
     {
       "date": "2026-02-11",
       "videoId": "-CPkmsyYtm8",
@@ -174852,15 +176292,15 @@
       "count": 26
     },
     {
+      "key": "スタート",
+      "count": 23
+    },
+    {
       "key": "画面入り",
       "count": 23
     },
     {
       "key": "ヴァイ",
-      "count": 22
-    },
-    {
-      "key": "スタート",
       "count": 22
     },
     {
@@ -174884,6 +176324,10 @@
       "count": 16
     },
     {
+      "key": "夜明けと蛍 / n-buna",
+      "count": 15
+    },
+    {
       "key": "晩餐歌 / tuki.",
       "count": 15
     },
@@ -174892,12 +176336,12 @@
       "count": 15
     },
     {
-      "key": "【 】こんソラタイム",
+      "key": "斜陽 / ヨルシカ",
       "count": 15
     },
     {
-      "key": "夜明けと蛍 / n-buna",
-      "count": 14
+      "key": "【 】こんソラタイム",
+      "count": 15
     },
     {
       "key": "怪獣 / サカナクション",
@@ -174905,10 +176349,6 @@
     },
     {
       "key": "iris out / 米津玄師",
-      "count": 14
-    },
-    {
-      "key": "斜陽 / ヨルシカ",
       "count": 14
     },
     {
@@ -174964,6 +176404,14 @@
       "count": 11
     },
     {
+      "key": "晴る / ヨルシカ",
+      "count": 11
+    },
+    {
+      "key": "からくりピエロ / 40mp",
+      "count": 10
+    },
+    {
       "key": "雨とカプチーノ / ヨルシカ",
       "count": 10
     },
@@ -174996,10 +176444,6 @@
       "count": 10
     },
     {
-      "key": "晴る / ヨルシカ",
-      "count": 10
-    },
-    {
       "key": ". talk",
       "count": 10
     },
@@ -175008,7 +176452,7 @@
       "count": 10
     },
     {
-      "key": "からくりピエロ / 40mp",
+      "key": "ライラック / mrs. green apple",
       "count": 9
     },
     {
@@ -175017,6 +176461,10 @@
     },
     {
       "key": "ダーリン / 須田景凪",
+      "count": 9
+    },
+    {
+      "key": "拝啓、はじまりの色 / ヨノ",
       "count": 9
     },
     {
@@ -175064,7 +176512,7 @@
       "count": 8
     },
     {
-      "key": "ライラック / mrs. green apple",
+      "key": "蝶々結び / aimer",
       "count": 8
     },
     {
@@ -175077,10 +176525,6 @@
     },
     {
       "key": "everything / misia",
-      "count": 8
-    },
-    {
-      "key": "拝啓、はじまりの色 / ヨノ",
       "count": 8
     },
     {
@@ -175137,10 +176581,6 @@
     },
     {
       "key": "地球最後の告白を / kemu",
-      "count": 7
-    },
-    {
-      "key": "蝶々結び / aimer",
       "count": 7
     },
     {
@@ -175216,6 +176656,10 @@
       "count": 7
     },
     {
+      "key": "たばこ / コレサワ",
+      "count": 7
+    },
+    {
       "key": "冬眠 / ヨルシカ",
       "count": 7
     },
@@ -175241,6 +176685,10 @@
     },
     {
       "key": "太陽 / ヨルシカ",
+      "count": 7
+    },
+    {
+      "key": "366日 / hy",
       "count": 7
     },
     {
@@ -175352,11 +176800,7 @@
       "count": 6
     },
     {
-      "key": "たばこ / コレサワ",
-      "count": 6
-    },
-    {
-      "key": "366日 / hy",
+      "key": "ノマド / バルーン",
       "count": 6
     },
     {
@@ -175432,6 +176876,10 @@
       "count": 5
     },
     {
+      "key": "心做し / 蝶々p",
+      "count": 5
+    },
+    {
       "key": "靴の花火 / ヨルシカ",
       "count": 5
     },
@@ -175472,6 +176920,10 @@
       "count": 5
     },
     {
+      "key": "カーテンコール / 優里",
+      "count": 5
+    },
+    {
       "key": "カントリー・ロード / 本名陽子",
       "count": 5
     },
@@ -175489,6 +176941,10 @@
     },
     {
       "key": "開演",
+      "count": 5
+    },
+    {
+      "key": "空色デイズ / 中川翔子",
       "count": 5
     },
     {
@@ -175528,7 +176984,7 @@
       "count": 5
     },
     {
-      "key": "ノマド / バルーン",
+      "key": "奏 / スキマスイッチ",
       "count": 5
     },
     {
@@ -175617,22 +177073,6 @@
     },
     {
       "key": "藍二乗 / ヨルシカ",
-      "count": 4
-    },
-    {
-      "key": "長く短い祭 / 椎名林檎",
-      "count": 4
-    },
-    {
-      "key": "猫とアレルギー / きのこ帝国",
-      "count": 4
-    },
-    {
-      "key": "ブルーバード / いきものがかり",
-      "count": 4
-    },
-    {
-      "key": "ブルーアンバー / back number",
       "count": 4
     }
   ]
