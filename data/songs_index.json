@@ -1,10 +1,970 @@
 {
-  "generatedAt": "2026-02-18T05:10:03Z",
+  "generatedAt": "2026-02-18T21:23:48Z",
   "range": {
-    "files": 183,
-    "songs": 15360
+    "files": 184,
+    "songs": 15440
   },
   "songs": [
+    {
+      "date": "2026-02-18",
+      "videoId": "gJjSEqhKAr8",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 コラボ歌枠/KARAOKE 】🦉羽緒ちゃんと爆裂清楚なコラボDAY2🌙🎼【 #よのはお  / RK Music】",
+      "actualStartTime": "2026-02-18T13:09:12Z",
+      "t": "03:15",
+      "sec": 195,
+      "label": "月光 / 鬼束ちひろ"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "gJjSEqhKAr8",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 コラボ歌枠/KARAOKE 】🦉羽緒ちゃんと爆裂清楚なコラボDAY2🌙🎼【 #よのはお  / RK Music】",
+      "actualStartTime": "2026-02-18T13:09:12Z",
+      "t": "15:52",
+      "sec": 952,
+      "label": "茜さす / Aimer"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "gJjSEqhKAr8",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 コラボ歌枠/KARAOKE 】🦉羽緒ちゃんと爆裂清楚なコラボDAY2🌙🎼【 #よのはお  / RK Music】",
+      "actualStartTime": "2026-02-18T13:09:12Z",
+      "t": "21:42",
+      "sec": 1302,
+      "label": "蝶々結び / Aimer"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "gJjSEqhKAr8",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 コラボ歌枠/KARAOKE 】🦉羽緒ちゃんと爆裂清楚なコラボDAY2🌙🎼【 #よのはお  / RK Music】",
+      "actualStartTime": "2026-02-18T13:09:12Z",
+      "t": "35:14",
+      "sec": 2114,
+      "label": "366日 / HY"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "gJjSEqhKAr8",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 コラボ歌枠/KARAOKE 】🦉羽緒ちゃんと爆裂清楚なコラボDAY2🌙🎼【 #よのはお  / RK Music】",
+      "actualStartTime": "2026-02-18T13:09:12Z",
+      "t": "41:13",
+      "sec": 2473,
+      "label": "ただ声一つ / ロクデナシ"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "gJjSEqhKAr8",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 コラボ歌枠/KARAOKE 】🦉羽緒ちゃんと爆裂清楚なコラボDAY2🌙🎼【 #よのはお  / RK Music】",
+      "actualStartTime": "2026-02-18T13:09:12Z",
+      "t": "47:47",
+      "sec": 2867,
+      "label": "ノーチラス / ヨルシカ"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "gJjSEqhKAr8",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 コラボ歌枠/KARAOKE 】🦉羽緒ちゃんと爆裂清楚なコラボDAY2🌙🎼【 #よのはお  / RK Music】",
+      "actualStartTime": "2026-02-18T13:09:12Z",
+      "t": "52:15",
+      "sec": 3135,
+      "label": "アヤノの幸福理論 / じん"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "gJjSEqhKAr8",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 コラボ歌枠/KARAOKE 】🦉羽緒ちゃんと爆裂清楚なコラボDAY2🌙🎼【 #よのはお  / RK Music】",
+      "actualStartTime": "2026-02-18T13:09:12Z",
+      "t": "01:00:59",
+      "sec": 3659,
+      "label": "JANE DOE / 米津玄師、宇多田ヒカル"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "gJjSEqhKAr8",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 コラボ歌枠/KARAOKE 】🦉羽緒ちゃんと爆裂清楚なコラボDAY2🌙🎼【 #よのはお  / RK Music】",
+      "actualStartTime": "2026-02-18T13:09:12Z",
+      "t": "01:05:30",
+      "sec": 3930,
+      "label": "点描の唄 / Mrs. GREEN APPLE feat. 井上苑子"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "gJjSEqhKAr8",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 コラボ歌枠/KARAOKE 】🦉羽緒ちゃんと爆裂清楚なコラボDAY2🌙🎼【 #よのはお  / RK Music】",
+      "actualStartTime": "2026-02-18T13:09:12Z",
+      "t": "01:30:36",
+      "sec": 5436,
+      "label": "僕は僕の速さで / ヨノ"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "0:16:40",
+      "sec": 1000,
+      "label": "01. 天体観測／BUMP OF CHICKEN"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "0:21:37",
+      "sec": 1297,
+      "label": "02. I／BUMP OF CHICKEN"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "0:25:50",
+      "sec": 1550,
+      "label": "03. ray／BUMP OF CHICKEN"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "0:35:06",
+      "sec": 2106,
+      "label": "05. トリノコシティ／40mP"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "0:38:40",
+      "sec": 2320,
+      "label": "06. vivi／米津玄師"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "0:43:21",
+      "sec": 2601,
+      "label": "07. 砂の惑星／ハチ"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "0:47:34",
+      "sec": 2854,
+      "label": "08. アイネクライネ／米津玄師"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "0:52:51",
+      "sec": 3171,
+      "label": "09. 季節は次々死んでいく／amazarashi"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "0:58:40",
+      "sec": 3520,
+      "label": "10. 境界線／amazarashi"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "1:03:46",
+      "sec": 3826,
+      "label": "11. スターライト／amazarashi"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "1:09:07",
+      "sec": 4147,
+      "label": "12. ミュージック／サカナクション"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "1:14:48",
+      "sec": 4488,
+      "label": "13. プラトー／サカナクション"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "1:21:05",
+      "sec": 4865,
+      "label": "14. 怪獣／サカナクション"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "1:25:29",
+      "sec": 5129,
+      "label": "15. 晴る／ヨルシカ"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "1:30:09",
+      "sec": 5409,
+      "label": "16. アポリア／ヨルシカ"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "1:34:08",
+      "sec": 5648,
+      "label": "17. ヒッチコック／ヨルシカ"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "QkcuhE1DqR0",
+      "channelId": "UCHefdkPE5A4EqGHgDhrVfzw",
+      "channelName": "ミナミイズミ / IZUMI MINAMI",
+      "oshiName": "ミナミイズミ / IZUMI MINAMI",
+      "title": "【#歌枠】1曲聴いてってください！EP発売出来てうれしい singing stream - ミナミイズミ  #shorts #vsinger #karaoke",
+      "actualStartTime": "2026-02-18T13:00:15Z",
+      "t": "1:38:32",
+      "sec": 5912,
+      "label": "18. Break through／ミナミイズミ"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "oiYOrgPDdCA",
+      "channelId": "UCVaF0JK21BWNs2XQBjav2Gw",
+      "channelName": "潮成実",
+      "oshiName": "潮成実",
+      "title": "【 歌枠 #KARAOKE  】🔵菅野よう子さん楽曲縛り歌枠🐤【 #Vsinger 潮成実 】",
+      "actualStartTime": "2026-02-18T12:00:06Z",
+      "t": "8:05",
+      "sec": 485,
+      "label": "射手座☆午後九時Don't be late / May'n"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "oiYOrgPDdCA",
+      "channelId": "UCVaF0JK21BWNs2XQBjav2Gw",
+      "channelName": "潮成実",
+      "oshiName": "潮成実",
+      "title": "【 歌枠 #KARAOKE  】🔵菅野よう子さん楽曲縛り歌枠🐤【 #Vsinger 潮成実 】",
+      "actualStartTime": "2026-02-18T12:00:06Z",
+      "t": "17:06",
+      "sec": 1026,
+      "label": "約束はいらない / 坂本真綾"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "oiYOrgPDdCA",
+      "channelId": "UCVaF0JK21BWNs2XQBjav2Gw",
+      "channelName": "潮成実",
+      "oshiName": "潮成実",
+      "title": "【 歌枠 #KARAOKE  】🔵菅野よう子さん楽曲縛り歌枠🐤【 #Vsinger 潮成実 】",
+      "actualStartTime": "2026-02-18T12:00:06Z",
+      "t": "30:35",
+      "sec": 1835,
+      "label": "プラチナ / 坂本真綾"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "oiYOrgPDdCA",
+      "channelId": "UCVaF0JK21BWNs2XQBjav2Gw",
+      "channelName": "潮成実",
+      "oshiName": "潮成実",
+      "title": "【 歌枠 #KARAOKE  】🔵菅野よう子さん楽曲縛り歌枠🐤【 #Vsinger 潮成実 】",
+      "actualStartTime": "2026-02-18T12:00:06Z",
+      "t": "39:09",
+      "sec": 2349,
+      "label": "トライアングラ－ / 坂本真綾"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "oiYOrgPDdCA",
+      "channelId": "UCVaF0JK21BWNs2XQBjav2Gw",
+      "channelName": "潮成実",
+      "oshiName": "潮成実",
+      "title": "【 歌枠 #KARAOKE  】🔵菅野よう子さん楽曲縛り歌枠🐤【 #Vsinger 潮成実 】",
+      "actualStartTime": "2026-02-18T12:00:06Z",
+      "t": "46:34",
+      "sec": 2794,
+      "label": "星間飛行 / 中島愛"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "oiYOrgPDdCA",
+      "channelId": "UCVaF0JK21BWNs2XQBjav2Gw",
+      "channelName": "潮成実",
+      "oshiName": "潮成実",
+      "title": "【 歌枠 #KARAOKE  】🔵菅野よう子さん楽曲縛り歌枠🐤【 #Vsinger 潮成実 】",
+      "actualStartTime": "2026-02-18T12:00:06Z",
+      "t": "50:34",
+      "sec": 3034,
+      "label": "ノーザンクロス / May'n"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "oiYOrgPDdCA",
+      "channelId": "UCVaF0JK21BWNs2XQBjav2Gw",
+      "channelName": "潮成実",
+      "oshiName": "潮成実",
+      "title": "【 歌枠 #KARAOKE  】🔵菅野よう子さん楽曲縛り歌枠🐤【 #Vsinger 潮成実 】",
+      "actualStartTime": "2026-02-18T12:00:06Z",
+      "t": "58:35",
+      "sec": 3515,
+      "label": "ダイアモンドクレバス / May'n"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "oiYOrgPDdCA",
+      "channelId": "UCVaF0JK21BWNs2XQBjav2Gw",
+      "channelName": "潮成実",
+      "oshiName": "潮成実",
+      "title": "【 歌枠 #KARAOKE  】🔵菅野よう子さん楽曲縛り歌枠🐤【 #Vsinger 潮成実 】",
+      "actualStartTime": "2026-02-18T12:00:06Z",
+      "t": "1:07:19",
+      "sec": 4039,
+      "label": "ライオン / May'n、中島愛"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "oiYOrgPDdCA",
+      "channelId": "UCVaF0JK21BWNs2XQBjav2Gw",
+      "channelName": "潮成実",
+      "oshiName": "潮成実",
+      "title": "【 歌枠 #KARAOKE  】🔵菅野よう子さん楽曲縛り歌枠🐤【 #Vsinger 潮成実 】",
+      "actualStartTime": "2026-02-18T12:00:06Z",
+      "t": "1:18:56",
+      "sec": 4736,
+      "label": "坂道のメロディ / YUKI (アカペラ"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "oiYOrgPDdCA",
+      "channelId": "UCVaF0JK21BWNs2XQBjav2Gw",
+      "channelName": "潮成実",
+      "oshiName": "潮成実",
+      "title": "【 歌枠 #KARAOKE  】🔵菅野よう子さん楽曲縛り歌枠🐤【 #Vsinger 潮成実 】",
+      "actualStartTime": "2026-02-18T12:00:06Z",
+      "t": "1:22:57",
+      "sec": 4977,
+      "label": "花は咲く / 花は咲くプロジェクト"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "oiYOrgPDdCA",
+      "channelId": "UCVaF0JK21BWNs2XQBjav2Gw",
+      "channelName": "潮成実",
+      "oshiName": "潮成実",
+      "title": "【 歌枠 #KARAOKE  】🔵菅野よう子さん楽曲縛り歌枠🐤【 #Vsinger 潮成実 】",
+      "actualStartTime": "2026-02-18T12:00:06Z",
+      "t": "1:32:49",
+      "sec": 5569,
+      "label": "創聖のアクエリオン / AKINO"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "5:56",
+      "sec": 356,
+      "label": "こんばんは🐈‍⬛🎵"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "6:32",
+      "sec": 392,
+      "label": "📌 チューニン••••\"デカっ！ギターデカっ！\""
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "7:53",
+      "sec": 473,
+      "label": "🎧️ 福笑い/高橋 優さん"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "14:30",
+      "sec": 870,
+      "label": "📌 \"ないどね\"👏"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "15:55",
+      "sec": 955,
+      "label": "🎧️ もしも/RADWIMPSさん"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "22:45",
+      "sec": 1365,
+      "label": "🎧️ TOMORROW/岡本 真夜さん"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "30:20",
+      "sec": 1820,
+      "label": "🐈‍⬛ 音合わせの途中🎸"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "30:36",
+      "sec": 1836,
+      "label": "🎧️ 夜明けと蛍/N-bunaさん"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "36:53",
+      "sec": 2213,
+      "label": "🎧️ グレゴリオ/古川本舗さん"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "43:20",
+      "sec": 2600,
+      "label": "🎧️ 春よ、来い🍃/松任谷 由実さん"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "47:43",
+      "sec": 2863,
+      "label": "🎧️ サムライハート (Some Like It Hot!!)/SPYAIRさん"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "53:42",
+      "sec": 3222,
+      "label": "🎧️ あいという/Plentyさん👤"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "58:23",
+      "sec": 3503,
+      "label": "⛩️ おみくじマスターによるラッキーのおすそ分けコーナー(仮) 🙏✨"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "59:13",
+      "sec": 3553,
+      "label": "🎧️ おいら新宿でひと風吹かすぜ🐈‍⬛🍃/はる こたつぶとん倶楽部♧さん☘️"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:00:52",
+      "sec": 3652,
+      "label": "📌 宿題もやってくれる••かも🦆"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:01:41",
+      "sec": 3701,
+      "label": "📌 \"ノリノリな曲が唄いたい気分\""
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:02:45",
+      "sec": 3765,
+      "label": "📌 \"今夜は寝かさないよ🎸✨\""
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:03:00",
+      "sec": 3780,
+      "label": "🎧️ オワラセナイト/フレデリックさん"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:06:55",
+      "sec": 4015,
+      "label": "📌 \"久しぶりな気がする\""
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:07:29",
+      "sec": 4049,
+      "label": "🎧️ ブリキノダンス/日向電工さん🤖⚡️"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:12:16",
+      "sec": 4336,
+      "label": "🎧️ 桜日和/星村 麻衣さん"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:17:55",
+      "sec": 4675,
+      "label": "🎧️ 夢をかなえてドラえもん/Maoさん"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:23:09",
+      "sec": 4989,
+      "label": "🎧️ もののけ姫/米良 美一さん"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:25:55",
+      "sec": 5155,
+      "label": "📌 \"歌声、本当に素敵\""
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:26:40",
+      "sec": 5200,
+      "label": "📌 \"ええやん！ええやん！\""
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:27:55",
+      "sec": 5275,
+      "label": "📌 \"生きろ。👤🦌\""
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:29:56",
+      "sec": 5396,
+      "label": "📌 \"ともに生きる道はないのか\""
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:30:22",
+      "sec": 5422,
+      "label": "📋️ 🌃本日のラストナンバー🎸"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:31:00",
+      "sec": 5460,
+      "label": "🎧️ 世界がひとつになるまで/Ya-Ya-yahさん"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:34:59",
+      "sec": 5699,
+      "label": "📌 \"戦略的撤退\"🫶"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "RiQ2AYSRTQw",
+      "channelId": "UCvmpT7L9S3iE2bG49AIhJNA",
+      "channelName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "oshiName": "KOTATSU Ch.はる こたつぶとん倶楽部♧",
+      "title": "【弾き語り】寝落ち枠｜少しだけ頑張った今日に【#こたつちゃ配信中】",
+      "actualStartTime": "2026-02-17T15:40:02Z",
+      "t": "1:35:49",
+      "sec": 5749,
+      "label": "📌 部長命令📢\"撤退！散れ！散れ！\""
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "vIj-gNK1NNQ",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】のんびりゆったり歌枠-Midnight station -115【HACHI】",
+      "actualStartTime": "2026-02-17T15:00:31Z",
+      "t": "01:10",
+      "sec": 70,
+      "label": "1 . エルマ/ヨルシカ"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "vIj-gNK1NNQ",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】のんびりゆったり歌枠-Midnight station -115【HACHI】",
+      "actualStartTime": "2026-02-17T15:00:31Z",
+      "t": "15:06",
+      "sec": 906,
+      "label": "2 . 地獄先生/相対性理論"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "vIj-gNK1NNQ",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】のんびりゆったり歌枠-Midnight station -115【HACHI】",
+      "actualStartTime": "2026-02-17T15:00:31Z",
+      "t": "20:07",
+      "sec": 1207,
+      "label": "3 . First Love/宇多田ヒカル"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "vIj-gNK1NNQ",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】のんびりゆったり歌枠-Midnight station -115【HACHI】",
+      "actualStartTime": "2026-02-17T15:00:31Z",
+      "t": "27:23",
+      "sec": 1643,
+      "label": "4 . 少女レイ/みきとP"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "vIj-gNK1NNQ",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】のんびりゆったり歌枠-Midnight station -115【HACHI】",
+      "actualStartTime": "2026-02-17T15:00:31Z",
+      "t": "32:55",
+      "sec": 1975,
+      "label": "5 . 地球最後の告白を/kemu"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "vIj-gNK1NNQ",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】のんびりゆったり歌枠-Midnight station -115【HACHI】",
+      "actualStartTime": "2026-02-17T15:00:31Z",
+      "t": "40:06",
+      "sec": 2406,
+      "label": "6 . 創聖のアクエリオン/AKINO"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "vIj-gNK1NNQ",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】のんびりゆったり歌枠-Midnight station -115【HACHI】",
+      "actualStartTime": "2026-02-17T15:00:31Z",
+      "t": "42:44",
+      "sec": 2564,
+      "label": "7 . ​​トリノコシティ/40mp"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "vIj-gNK1NNQ",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】のんびりゆったり歌枠-Midnight station -115【HACHI】",
+      "actualStartTime": "2026-02-17T15:00:31Z",
+      "t": "47:12",
+      "sec": 2832,
+      "label": "8 . アスノヨゾラ哨戒班/Orangestar"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "vIj-gNK1NNQ",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】のんびりゆったり歌枠-Midnight station -115【HACHI】",
+      "actualStartTime": "2026-02-17T15:00:31Z",
+      "t": "51:53",
+      "sec": 3113,
+      "label": "9 . メルト/ryo"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "vIj-gNK1NNQ",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】のんびりゆったり歌枠-Midnight station -115【HACHI】",
+      "actualStartTime": "2026-02-17T15:00:31Z",
+      "t": "57:54",
+      "sec": 3474,
+      "label": "10. ブラック★ロックシューター/ryo"
+    },
+    {
+      "date": "2026-02-18",
+      "videoId": "vIj-gNK1NNQ",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "channelName": "HACHI",
+      "oshiName": "HACHI",
+      "title": "【歌枠】のんびりゆったり歌枠-Midnight station -115【HACHI】",
+      "actualStartTime": "2026-02-17T15:00:31Z",
+      "t": "1:08:59",
+      "sec": 4139,
+      "label": "11. ビー玉/"
+    },
     {
       "date": "2026-02-17",
       "videoId": "pW0sJDU0fi8",
@@ -184452,6 +185412,10 @@
       "count": 11
     },
     {
+      "key": "ノーチラス / ヨルシカ",
+      "count": 11
+    },
+    {
       "key": "おはなし⑤",
       "count": 11
     },
@@ -184473,10 +185437,6 @@
     },
     {
       "key": "だから僕は音楽を辞めた / ヨルシカ",
-      "count": 10
-    },
-    {
-      "key": "ノーチラス / ヨルシカ",
       "count": 10
     },
     {
@@ -184524,6 +185484,10 @@
       "count": 10
     },
     {
+      "key": "蝶々結び / aimer",
+      "count": 9
+    },
+    {
       "key": "ライラック / mrs. green apple",
       "count": 9
     },
@@ -184548,11 +185512,19 @@
       "count": 9
     },
     {
+      "key": "創聖のアクエリオン / akino",
+      "count": 9
+    },
+    {
       "key": "アスノヨゾラ哨戒班 / orangestar",
       "count": 9
     },
     {
       "key": "なんでもないや / radwimps",
+      "count": 9
+    },
+    {
+      "key": "ただ声一つ / ロクデナシ",
       "count": 9
     },
     {
@@ -184569,10 +185541,6 @@
     },
     {
       "key": "シルエット / kana-boon",
-      "count": 8
-    },
-    {
-      "key": "蝶々結び / aimer",
       "count": 8
     },
     {
@@ -184640,15 +185608,7 @@
       "count": 8
     },
     {
-      "key": "創聖のアクエリオン / akino",
-      "count": 8
-    },
-    {
       "key": "スパークル / radwimps",
-      "count": 8
-    },
-    {
-      "key": "ただ声一つ / ロクデナシ",
       "count": 8
     },
     {
@@ -184661,6 +185621,10 @@
     },
     {
       "key": "太陽 / ヨルシカ",
+      "count": 8
+    },
+    {
+      "key": "366日 / hy",
       "count": 8
     },
     {
@@ -184776,10 +185740,6 @@
       "count": 7
     },
     {
-      "key": "366日 / hy",
-      "count": 7
-    },
-    {
       "key": "jane doe / 米津玄師 × 宇多田ヒカル",
       "count": 7
     },
@@ -184825,6 +185785,10 @@
     },
     {
       "key": "オレンジ/spyair",
+      "count": 6
+    },
+    {
+      "key": "僕は僕の速さで / ヨノ",
       "count": 6
     },
     {
@@ -184905,6 +185869,10 @@
     },
     {
       "key": "citrus / da-ice",
+      "count": 6
+    },
+    {
+      "key": "アヤノの幸福理論 / じん",
       "count": 6
     },
     {
@@ -185004,10 +185972,6 @@
       "count": 5
     },
     {
-      "key": "僕は僕の速さで / ヨノ",
-      "count": 5
-    },
-    {
       "key": "ghost of a smile / egoist",
       "count": 5
     },
@@ -185060,6 +186024,10 @@
       "count": 5
     },
     {
+      "key": "月光 / 鬼束ちひろ",
+      "count": 5
+    },
+    {
       "key": "i / bump of chicken",
       "count": 5
     },
@@ -185092,10 +186060,6 @@
       "count": 5
     },
     {
-      "key": "アヤノの幸福理論 / じん",
-      "count": 5
-    },
-    {
       "key": "エルマ / ヨルシカ",
       "count": 5
     },
@@ -185108,6 +186072,10 @@
       "count": 4
     },
     {
+      "key": "プラチナ / 坂本真綾",
+      "count": 4
+    },
+    {
       "key": "千本桜 / 黒うさp",
       "count": 4
     },
@@ -185117,14 +186085,6 @@
     },
     {
       "key": "水流のロック / 日食なつこ",
-      "count": 4
-    },
-    {
-      "key": "絶頂讃歌 / 和ぬか",
-      "count": 4
-    },
-    {
-      "key": "コネクト / claris",
       "count": 4
     }
   ]
