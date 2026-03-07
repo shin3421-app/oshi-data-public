@@ -1,10 +1,1354 @@
 {
-  "generatedAt": "2026-03-07T04:46:28Z",
+  "generatedAt": "2026-03-07T20:59:47Z",
   "range": {
-    "files": 200,
-    "songs": 17518
+    "files": 201,
+    "songs": 17630
   },
   "songs": [
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "0:01:39",
+      "sec": 99,
+      "label": "01.アポリア / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "0:09:03",
+      "sec": 543,
+      "label": "02.強盗と花束 / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "0:12:21",
+      "sec": 741,
+      "label": "03.月に吠える / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "0:19:35",
+      "sec": 1175,
+      "label": "04.春泥棒 / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "0:24:34",
+      "sec": 1474,
+      "label": "05.ノーチラス / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "0:30:53",
+      "sec": 1853,
+      "label": "06.花人局 / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "0:36:27",
+      "sec": 2187,
+      "label": "07.春ひさぎ / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "0:42:14",
+      "sec": 2534,
+      "label": "08.ヒッチコック / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "0:46:03",
+      "sec": 2763,
+      "label": "09.だから僕は音楽を辞めた / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "0:53:09",
+      "sec": 3189,
+      "label": "10.藍二乗 / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "0:57:22",
+      "sec": 3442,
+      "label": "11.雨とカプチーノ / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "1:03:49",
+      "sec": 3829,
+      "label": "12.思想犯 / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "1:08:06",
+      "sec": 4086,
+      "label": "13.準透明少年 / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "1:15:01",
+      "sec": 4501,
+      "label": "14.ブレーメン / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "1:19:38",
+      "sec": 4778,
+      "label": "15.アルジャーノン / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "1:25:43",
+      "sec": 5143,
+      "label": "16.雲と幽霊 / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "1:31:15",
+      "sec": 5475,
+      "label": "17.へび / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "1:39:16",
+      "sec": 5956,
+      "label": "18.左右盲 / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "1:44:02",
+      "sec": 6242,
+      "label": "19.第一夜 [Piano ver.] / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "1:50:32",
+      "sec": 6632,
+      "label": "20.花に亡霊 / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "1:54:43",
+      "sec": 6883,
+      "label": "21.斜陽 / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "2:05:53",
+      "sec": 7553,
+      "label": "22.都落ち / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "2:10:09",
+      "sec": 7809,
+      "label": "23.晴る / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "2:17:44",
+      "sec": 8264,
+      "label": "24.忘れてください / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "2:21:37",
+      "sec": 8497,
+      "label": "25.火星人 / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "OI1-UtIp5xM",
+      "channelId": "UCjoGLVLapRciX38bwgDtttw",
+      "channelName": "羽緒",
+      "oshiName": "羽緒",
+      "title": "【 歌枠 / #karaoke 】ヨルシカさんの曲だけを歌いたい日なのだよ🦉【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger",
+      "actualStartTime": "2026-03-07T12:01:17Z",
+      "t": "2:31:53",
+      "sec": 9113,
+      "label": "26.ただ君に晴れ / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "Eu_Ty1tc_Bo",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】これが現代最強のティラノサウルス【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-03-07T11:00:13Z",
+      "t": "00:04:07",
+      "sec": 247,
+      "label": "01. 踊 / Ado"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "Eu_Ty1tc_Bo",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】これが現代最強のティラノサウルス【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-03-07T11:00:13Z",
+      "t": "00:07:46",
+      "sec": 466,
+      "label": "02. VIVID VICE / Who-ya Extended"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "Eu_Ty1tc_Bo",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】これが現代最強のティラノサウルス【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-03-07T11:00:13Z",
+      "t": "00:12:06",
+      "sec": 726,
+      "label": "03. 愛をとりもどせ!! / クリスタルキング"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "Eu_Ty1tc_Bo",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】これが現代最強のティラノサウルス【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-03-07T11:00:13Z",
+      "t": "00:15:11",
+      "sec": 911,
+      "label": "04. ギミチョコ！！ / BABYMETAL"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "Eu_Ty1tc_Bo",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】これが現代最強のティラノサウルス【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-03-07T11:00:13Z",
+      "t": "00:20:24",
+      "sec": 1224,
+      "label": "05. Red fraction / MELL"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "Eu_Ty1tc_Bo",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】これが現代最強のティラノサウルス【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-03-07T11:00:13Z",
+      "t": "00:24:12",
+      "sec": 1452,
+      "label": "06. スモーキン・ビリー / THEE MICHELLE GUN ELEPHANT"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "Eu_Ty1tc_Bo",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】これが現代最強のティラノサウルス【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-03-07T11:00:13Z",
+      "t": "00:28:59",
+      "sec": 1739,
+      "label": "07. 布団の中から出たくない / 打首獄門同好会"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "Eu_Ty1tc_Bo",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】これが現代最強のティラノサウルス【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-03-07T11:00:13Z",
+      "t": "00:33:21",
+      "sec": 2001,
+      "label": "08. VENGEANCE / coldrain"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "Eu_Ty1tc_Bo",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】これが現代最強のティラノサウルス【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-03-07T11:00:13Z",
+      "t": "00:38:19",
+      "sec": 2299,
+      "label": "09. 革命道中 / アイナ・ジ・エンド"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "Eu_Ty1tc_Bo",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】これが現代最強のティラノサウルス【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-03-07T11:00:13Z",
+      "t": "00:41:41",
+      "sec": 2501,
+      "label": "10. AIZO / King Gnu"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "Eu_Ty1tc_Bo",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】これが現代最強のティラノサウルス【#宙月ティラ #Vsinger #karaoke】",
+      "actualStartTime": "2026-03-07T11:00:13Z",
+      "t": "00:46:45",
+      "sec": 2805,
+      "label": "11. FREEDOM / 西川貴教 with t.komuro"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "xXji2uv0yXE",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】歌が上手くなりたいって思ってるりゅうです【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-07T04:01:01Z",
+      "t": "0:09:22",
+      "sec": 562,
+      "label": "♪ あたしはゆうれい / 米津玄師"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "xXji2uv0yXE",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】歌が上手くなりたいって思ってるりゅうです【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-07T04:01:01Z",
+      "t": "0:15:54",
+      "sec": 954,
+      "label": "♪ ノーチラス / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "xXji2uv0yXE",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】歌が上手くなりたいって思ってるりゅうです【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-07T04:01:01Z",
+      "t": "0:23:19",
+      "sec": 1399,
+      "label": "♪ いいんですか / RADWIMPS"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "xXji2uv0yXE",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】歌が上手くなりたいって思ってるりゅうです【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-07T04:01:01Z",
+      "t": "0:29:42",
+      "sec": 1782,
+      "label": "♪ HELLO 〜Paradise Kiss〜 / YUI"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "xXji2uv0yXE",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】歌が上手くなりたいって思ってるりゅうです【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-07T04:01:01Z",
+      "t": "0:34:41",
+      "sec": 2081,
+      "label": "♪ 雲と幽霊 / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "xXji2uv0yXE",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】歌が上手くなりたいって思ってるりゅうです【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-07T04:01:01Z",
+      "t": "0:43:27",
+      "sec": 2607,
+      "label": "♪ 蜜月アン・ドゥ・トロワ / DATEKEN"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "xXji2uv0yXE",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】歌が上手くなりたいって思ってるりゅうです【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-07T04:01:01Z",
+      "t": "0:48:12",
+      "sec": 2892,
+      "label": "♪ 栞 / クリープハイプ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "xXji2uv0yXE",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】歌が上手くなりたいって思ってるりゅうです【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-07T04:01:01Z",
+      "t": "0:56:12",
+      "sec": 3372,
+      "label": "♪ 怪獣の花唄 / Vaundy"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "xXji2uv0yXE",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】歌が上手くなりたいって思ってるりゅうです【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-07T04:01:01Z",
+      "t": "1:01:52",
+      "sec": 3712,
+      "label": "♪ 葛飾ラプソディ / 堂島孝平"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "xXji2uv0yXE",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】歌が上手くなりたいって思ってるりゅうです【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-07T04:01:01Z",
+      "t": "1:07:53",
+      "sec": 4073,
+      "label": "寝つき悪いもっさん 猫が寝かさない"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "xXji2uv0yXE",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】歌が上手くなりたいって思ってるりゅうです【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-07T04:01:01Z",
+      "t": "1:10:46",
+      "sec": 4246,
+      "label": "夢占い信じてる"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "xXji2uv0yXE",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】歌が上手くなりたいって思ってるりゅうです【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-07T04:01:01Z",
+      "t": "1:12:10",
+      "sec": 4330,
+      "label": "chat GPT調教してる"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "xXji2uv0yXE",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】歌が上手くなりたいって思ってるりゅうです【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-07T04:01:01Z",
+      "t": "1:16:12",
+      "sec": 4572,
+      "label": "モラハラごっこ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "xXji2uv0yXE",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】歌が上手くなりたいって思ってるりゅうです【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-07T04:01:01Z",
+      "t": "1:18:24",
+      "sec": 4704,
+      "label": "MBTI"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "xXji2uv0yXE",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】歌が上手くなりたいって思ってるりゅうです【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-07T04:01:01Z",
+      "t": "1:19:41",
+      "sec": 4781,
+      "label": "高評価ハラスメント"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "0:00:49",
+      "sec": 49,
+      "label": "画面入り&声入り"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "0:07:44",
+      "sec": 464,
+      "label": "君をのせて / 井上あずみ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "0:12:05",
+      "sec": 725,
+      "label": "たばこ / コレサワ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "0:18:25",
+      "sec": 1105,
+      "label": "恋人失格 / コレサワ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "0:24:21",
+      "sec": 1461,
+      "label": "少女レイ / みきとP"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "0:29:25",
+      "sec": 1765,
+      "label": "忘れじの言の葉 / 安次嶺希和子"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "0:33:36",
+      "sec": 2016,
+      "label": "YELL / いきものがかり"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "0:40:05",
+      "sec": 2405,
+      "label": "アイネクライネ / 米津玄師"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "0:45:15",
+      "sec": 2715,
+      "label": "いかないで / 想太"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "0:50:23",
+      "sec": 3023,
+      "label": "とても素敵な六月でした / Eight"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "0:56:25",
+      "sec": 3385,
+      "label": "さくら(独唱) / 森山直太朗"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "1:01:17",
+      "sec": 3677,
+      "label": "サマータイムレコード / じん"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "1:06:44",
+      "sec": 4004,
+      "label": "ただ声一つ / ロクデナシ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "1:09:44",
+      "sec": 4184,
+      "label": "優しい彗星 / YOASOBI"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "1:13:39",
+      "sec": 4419,
+      "label": "JANE DOE / 米津玄師 × 宇多田ヒカル"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "1:17:48",
+      "sec": 4668,
+      "label": "群青 / YOASOBI"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "1:22:20",
+      "sec": 4940,
+      "label": "雨とカプチーノ / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "1:27:01",
+      "sec": 5221,
+      "label": "夜明けと蛍 / n-buna"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "1:33:12",
+      "sec": 5592,
+      "label": "ウミユリ海底譚 / n-buna"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "1:37:36",
+      "sec": 5856,
+      "label": "ダーリン / 須田景凪"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "1:40:13",
+      "sec": 6013,
+      "label": "Caramel Pain / 星街すいせい"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "1:43:32",
+      "sec": 6212,
+      "label": "フォニイ / ツミキ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "1:47:26",
+      "sec": 6446,
+      "label": "シャルル / バルーン"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "1:51:24",
+      "sec": 6684,
+      "label": "ドーナツホール / ハチ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "1:55:03",
+      "sec": 6903,
+      "label": "若者のすべて / フジファブリック"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:00:03",
+      "sec": 7203,
+      "label": "絶頂讃歌 / 和ぬか"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:03:09",
+      "sec": 7389,
+      "label": "シュガーソングとビターステップ / UNISON SQUARE GARDEN"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:07:49",
+      "sec": 7669,
+      "label": "サムライハート (Some Like It Hot!!) / SPYAIR"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:11:07",
+      "sec": 7867,
+      "label": "曇天 / DOES"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:14:39",
+      "sec": 8079,
+      "label": "残酷な天使のテーゼ / 高橋洋子"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:18:40",
+      "sec": 8320,
+      "label": "魂のルフラン / 高橋洋子"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:23:47",
+      "sec": 8627,
+      "label": "Rolling star / YUI"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:26:59",
+      "sec": 8819,
+      "label": "逆光 / Ado"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:31:08",
+      "sec": 9068,
+      "label": "ギターと孤独と蒼い惑星 / 結束バンド"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:35:15",
+      "sec": 9315,
+      "label": "太陽系デスコ / ナユタン星人"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:39:28",
+      "sec": 9568,
+      "label": "灼熱にて純情 (wii-wii-woo) / 星街すいせい"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:43:26",
+      "sec": 9806,
+      "label": "TEMPLATE / 星街すいせい"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:46:40",
+      "sec": 10000,
+      "label": "駆けろ / 星街すいせい"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:50:46",
+      "sec": 10246,
+      "label": "ザイオン / 星街すいせい"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:55:04",
+      "sec": 10504,
+      "label": "GHOST / 星街すいせい"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "2:59:57",
+      "sec": 10797,
+      "label": "ソワレ / 星街すいせい"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "qIHWo556Jkw",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【朝活 / 歌枠】アニソンボカロなんでも歌う！初見さん大歓迎！💫縦型配信 singing stream #shorts #karaoke 【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-03-06T18:59:34Z",
+      "t": "3:04:12",
+      "sec": 11052,
+      "label": "Stellar Stellar / 星街すいせい"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "00:06:27",
+      "sec": 387,
+      "label": "01. 1991 / 米津玄師"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "00:21:34",
+      "sec": 1294,
+      "label": "02. アポリア / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "00:31:43",
+      "sec": 1903,
+      "label": "03. パレード / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "00:45:57",
+      "sec": 2757,
+      "label": "04. 春泥棒 / ヨルシカ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "00:57:48",
+      "sec": 3468,
+      "label": "05. 3月9日 / レミオロメン ← NEW"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "01:22:20",
+      "sec": 4940,
+      "label": "06. 奏 / スキマスイッチ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "01:51:27",
+      "sec": 6687,
+      "label": "07. 風のとおり道 / Wakana"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "02:04:04",
+      "sec": 7444,
+      "label": "08. たばこ / コレサワ"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "02:15:34",
+      "sec": 8134,
+      "label": "09. シンデレラボーイ / Saucy Dog"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "02:25:12",
+      "sec": 8712,
+      "label": "10. ドライフラワー / 優里"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "02:33:30",
+      "sec": 9210,
+      "label": "11. ハッピーエンド / back number"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "02:46:45",
+      "sec": 10005,
+      "label": "12. 海の幽霊 / 米津玄師"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "02:56:18",
+      "sec": 10578,
+      "label": "13. 地球儀 / 米津玄師"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "03:05:34",
+      "sec": 11134,
+      "label": "14. 星の消えた夜に / Aimer"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "03:18:01",
+      "sec": 11881,
+      "label": "15. Departures 〜あなたにおくるアイの歌〜 / EGOIST"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "00:16:19",
+      "sec": 979,
+      "label": "～(03:27:47～) 3/22(日)のワンマンライブの話。チケット一般販売中。配信チケットもあります。"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "01:08:52",
+      "sec": 4132,
+      "label": "～ 海外の方に多く見てもらっている話。"
+    },
+    {
+      "date": "2026-03-07",
+      "videoId": "K5vOvrIv7mE",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【縦型歌枠 /#karaoke 】春冷え【深影 / RK Music】#ghostreaming #歌枠",
+      "actualStartTime": "2026-03-06T15:59:55Z",
+      "t": "01:30:34",
+      "sec": 5434,
+      "label": "～ コメントの話。私(深影さん)と話してくれると嬉しいな。"
+    },
     {
       "date": "2026-03-06",
       "videoId": "EnMCoEPhXeM",
@@ -210265,7 +211609,7 @@
     },
     {
       "key": "夜明けと蛍 / n-buna",
-      "count": 19
+      "count": 20
     },
     {
       "key": "怪獣の花唄 / vaundy",
@@ -210320,12 +211664,12 @@
       "count": 16
     },
     {
-      "key": "mc④",
+      "key": "雨とカプチーノ / ヨルシカ",
       "count": 15
     },
     {
-      "key": "雨とカプチーノ / ヨルシカ",
-      "count": 14
+      "key": "mc④",
+      "count": 15
     },
     {
       "key": "拝啓、はじまりの色 / ヨノ",
@@ -210360,6 +211704,10 @@
       "count": 13
     },
     {
+      "key": "シャルル / バルーン",
+      "count": 13
+    },
+    {
       "key": "からくりピエロ / 40mp",
       "count": 12
     },
@@ -210368,15 +211716,15 @@
       "count": 12
     },
     {
+      "key": "ダーリン / 須田景凪",
+      "count": 12
+    },
+    {
       "key": "おはなし②",
       "count": 12
     },
     {
       "key": "夜撫でるメノウ / ayase",
-      "count": 12
-    },
-    {
-      "key": "シャルル / バルーン",
       "count": 12
     },
     {
@@ -210397,10 +211745,6 @@
     },
     {
       "key": "●スタート",
-      "count": 11
-    },
-    {
-      "key": "ダーリン / 須田景凪",
       "count": 11
     },
     {
@@ -210432,11 +211776,19 @@
       "count": 11
     },
     {
+      "key": "太陽系デスコ / ナユタン星人",
+      "count": 11
+    },
+    {
       "key": "地球最後の告白を / kemu",
       "count": 10
     },
     {
       "key": "ライラック / mrs. green apple",
+      "count": 10
+    },
+    {
+      "key": "残酷な天使のテーゼ / 高橋洋子",
       "count": 10
     },
     {
@@ -210464,7 +211816,7 @@
       "count": 10
     },
     {
-      "key": "太陽系デスコ / ナユタン星人",
+      "key": "ただ声一つ / ロクデナシ",
       "count": 10
     },
     {
@@ -210476,6 +211828,10 @@
       "count": 10
     },
     {
+      "key": "少女レイ / みきとp",
+      "count": 9
+    },
+    {
       "key": "シルエット / kana-boon",
       "count": 9
     },
@@ -210484,7 +211840,7 @@
       "count": 9
     },
     {
-      "key": "残酷な天使のテーゼ / 高橋洋子",
+      "key": "サムライハート (some like it hot!!) / spyair",
       "count": 9
     },
     {
@@ -210544,11 +211900,11 @@
       "count": 9
     },
     {
-      "key": "アスノヨゾラ哨戒班 / orangestar",
+      "key": "たばこ / コレサワ",
       "count": 9
     },
     {
-      "key": "ただ声一つ / ロクデナシ",
+      "key": "アスノヨゾラ哨戒班 / orangestar",
       "count": 9
     },
     {
@@ -210564,7 +211920,15 @@
       "count": 9
     },
     {
+      "key": "アイネクライネ / 米津玄師",
+      "count": 9
+    },
+    {
       "key": "風を食む / ヨルシカ",
+      "count": 9
+    },
+    {
+      "key": "jane doe / 米津玄師 × 宇多田ヒカル",
       "count": 9
     },
     {
@@ -210572,11 +211936,19 @@
       "count": 9
     },
     {
-      "key": "少女レイ / みきとp",
+      "key": "画面入り&声入り",
+      "count": 9
+    },
+    {
+      "key": "サマータイムレコード / じん",
       "count": 8
     },
     {
       "key": "夜に駆ける / yoasobi",
+      "count": 8
+    },
+    {
+      "key": "stellar stellar / 星街すいせい",
       "count": 8
     },
     {
@@ -210588,11 +211960,15 @@
       "count": 8
     },
     {
-      "key": "ハレンチ / ちゃんみな",
+      "key": "とても素敵な六月でした / eight",
       "count": 8
     },
     {
-      "key": "サムライハート (some like it hot!!) / spyair",
+      "key": "若者のすべて / フジファブリック",
+      "count": 8
+    },
+    {
+      "key": "ハレンチ / ちゃんみな",
       "count": 8
     },
     {
@@ -210648,39 +212024,15 @@
       "count": 8
     },
     {
-      "key": "たばこ / コレサワ",
+      "key": "優しい彗星 / yoasobi",
       "count": 8
     },
     {
-      "key": "アイネクライネ / 米津玄師",
+      "key": "ソワレ / 星街すいせい",
       "count": 8
-    },
-    {
-      "key": "jane doe / 米津玄師 × 宇多田ヒカル",
-      "count": 8
-    },
-    {
-      "key": "画面入り&声入り",
-      "count": 8
-    },
-    {
-      "key": "サマータイムレコード / じん",
-      "count": 7
-    },
-    {
-      "key": "stellar stellar / 星街すいせい",
-      "count": 7
     },
     {
       "key": "ロキ / みきとp",
-      "count": 7
-    },
-    {
-      "key": "とても素敵な六月でした / eight",
-      "count": 7
-    },
-    {
-      "key": "若者のすべて / フジファブリック",
       "count": 7
     },
     {
@@ -210728,6 +212080,10 @@
       "count": 7
     },
     {
+      "key": "群青 / yoasobi",
+      "count": 7
+    },
+    {
       "key": "mc⑫",
       "count": 7
     },
@@ -210752,11 +212108,7 @@
       "count": 7
     },
     {
-      "key": "優しい彗星 / yoasobi",
-      "count": 7
-    },
-    {
-      "key": "ソワレ / 星街すいせい",
+      "key": "シュガーソングとビターステップ / unison square garden",
       "count": 7
     },
     {
@@ -210781,6 +212133,10 @@
     },
     {
       "key": "カタオモイ/aimer",
+      "count": 6
+    },
+    {
+      "key": "絶頂讃歌 / 和ぬか",
       "count": 6
     },
     {
@@ -210876,10 +212232,6 @@
       "count": 6
     },
     {
-      "key": "群青 / yoasobi",
-      "count": 6
-    },
-    {
       "key": "開演",
       "count": 6
     },
@@ -210904,7 +212256,7 @@
       "count": 6
     },
     {
-      "key": "シュガーソングとビターステップ / unison square garden",
+      "key": "ドーナツホール / ハチ",
       "count": 6
     },
     {
@@ -210921,6 +212273,10 @@
     },
     {
       "key": "命に嫌われている / カンザキイオリ",
+      "count": 6
+    },
+    {
+      "key": "rolling star / yui",
       "count": 6
     },
     {
@@ -210948,6 +212304,10 @@
       "count": 6
     },
     {
+      "key": "caramel pain / 星街すいせい",
+      "count": 6
+    },
+    {
       "key": "スパ＆メンバーのお礼🌈",
       "count": 6
     },
@@ -210957,6 +212317,10 @@
     },
     {
       "key": "左右盲 / ヨルシカ",
+      "count": 6
+    },
+    {
+      "key": "ウミユリ海底譚 / n-buna",
       "count": 6
     },
     {
@@ -210977,10 +212341,6 @@
     },
     {
       "key": "酔いどれ知らず / kanaria",
-      "count": 5
-    },
-    {
-      "key": "絶頂讃歌 / 和ぬか",
       "count": 5
     },
     {
@@ -211005,22 +212365,6 @@
     },
     {
       "key": "愛を伝えたいだとか / あいみょん",
-      "count": 5
-    },
-    {
-      "key": "完全感覚dreamer / one ok rock",
-      "count": 5
-    },
-    {
-      "key": "接吻 / original love",
-      "count": 5
-    },
-    {
-      "key": "青いベンチ / サスケ",
-      "count": 5
-    },
-    {
-      "key": "カルマ/bump of chicken",
       "count": 5
     }
   ]
