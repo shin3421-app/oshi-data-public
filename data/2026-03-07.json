@@ -53,6 +53,40 @@
       }
     },
     {
+      "videoId": "SjrFGwn40Yc",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【冒頭無料】#あかつきるき AR ＆ Acoustic Live #カキカケノオト 昼の部",
+      "actualStartTime": "2026-03-07T05:30:38Z",
+      "durationSec": 3088,
+      "setlistType": "partial",
+      "songCount": 3,
+      "setlistComment": {
+        "rawText": "29:30 開始\n30:44 again/YUI\n35:02 革命道中/アイナ・ジ・エンド\n38:38 花火/aiko\n43:00 あいさつ こんるきー！",
+        "songCount": 3,
+        "timestampFirst": "30:44",
+        "timestampSecFirst": 1844
+      }
+    },
+    {
+      "videoId": "UdIsz_zdk10",
+      "channelId": "UCv0hpsgpGWYdBsotEA3_5fQ",
+      "channelName": "あかつき るき / Akatsuki Luci",
+      "oshiName": "あかつき るき / Akatsuki Luci",
+      "title": "【冒頭無料】#あかつきるき AR ＆ Acoustic Live #カキカケノオト 夜の部",
+      "actualStartTime": "2026-03-07T08:31:19Z",
+      "durationSec": 3146,
+      "setlistType": "partial",
+      "songCount": 3,
+      "setlistComment": {
+        "rawText": "28:45 開始\n30:29 DARMA GRAND PRIX/RADWIMPS\n34:44 怪獣/サカナクション\n39:09 夜明けと蛍/n-buna\n44:14 あいさつ こんるきー！",
+        "songCount": 3,
+        "timestampFirst": "30:29",
+        "timestampSecFirst": 1829
+      }
+    },
+    {
       "videoId": "Eu_Ty1tc_Bo",
       "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
       "channelName": "宙月ティラ",
