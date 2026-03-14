@@ -1,10 +1,466 @@
 {
-  "generatedAt": "2026-03-14T04:57:08Z",
+  "generatedAt": "2026-03-14T21:13:45Z",
   "range": {
-    "files": 207,
-    "songs": 18335
+    "files": 208,
+    "songs": 18373
   },
   "songs": [
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "00:00:00",
+      "sec": 0,
+      "label": "本日のサムネ"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "00:12:52",
+      "sec": 772,
+      "label": "1. only my railgun Piano Ver./fripSide"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "00:28:45",
+      "sec": 1725,
+      "label": "2. sister's noise Piano Ver./fripSide"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "00:41:06",
+      "sec": 2466,
+      "label": "3. future gazer Piano Ver./fripSide"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "00:48:50",
+      "sec": 2930,
+      "label": "4. LEVEL5-judgelight- Piano Ver./fripSide"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "00:56:14",
+      "sec": 3374,
+      "label": "5. グランドエスケープ (Movie edit) feat. 三浦透子 Piano Ver./RADWIMPS"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "01:00:41",
+      "sec": 3641,
+      "label": "6. 運命のルーレット廻して Piano Ver./ZARD"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "01:07:04",
+      "sec": 4024,
+      "label": "7. 相思相愛 Piano Ver./aiko"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "01:13:00",
+      "sec": 4380,
+      "label": "8. トコハナ Piano Ver./やなぎなぎ"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "01:23:44",
+      "sec": 5024,
+      "label": "9. 春擬き Piano Ver./やなぎなぎ"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "01:32:18",
+      "sec": 5538,
+      "label": "10. エウテルペ Piano Ver./EGOIST"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "01:36:11",
+      "sec": 5771,
+      "label": "11. この世界で見つけたもの Piano Ver./EGOIST"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "01:45:13",
+      "sec": 6313,
+      "label": "12. WILL Piano Ver./TRUE"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "01:55:39",
+      "sec": 6939,
+      "label": "13. みちしるべ Piano Ver./茅原実里"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "02:09:19",
+      "sec": 7759,
+      "label": "14. Sincerely Piano Ver./TRUE"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "00:19:13",
+      "sec": 1153,
+      "label": "税金が。。。"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "00:37:06",
+      "sec": 2226,
+      "label": "M3で差し入れしてもいいよ"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "00:48:45",
+      "sec": 2925,
+      "label": "ｻﾞｺｶﾞﾖｰ"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "02:14:45",
+      "sec": 8085,
+      "label": "あくびかわいい"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "02:18:04",
+      "sec": 8284,
+      "label": "お名前呼び"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "nTvFoPx8ZLo",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 歌枠┊︎KARAOKE 】短めpiano only anime song 歌枠🎹鋼琴伴奏歌回【VTuber】【稍麦】",
+      "actualStartTime": "2026-03-14T14:01:35Z",
+      "t": "02:20:13",
+      "sec": 8413,
+      "label": "ここかわいい"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "WCBZU2X8XpI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】ガチでエグいぞ！！！！！！！！！！！！！！【#宙月ティラ #Vsinger】",
+      "actualStartTime": "2026-03-14T11:00:14Z",
+      "t": "00:03:50",
+      "sec": 230,
+      "label": "01. 映えない / 鬱P"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "WCBZU2X8XpI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】ガチでエグいぞ！！！！！！！！！！！！！！【#宙月ティラ #Vsinger】",
+      "actualStartTime": "2026-03-14T11:00:14Z",
+      "t": "00:07:35",
+      "sec": 455,
+      "label": "02. 怒りをくれよ / GLIM SPANKY"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "WCBZU2X8XpI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】ガチでエグいぞ！！！！！！！！！！！！！！【#宙月ティラ #Vsinger】",
+      "actualStartTime": "2026-03-14T11:00:14Z",
+      "t": "00:11:22",
+      "sec": 682,
+      "label": "03. 月に負け犬 / 椎名林檎"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "WCBZU2X8XpI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】ガチでエグいぞ！！！！！！！！！！！！！！【#宙月ティラ #Vsinger】",
+      "actualStartTime": "2026-03-14T11:00:14Z",
+      "t": "00:15:56",
+      "sec": 956,
+      "label": "04. Shouted Serenade / LiSA"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "WCBZU2X8XpI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】ガチでエグいぞ！！！！！！！！！！！！！！【#宙月ティラ #Vsinger】",
+      "actualStartTime": "2026-03-14T11:00:14Z",
+      "t": "00:20:04",
+      "sec": 1204,
+      "label": "05. Ill / a crowd of rebellion"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "WCBZU2X8XpI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】ガチでエグいぞ！！！！！！！！！！！！！！【#宙月ティラ #Vsinger】",
+      "actualStartTime": "2026-03-14T11:00:14Z",
+      "t": "00:24:05",
+      "sec": 1445,
+      "label": "06. ムーンレイカー / ENTH"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "WCBZU2X8XpI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】ガチでエグいぞ！！！！！！！！！！！！！！【#宙月ティラ #Vsinger】",
+      "actualStartTime": "2026-03-14T11:00:14Z",
+      "t": "00:27:14",
+      "sec": 1634,
+      "label": "07. Let Me Hear / Fear, and Loathing in Las Vegas"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "WCBZU2X8XpI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】ガチでエグいぞ！！！！！！！！！！！！！！【#宙月ティラ #Vsinger】",
+      "actualStartTime": "2026-03-14T11:00:14Z",
+      "t": "00:31:11",
+      "sec": 1871,
+      "label": "08. Just Awake / Fear, and Loathing in Las Vegas"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "WCBZU2X8XpI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】ガチでエグいぞ！！！！！！！！！！！！！！【#宙月ティラ #Vsinger】",
+      "actualStartTime": "2026-03-14T11:00:14Z",
+      "t": "00:35:13",
+      "sec": 2113,
+      "label": "09. じぶんROCK / ONE OK ROCK"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "WCBZU2X8XpI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】ガチでエグいぞ！！！！！！！！！！！！！！【#宙月ティラ #Vsinger】",
+      "actualStartTime": "2026-03-14T11:00:14Z",
+      "t": "00:39:05",
+      "sec": 2345,
+      "label": "10. 虚言NEUROSE / MY FIRST STORY"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "WCBZU2X8XpI",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】ガチでエグいぞ！！！！！！！！！！！！！！【#宙月ティラ #Vsinger】",
+      "actualStartTime": "2026-03-14T11:00:14Z",
+      "t": "00:43:59",
+      "sec": 2639,
+      "label": "11. レイメイ / 酸欠少女さユり×MY FIRST STORY"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "IDXvVMAroi4",
+      "channelId": "UCw0ty0mpHBx6xZt-K_hfNcA",
+      "channelName": "LEWNE",
+      "oshiName": "LEWNE",
+      "title": "【 #推ススメ新人Vtuber歌枠リレー 】こんばんわ！歌とトークのギャップで整っていかない？ #vtuber #vsinger 【LEWNE / RK Music】",
+      "actualStartTime": "2026-03-14T10:30:35Z",
+      "t": "0:45",
+      "sec": 45,
+      "label": "丸の内サディスティック / 椎名林檎"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "IDXvVMAroi4",
+      "channelId": "UCw0ty0mpHBx6xZt-K_hfNcA",
+      "channelName": "LEWNE",
+      "oshiName": "LEWNE",
+      "title": "【 #推ススメ新人Vtuber歌枠リレー 】こんばんわ！歌とトークのギャップで整っていかない？ #vtuber #vsinger 【LEWNE / RK Music】",
+      "actualStartTime": "2026-03-14T10:30:35Z",
+      "t": "6:42",
+      "sec": 402,
+      "label": "おジャ魔女カーニバル!! / MAHO堂"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "IDXvVMAroi4",
+      "channelId": "UCw0ty0mpHBx6xZt-K_hfNcA",
+      "channelName": "LEWNE",
+      "oshiName": "LEWNE",
+      "title": "【 #推ススメ新人Vtuber歌枠リレー 】こんばんわ！歌とトークのギャップで整っていかない？ #vtuber #vsinger 【LEWNE / RK Music】",
+      "actualStartTime": "2026-03-14T10:30:35Z",
+      "t": "12:25",
+      "sec": 745,
+      "label": "高嶺の花子さん / back number"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "IDXvVMAroi4",
+      "channelId": "UCw0ty0mpHBx6xZt-K_hfNcA",
+      "channelName": "LEWNE",
+      "oshiName": "LEWNE",
+      "title": "【 #推ススメ新人Vtuber歌枠リレー 】こんばんわ！歌とトークのギャップで整っていかない？ #vtuber #vsinger 【LEWNE / RK Music】",
+      "actualStartTime": "2026-03-14T10:30:35Z",
+      "t": "17:41",
+      "sec": 1061,
+      "label": "ハレンチ / ちゃんみな"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "IDXvVMAroi4",
+      "channelId": "UCw0ty0mpHBx6xZt-K_hfNcA",
+      "channelName": "LEWNE",
+      "oshiName": "LEWNE",
+      "title": "【 #推ススメ新人Vtuber歌枠リレー 】こんばんわ！歌とトークのギャップで整っていかない？ #vtuber #vsinger 【LEWNE / RK Music】",
+      "actualStartTime": "2026-03-14T10:30:35Z",
+      "t": "24:29",
+      "sec": 1469,
+      "label": "おやすみ泣き声、さよなら歌姫 / クリープハイプ"
+    },
+    {
+      "date": "2026-03-14",
+      "videoId": "IDXvVMAroi4",
+      "channelId": "UCw0ty0mpHBx6xZt-K_hfNcA",
+      "channelName": "LEWNE",
+      "oshiName": "LEWNE",
+      "title": "【 #推ススメ新人Vtuber歌枠リレー 】こんばんわ！歌とトークのギャップで整っていかない？ #vtuber #vsinger 【LEWNE / RK Music】",
+      "actualStartTime": "2026-03-14T10:30:35Z",
+      "t": "29:04",
+      "sec": 1744,
+      "label": "END"
+    },
     {
       "date": "2026-03-13",
       "videoId": "NPggq6lZQOM",
@@ -220033,15 +220489,15 @@
     },
     {
       "key": "本日のサムネ",
-      "count": 36
+      "count": 37
     },
     {
       "key": "ここかわいい",
-      "count": 33
+      "count": 34
     },
     {
       "key": "end",
-      "count": 32
+      "count": 33
     },
     {
       "key": "画面入り",
@@ -220057,7 +220513,7 @@
     },
     {
       "key": "お名前呼び",
-      "count": 26
+      "count": 27
     },
     {
       "key": "水平線 / back number",
@@ -220336,6 +220792,10 @@
       "count": 9
     },
     {
+      "key": "ハレンチ / ちゃんみな",
+      "count": 9
+    },
+    {
       "key": "サムライハート (some like it hot!!) / spyair",
       "count": 9
     },
@@ -220349,6 +220809,10 @@
     },
     {
       "key": "butter-fly/和田光司",
+      "count": 9
+    },
+    {
+      "key": "おやすみ泣き声、さよなら歌姫 / クリープハイプ",
       "count": 9
     },
     {
@@ -220385,6 +220849,10 @@
     },
     {
       "key": "嘘月 / ヨルシカ",
+      "count": 9
+    },
+    {
+      "key": "高嶺の花子さん / back number",
       "count": 9
     },
     {
@@ -220436,10 +220904,6 @@
       "count": 8
     },
     {
-      "key": "ハレンチ / ちゃんみな",
-      "count": 8
-    },
-    {
       "key": "猫 / dish//",
       "count": 8
     },
@@ -220457,10 +220921,6 @@
     },
     {
       "key": "プロポーズ / 内緒のピアス",
-      "count": 8
-    },
-    {
-      "key": "おやすみ泣き声、さよなら歌姫 / クリープハイプ",
       "count": 8
     },
     {
@@ -220497,10 +220957,6 @@
     },
     {
       "key": "第一夜 / ヨルシカ",
-      "count": 8
-    },
-    {
-      "key": "高嶺の花子さん / back number",
       "count": 8
     },
     {
@@ -220613,6 +221069,10 @@
     },
     {
       "key": "カタオモイ/aimer",
+      "count": 6
+    },
+    {
+      "key": "丸の内サディスティック / 椎名林檎",
       "count": 6
     },
     {
@@ -220801,10 +221261,6 @@
     },
     {
       "key": "千本桜 / 黒うさp",
-      "count": 5
-    },
-    {
-      "key": "丸の内サディスティック / 椎名林檎",
       "count": 5
     },
     {
