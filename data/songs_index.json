@@ -1,10 +1,574 @@
 {
-  "generatedAt": "2026-03-26T05:20:13Z",
+  "generatedAt": "2026-03-26T21:18:37Z",
   "range": {
-    "files": 219,
-    "songs": 19375
+    "files": 220,
+    "songs": 19422
   },
   "songs": [
+    {
+      "date": "2026-03-26",
+      "videoId": "XQ1Bu9cny_c",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】あやしげ｜Culua′s PlayList 27【CULUA】",
+      "actualStartTime": "2026-03-26T11:00:54Z",
+      "t": "10:36",
+      "sec": 636,
+      "label": "01. 独りんぼエンヴィー / 電ポルP"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "XQ1Bu9cny_c",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】あやしげ｜Culua′s PlayList 27【CULUA】",
+      "actualStartTime": "2026-03-26T11:00:54Z",
+      "t": "16:50",
+      "sec": 1010,
+      "label": "02. リードコントロール / なるみや"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "XQ1Bu9cny_c",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】あやしげ｜Culua′s PlayList 27【CULUA】",
+      "actualStartTime": "2026-03-26T11:00:54Z",
+      "t": "19:33",
+      "sec": 1173,
+      "label": "03. デスぺレート / TeddyLoid・Giga feat.LOLUET"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "XQ1Bu9cny_c",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】あやしげ｜Culua′s PlayList 27【CULUA】",
+      "actualStartTime": "2026-03-26T11:00:54Z",
+      "t": "26:08",
+      "sec": 1568,
+      "label": "04. Loveit ? / biz x ZERA"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "XQ1Bu9cny_c",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】あやしげ｜Culua′s PlayList 27【CULUA】",
+      "actualStartTime": "2026-03-26T11:00:54Z",
+      "t": "29:41",
+      "sec": 1781,
+      "label": "05. 浴槽とネオンテトラ / REISAI"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "XQ1Bu9cny_c",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】あやしげ｜Culua′s PlayList 27【CULUA】",
+      "actualStartTime": "2026-03-26T11:00:54Z",
+      "t": "35:05",
+      "sec": 2105,
+      "label": "06. ずうっといっしょ! / キタニタツヤ"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "XQ1Bu9cny_c",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】あやしげ｜Culua′s PlayList 27【CULUA】",
+      "actualStartTime": "2026-03-26T11:00:54Z",
+      "t": "41:13",
+      "sec": 2473,
+      "label": "07. 足りない / dustcell"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "XQ1Bu9cny_c",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】あやしげ｜Culua′s PlayList 27【CULUA】",
+      "actualStartTime": "2026-03-26T11:00:54Z",
+      "t": "45:36",
+      "sec": 2736,
+      "label": "08. BL / 薔薇園アヴ"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "XQ1Bu9cny_c",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】あやしげ｜Culua′s PlayList 27【CULUA】",
+      "actualStartTime": "2026-03-26T11:00:54Z",
+      "t": "49:42",
+      "sec": 2982,
+      "label": "09. キケンナアソビ / クリープハイプ"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "XQ1Bu9cny_c",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】あやしげ｜Culua′s PlayList 27【CULUA】",
+      "actualStartTime": "2026-03-26T11:00:54Z",
+      "t": "55:02",
+      "sec": 3302,
+      "label": "10. ラブカ？／柊キライ"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "XQ1Bu9cny_c",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】あやしげ｜Culua′s PlayList 27【CULUA】",
+      "actualStartTime": "2026-03-26T11:00:54Z",
+      "t": "58:47",
+      "sec": 3527,
+      "label": "11. 愛して愛して愛して / きくお"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "XQ1Bu9cny_c",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】あやしげ｜Culua′s PlayList 27【CULUA】",
+      "actualStartTime": "2026-03-26T11:00:54Z",
+      "t": "1:04:34",
+      "sec": 3874,
+      "label": "12. プロポーズ / 内緒のピアス"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "XQ1Bu9cny_c",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】あやしげ｜Culua′s PlayList 27【CULUA】",
+      "actualStartTime": "2026-03-26T11:00:54Z",
+      "t": "1:11:39",
+      "sec": 4299,
+      "label": "13. さよならテンダー / 電ポルp"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "XQ1Bu9cny_c",
+      "channelId": "UCn1Zf28m6WbhMDjMjdIjOIA",
+      "channelName": "CULUA",
+      "oshiName": "CULUA",
+      "title": "【歌枠】あやしげ｜Culua′s PlayList 27【CULUA】",
+      "actualStartTime": "2026-03-26T11:00:54Z",
+      "t": "1:18:22",
+      "sec": 4702,
+      "label": "END（少しの自信があったら、）"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "WFyyxsmuQvE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【コラボ歌枠 / #karaoke 】ibukiと初のクールぶつかり合い歌枠！！ singing stream #vsinger #vtuber  【渚沢シチ / ibuki / ミクスト 】",
+      "actualStartTime": "2026-03-26T11:00:25Z",
+      "t": "0:01:56",
+      "sec": 116,
+      "label": "画面入り"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "WFyyxsmuQvE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【コラボ歌枠 / #karaoke 】ibukiと初のクールぶつかり合い歌枠！！ singing stream #vsinger #vtuber  【渚沢シチ / ibuki / ミクスト 】",
+      "actualStartTime": "2026-03-26T11:00:25Z",
+      "t": "0:01:58",
+      "sec": 118,
+      "label": "サムライハート (Some Like It Hot!!) / SPYAIR"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "WFyyxsmuQvE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【コラボ歌枠 / #karaoke 】ibukiと初のクールぶつかり合い歌枠！！ singing stream #vsinger #vtuber  【渚沢シチ / ibuki / ミクスト 】",
+      "actualStartTime": "2026-03-26T11:00:25Z",
+      "t": "0:09:15",
+      "sec": 555,
+      "label": "ファタール / GEMN"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "WFyyxsmuQvE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【コラボ歌枠 / #karaoke 】ibukiと初のクールぶつかり合い歌枠！！ singing stream #vsinger #vtuber  【渚沢シチ / ibuki / ミクスト 】",
+      "actualStartTime": "2026-03-26T11:00:25Z",
+      "t": "0:18:52",
+      "sec": 1132,
+      "label": "チュルリラ・チュルリラ・ダッダッダ! / くらげP"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "WFyyxsmuQvE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【コラボ歌枠 / #karaoke 】ibukiと初のクールぶつかり合い歌枠！！ singing stream #vsinger #vtuber  【渚沢シチ / ibuki / ミクスト 】",
+      "actualStartTime": "2026-03-26T11:00:25Z",
+      "t": "0:22:25",
+      "sec": 1345,
+      "label": "妄想税 / DECO*27"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "WFyyxsmuQvE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【コラボ歌枠 / #karaoke 】ibukiと初のクールぶつかり合い歌枠！！ singing stream #vsinger #vtuber  【渚沢シチ / ibuki / ミクスト 】",
+      "actualStartTime": "2026-03-26T11:00:25Z",
+      "t": "0:30:18",
+      "sec": 1818,
+      "label": "お勉強しといてよ / ずっと真夜中でいいのに。"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "WFyyxsmuQvE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【コラボ歌枠 / #karaoke 】ibukiと初のクールぶつかり合い歌枠！！ singing stream #vsinger #vtuber  【渚沢シチ / ibuki / ミクスト 】",
+      "actualStartTime": "2026-03-26T11:00:25Z",
+      "t": "0:37:31",
+      "sec": 2251,
+      "label": "嗚呼、素晴らしきニャン生 / Nem"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "WFyyxsmuQvE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【コラボ歌枠 / #karaoke 】ibukiと初のクールぶつかり合い歌枠！！ singing stream #vsinger #vtuber  【渚沢シチ / ibuki / ミクスト 】",
+      "actualStartTime": "2026-03-26T11:00:25Z",
+      "t": "0:41:33",
+      "sec": 2493,
+      "label": "かわいいだけじゃだめですか？ / CUTIE STREET"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "WFyyxsmuQvE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【コラボ歌枠 / #karaoke 】ibukiと初のクールぶつかり合い歌枠！！ singing stream #vsinger #vtuber  【渚沢シチ / ibuki / ミクスト 】",
+      "actualStartTime": "2026-03-26T11:00:25Z",
+      "t": "0:47:38",
+      "sec": 2858,
+      "label": "ゴーストルール / DECO*27"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "WFyyxsmuQvE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【コラボ歌枠 / #karaoke 】ibukiと初のクールぶつかり合い歌枠！！ singing stream #vsinger #vtuber  【渚沢シチ / ibuki / ミクスト 】",
+      "actualStartTime": "2026-03-26T11:00:25Z",
+      "t": "0:52:20",
+      "sec": 3140,
+      "label": "アイのシナリオ / CHiCO with HoneyWorks"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "WFyyxsmuQvE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【コラボ歌枠 / #karaoke 】ibukiと初のクールぶつかり合い歌枠！！ singing stream #vsinger #vtuber  【渚沢シチ / ibuki / ミクスト 】",
+      "actualStartTime": "2026-03-26T11:00:25Z",
+      "t": "0:58:44",
+      "sec": 3524,
+      "label": "ブルーミングダンサー / Ibuki"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "gbzvb82lp_Y",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【歌枠】少しだけうたうよ〜〜【雨夜リズ/ミリプロ】",
+      "actualStartTime": "2026-03-26T10:17:01Z",
+      "t": "0:06:17",
+      "sec": 377,
+      "label": "01. KICK BACK / 米津玄師"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "gbzvb82lp_Y",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【歌枠】少しだけうたうよ〜〜【雨夜リズ/ミリプロ】",
+      "actualStartTime": "2026-03-26T10:17:01Z",
+      "t": "0:11:44",
+      "sec": 704,
+      "label": "02. 再会 / はるまきごはん"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "gbzvb82lp_Y",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【歌枠】少しだけうたうよ〜〜【雨夜リズ/ミリプロ】",
+      "actualStartTime": "2026-03-26T10:17:01Z",
+      "t": "0:17:54",
+      "sec": 1074,
+      "label": "03. napori / Vaundy"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "gbzvb82lp_Y",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【歌枠】少しだけうたうよ〜〜【雨夜リズ/ミリプロ】",
+      "actualStartTime": "2026-03-26T10:17:01Z",
+      "t": "0:22:55",
+      "sec": 1375,
+      "label": "04. I beg you / Aimer"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "gbzvb82lp_Y",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【歌枠】少しだけうたうよ〜〜【雨夜リズ/ミリプロ】",
+      "actualStartTime": "2026-03-26T10:17:01Z",
+      "t": "0:29:49",
+      "sec": 1789,
+      "label": "05. Ready Steady / Giga"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "gbzvb82lp_Y",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【歌枠】少しだけうたうよ〜〜【雨夜リズ/ミリプロ】",
+      "actualStartTime": "2026-03-26T10:17:01Z",
+      "t": "0:37:25",
+      "sec": 2245,
+      "label": "06. 愛に奇術師 / koyori(電ポルP"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "gbzvb82lp_Y",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【歌枠】少しだけうたうよ〜〜【雨夜リズ/ミリプロ】",
+      "actualStartTime": "2026-03-26T10:17:01Z",
+      "t": "0:43:49",
+      "sec": 2629,
+      "label": "07. IRIS OUT / 米津玄師"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "gbzvb82lp_Y",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【歌枠】少しだけうたうよ〜〜【雨夜リズ/ミリプロ】",
+      "actualStartTime": "2026-03-26T10:17:01Z",
+      "t": "0:48:31",
+      "sec": 2911,
+      "label": "08. ギラギラ / Ado"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "gbzvb82lp_Y",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【歌枠】少しだけうたうよ〜〜【雨夜リズ/ミリプロ】",
+      "actualStartTime": "2026-03-26T10:17:01Z",
+      "t": "0:54:43",
+      "sec": 3283,
+      "label": "09. レディメイド / Ado"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "cWaLhqWZn9k",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】一緒にのんびりしていきませんか？【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-26T09:01:27Z",
+      "t": "0:03:53",
+      "sec": 233,
+      "label": "朝寝坊した"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "cWaLhqWZn9k",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】一緒にのんびりしていきませんか？【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-26T09:01:27Z",
+      "t": "0:07:58",
+      "sec": 478,
+      "label": "♪ 魔法の絨毯 / 川崎鷹也"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "cWaLhqWZn9k",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】一緒にのんびりしていきませんか？【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-26T09:01:27Z",
+      "t": "0:11:45",
+      "sec": 705,
+      "label": "♪ ソラニン / ASIAN KUNG-FU GENERATION"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "cWaLhqWZn9k",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】一緒にのんびりしていきませんか？【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-26T09:01:27Z",
+      "t": "0:17:31",
+      "sec": 1051,
+      "label": "日本語の発音の単位モーラっていうらしい"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "cWaLhqWZn9k",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】一緒にのんびりしていきませんか？【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-26T09:01:27Z",
+      "t": "0:20:59",
+      "sec": 1259,
+      "label": "♪ 晩餐歌 / tuki."
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "cWaLhqWZn9k",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】一緒にのんびりしていきませんか？【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-26T09:01:27Z",
+      "t": "0:26:32",
+      "sec": 1592,
+      "label": "♪ FLY ME TO THE MOON / Bart Howard"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "cWaLhqWZn9k",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】一緒にのんびりしていきませんか？【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-26T09:01:27Z",
+      "t": "0:34:45",
+      "sec": 2085,
+      "label": "幻影旅団Tシャツを買った"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "cWaLhqWZn9k",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】一緒にのんびりしていきませんか？【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-26T09:01:27Z",
+      "t": "0:37:04",
+      "sec": 2224,
+      "label": "♪ ハロ／ハワユ / ナノウ"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "cWaLhqWZn9k",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】一緒にのんびりしていきませんか？【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-26T09:01:27Z",
+      "t": "0:43:10",
+      "sec": 2590,
+      "label": "♪ ドナーソング / 大柴広己(もじゃ"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "cWaLhqWZn9k",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】一緒にのんびりしていきませんか？【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-26T09:01:27Z",
+      "t": "0:52:39",
+      "sec": 3159,
+      "label": "♪ 憂一乗 / ヨルシカ"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "cWaLhqWZn9k",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】一緒にのんびりしていきませんか？【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-26T09:01:27Z",
+      "t": "1:00:57",
+      "sec": 3657,
+      "label": "♪ Pale Blue / 米津玄師"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "cWaLhqWZn9k",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】一緒にのんびりしていきませんか？【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-26T09:01:27Z",
+      "t": "1:07:41",
+      "sec": 4061,
+      "label": "♪ アヤノの幸福理論 / じん"
+    },
+    {
+      "date": "2026-03-26",
+      "videoId": "cWaLhqWZn9k",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】一緒にのんびりしていきませんか？【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-26T09:01:27Z",
+      "t": "1:15:50",
+      "sec": 4550,
+      "label": "♪ 366日 / HY"
+    },
     {
       "date": "2026-03-25",
       "videoId": "ORAr7iHui6o",
@@ -232524,11 +233088,11 @@
       "count": 34
     },
     {
-      "key": "ヴァイ",
-      "count": 32
+      "key": "画面入り",
+      "count": 33
     },
     {
-      "key": "画面入り",
+      "key": "ヴァイ",
       "count": 32
     },
     {
@@ -232592,15 +233156,15 @@
       "count": 18
     },
     {
+      "key": "end（少しの自信があったら、）",
+      "count": 18
+    },
+    {
       "key": "残響散歌 / aimer",
       "count": 17
     },
     {
       "key": "怪獣 / サカナクション",
-      "count": 17
-    },
-    {
-      "key": "end（少しの自信があったら、）",
       "count": 17
     },
     {
@@ -232776,6 +233340,10 @@
       "count": 10
     },
     {
+      "key": "サムライハート (some like it hot!!) / spyair",
+      "count": 10
+    },
+    {
       "key": "おやすみ泣き声、さよなら歌姫 / クリープハイプ",
       "count": 10
     },
@@ -232865,10 +233433,6 @@
     },
     {
       "key": "猫 / dish//",
-      "count": 9
-    },
-    {
-      "key": "サムライハート (some like it hot!!) / spyair",
       "count": 9
     },
     {
