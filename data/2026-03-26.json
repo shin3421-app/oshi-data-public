@@ -2,13 +2,30 @@
   "date": "2026-03-26",
   "streams": [
     {
+      "videoId": "uyhtDTw_Waw",
+      "channelId": "UC1NYgNBwE1i6dJNqljqhibg",
+      "channelName": "ミソラソラ - Misorasora",
+      "oshiName": "ミソラソラ - Misorasora",
+      "title": "【 歌枠┋KARAOKE 】お昼間ゲリラ.𖥔 美しく、かっこよく歌います🌊 【 #sorasolive┋ミソラソラ 】",
+      "actualStartTime": "2026-03-26T04:59:38Z",
+      "durationSec": 7197,
+      "setlistType": "partial",
+      "songCount": 9,
+      "setlistComment": {
+        "rawText": "🌊タイムスタンプ・セットリスト⚔️\n\n【00:04:55】開始・オープニングトーク\n\n【00:14:14】01.Attitude / Mrs. GREEN APPLE\n\n【00:25:24】02.Fighting My Way / 花海咲季(学園アイドルマスター)\n\n【00:50:11】03.冬と春 / backnumber\n\n【01:01:31】04.ノーチラス / ヨルシカ\n\n【01:06:22】05.思想犯 / ヨルシカ\n\n【01:17:51】06.長く短い祭 / 椎名林檎\n\n【01:23:28】07.クスシキ / Mrs. GREEN APPLE\n\n【01:30:30】08.硝子窓 / King Gnu\n\n【01:46:07】09.小さな野望 / 十王星南(学園アイドルマスター)\n\n【01:53:23】告知・おつソラ\n\n🩵おまけ🩵\n\n【00:19:03】Wildest Flowerの話\n【00:22:48】こんソラタイム\n【00:30:29】ミンティアと発声練習\n【00:55:52】ヨルシカの千鳥を覚えたい\n【01:36:05】お金の話(ミソラソラの収入額👀💰)",
+        "songCount": 9,
+        "timestampFirst": "00:14:14",
+        "timestampSecFirst": 854
+      }
+    },
+    {
       "videoId": "cWaLhqWZn9k",
       "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
       "channelName": "氷晶もね",
       "oshiName": "氷晶もね",
       "title": "【 #歌枠  弾き語り 】一緒にのんびりしていきませんか？【 氷晶もね  NynChordProduction】",
       "actualStartTime": "2026-03-26T09:01:27Z",
-      "durationSec": 5195,
+      "durationSec": 5196,
       "setlistType": "full",
       "songCount": 10,
       "setlistComment": {
