@@ -1,10 +1,1270 @@
 {
-  "generatedAt": "2026-03-27T05:22:25Z",
+  "generatedAt": "2026-03-27T21:21:34Z",
   "range": {
-    "files": 220,
-    "songs": 19436
+    "files": 221,
+    "songs": 19541
   },
   "songs": [
+    {
+      "date": "2026-03-27",
+      "videoId": "zOpSakarLKk",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】ウィスパーボイスでpiano only歌枠🎹鋼琴伴奏歌回  #VTuber #稍麦",
+      "actualStartTime": "2026-03-27T14:01:09Z",
+      "t": "00:13:05",
+      "sec": 785,
+      "label": "1. 裸の心 Piano Ver./あいみょん"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "zOpSakarLKk",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】ウィスパーボイスでpiano only歌枠🎹鋼琴伴奏歌回  #VTuber #稍麦",
+      "actualStartTime": "2026-03-27T14:01:09Z",
+      "t": "00:20:05",
+      "sec": 1205,
+      "label": "2. 斜陽 Piano Ver./ヨルシカ"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "zOpSakarLKk",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】ウィスパーボイスでpiano only歌枠🎹鋼琴伴奏歌回  #VTuber #稍麦",
+      "actualStartTime": "2026-03-27T14:01:09Z",
+      "t": "00:26:48",
+      "sec": 1608,
+      "label": "3. 忘れてください Piano Ver./ヨルシカ"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "zOpSakarLKk",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】ウィスパーボイスでpiano only歌枠🎹鋼琴伴奏歌回  #VTuber #稍麦",
+      "actualStartTime": "2026-03-27T14:01:09Z",
+      "t": "00:35:22",
+      "sec": 2122,
+      "label": "4. ボクノート Piano Ver./スキマスイッチ"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "zOpSakarLKk",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】ウィスパーボイスでpiano only歌枠🎹鋼琴伴奏歌回  #VTuber #稍麦",
+      "actualStartTime": "2026-03-27T14:01:09Z",
+      "t": "00:43:33",
+      "sec": 2613,
+      "label": "5. 星間飛行 Piano Ver./ランカ・リー=中島愛"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "zOpSakarLKk",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】ウィスパーボイスでpiano only歌枠🎹鋼琴伴奏歌回  #VTuber #稍麦",
+      "actualStartTime": "2026-03-27T14:01:09Z",
+      "t": "00:48:38",
+      "sec": 2918,
+      "label": "6. たばこ Piano Ver./コレサワ"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "zOpSakarLKk",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】ウィスパーボイスでpiano only歌枠🎹鋼琴伴奏歌回  #VTuber #稍麦",
+      "actualStartTime": "2026-03-27T14:01:09Z",
+      "t": "01:00:34",
+      "sec": 3634,
+      "label": "7. エウテルペ Piano Ver./EGOIST"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "zOpSakarLKk",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】ウィスパーボイスでpiano only歌枠🎹鋼琴伴奏歌回  #VTuber #稍麦",
+      "actualStartTime": "2026-03-27T14:01:09Z",
+      "t": "01:05:08",
+      "sec": 3908,
+      "label": "8. プラチナ Piano Ver./坂本真綾"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "zOpSakarLKk",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】ウィスパーボイスでpiano only歌枠🎹鋼琴伴奏歌回  #VTuber #稍麦",
+      "actualStartTime": "2026-03-27T14:01:09Z",
+      "t": "01:18:30",
+      "sec": 4710,
+      "label": "10. 虹の彼方に Piano Ver./ReoNa"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "zOpSakarLKk",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】ウィスパーボイスでpiano only歌枠🎹鋼琴伴奏歌回  #VTuber #稍麦",
+      "actualStartTime": "2026-03-27T14:01:09Z",
+      "t": "00:56:47",
+      "sec": 3407,
+      "label": "色々事故ってた"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "zOpSakarLKk",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】ウィスパーボイスでpiano only歌枠🎹鋼琴伴奏歌回  #VTuber #稍麦",
+      "actualStartTime": "2026-03-27T14:01:09Z",
+      "t": "01:29:12",
+      "sec": 5352,
+      "label": "お名前呼び"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "zOpSakarLKk",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】ウィスパーボイスでpiano only歌枠🎹鋼琴伴奏歌回  #VTuber #稍麦",
+      "actualStartTime": "2026-03-27T14:01:09Z",
+      "t": "01:30:45",
+      "sec": 5445,
+      "label": "ここかわいい"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "7:22",
+      "sec": 442,
+      "label": "だから僕は音楽を辞めた"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "13:46",
+      "sec": 826,
+      "label": "君の好きなとこ"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "19:09",
+      "sec": 1149,
+      "label": "またあえる日まで"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "24:30",
+      "sec": 1470,
+      "label": "クラクラ"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "28:29",
+      "sec": 1709,
+      "label": "ラビットホール"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "48:16",
+      "sec": 2896,
+      "label": "デリヘル呼んだら君が来た39 48:05"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "53:41",
+      "sec": 3221,
+      "label": "テレキャスタービーボーイ"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "57:29",
+      "sec": 3449,
+      "label": "新宝島"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:09:51",
+      "sec": 4191,
+      "label": "回る空うさぎ"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:13:56",
+      "sec": 4436,
+      "label": "紡ぐ"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:21:57",
+      "sec": 4917,
+      "label": "高嶺の花子さん"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:28:57",
+      "sec": 5337,
+      "label": "愛言葉"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:34:22",
+      "sec": 5662,
+      "label": "リライト"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:41:05",
+      "sec": 6065,
+      "label": "桃源郷エイリアン"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:47:16",
+      "sec": 6436,
+      "label": "ウォーアイニー"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:58:41",
+      "sec": 7121,
+      "label": "バクチ・ダンサー"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "2:03:00",
+      "sec": 7380,
+      "label": "内秘心書"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "2:13:35",
+      "sec": 8015,
+      "label": "雨とカプチーノ"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "7:06",
+      "sec": 426,
+      "label": "AAA HAHA T TES"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "11:29",
+      "sec": 689,
+      "label": "天Q~~~~~WO"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "12:17",
+      "sec": 737,
+      "label": "今日も可愛い"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "22:19",
+      "sec": 1339,
+      "label": "天Q~~天Q SO MUCH"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "31:26",
+      "sec": 1886,
+      "label": "AKAPAJAMA"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "31:59",
+      "sec": 1919,
+      "label": "AKAPAJAMA"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "33:34",
+      "sec": 2014,
+      "label": "MADAMADA"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "34:29",
+      "sec": 2069,
+      "label": "抱き枕カバー 受注予約期間 2026 3/27(金) > 5/31(日)23 : 59"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "52:22",
+      "sec": 3142,
+      "label": "天Q"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:02:29",
+      "sec": 3749,
+      "label": "天Q!"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:03:44",
+      "sec": 3824,
+      "label": "HI POCHI*2"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:03:57",
+      "sec": 3837,
+      "label": "HI POCHI*2"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:12:48",
+      "sec": 4368,
+      "label": "DEN Q"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:19:33",
+      "sec": 4773,
+      "label": "KON GAUGAU*2"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:26:48",
+      "sec": 5208,
+      "label": "DQ"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:38:08",
+      "sec": 5888,
+      "label": "天Q"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:38:58",
+      "sec": 5938,
+      "label": "PRRR WA"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:46:08",
+      "sec": 6368,
+      "label": "天!Q~"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:51:15",
+      "sec": 6675,
+      "label": "DQU~~~"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "1:53:31",
+      "sec": 6811,
+      "label": "N~NYA"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "2:01:35",
+      "sec": 7295,
+      "label": "天Q"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "2:10:34",
+      "sec": 7834,
+      "label": "ｴｰｲﾏｷﾀﾊﾞｯｶﾘｰ"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "2:18:42",
+      "sec": 8322,
+      "label": "ZOOM IN"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "2:20:05",
+      "sec": 8405,
+      "label": "POCHI*2*3"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "2:22:04",
+      "sec": 8524,
+      "label": "これを逃すともう二度と出ない 最初で最後の抱き枕カバー🛏💤"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "2:25:19",
+      "sec": 8719,
+      "label": "枕カバー2026/3/27 00 : 00 ~2026/05/31 23 : 59"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "2:33:04",
+      "sec": 9184,
+      "label": "E HO E HO"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "2:33:43",
+      "sec": 9223,
+      "label": "3/28(土)R6M大会予選"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "CzqU_uieTnY",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "channelName": "獅子神レオナ/レオナちゃんねる",
+      "oshiName": "獅子神レオナ/レオナちゃんねる",
+      "title": "【歌枠/Singing】え～～！？やったな！？！？※告知あり【 獅子神レオナ/Re:AcT】",
+      "actualStartTime": "2026-03-27T13:04:45Z",
+      "t": "2:35:15",
+      "sec": 9315,
+      "label": "YUKIMAMA ARIGATO~"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "rHSQj8VzGAY",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "ちょっと！【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-03-27T09:40:08Z",
+      "t": "1:51",
+      "sec": 111,
+      "label": "カルマ/BUMP OF CHICKEN"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "rHSQj8VzGAY",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "ちょっと！【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-03-27T09:40:08Z",
+      "t": "5:15",
+      "sec": 315,
+      "label": "1/3の純情な感情/SIAM SHADE"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "rHSQj8VzGAY",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "ちょっと！【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-03-27T09:40:08Z",
+      "t": "9:45",
+      "sec": 585,
+      "label": "ターゲット～赤い衝撃～/和田光司"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "rHSQj8VzGAY",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "ちょっと！【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-03-27T09:40:08Z",
+      "t": "14:33",
+      "sec": 873,
+      "label": "The Biggest Dreamer/和田光司"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "rHSQj8VzGAY",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "ちょっと！【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-03-27T09:40:08Z",
+      "t": "18:39",
+      "sec": 1119,
+      "label": "オレンジ/SPYAIR"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "rHSQj8VzGAY",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "ちょっと！【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-03-27T09:40:08Z",
+      "t": "22:56",
+      "sec": 1376,
+      "label": "もっと光を/BLUE ENCOUNT"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "rHSQj8VzGAY",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "ちょっと！【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-03-27T09:40:08Z",
+      "t": "27:02",
+      "sec": 1622,
+      "label": "真赤/My Hair is Bad"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "rHSQj8VzGAY",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "ちょっと！【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-03-27T09:40:08Z",
+      "t": "31:49",
+      "sec": 1909,
+      "label": "IRIS OUT/米津玄師"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "rHSQj8VzGAY",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "ちょっと！【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-03-27T09:40:08Z",
+      "t": "34:49",
+      "sec": 2089,
+      "label": "napori/Vaundy"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "rHSQj8VzGAY",
+      "channelId": "UCmkA3ZlbadJFCfR7OnQWM0A",
+      "channelName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "oshiName": "Whale Taylor Ch.【ホエール・テイラー】",
+      "title": "ちょっと！【歌枠】(ホエテラ)",
+      "actualStartTime": "2026-03-27T09:40:08Z",
+      "t": "39:03",
+      "sec": 2343,
+      "label": "Butter-Fly/和田光司"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:07:05",
+      "sec": 425,
+      "label": "♪ パジャマっ子☆ / HoneyWorks"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:10:14",
+      "sec": 614,
+      "label": "スキキライ / HoneyWorks"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:12:12",
+      "sec": 732,
+      "label": "竹取オーバーナイトセンセーション / HoneyWorks"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:14:34",
+      "sec": 874,
+      "label": "泣キ虫カレシ / HoneyWorks"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:16:48",
+      "sec": 1008,
+      "label": "幸せなRAD聞く層は現実充実しすぎ"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:17:52",
+      "sec": 1072,
+      "label": "♪ Dear / 19 - iku"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:22:41",
+      "sec": 1361,
+      "label": "失恋ソングだった この後カップルまで持ってく"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:23:54",
+      "sec": 1434,
+      "label": "シュガーバイン / Dixie Flatline"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:26:24",
+      "sec": 1584,
+      "label": "♪ 告白予行練習 / HoneyWorks"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:30:46",
+      "sec": 1846,
+      "label": "♪ ホシアイ / レフティーモンスターP"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:33:36",
+      "sec": 2016,
+      "label": "♪ しわ / buzzG"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:40:00",
+      "sec": 2400,
+      "label": "瞬き / back number"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:40:35",
+      "sec": 2435,
+      "label": "If I Can't Have You / Shawn Mendes"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:42:33",
+      "sec": 2553,
+      "label": "♪ ピエロ / KEI"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:47:55",
+      "sec": 2875,
+      "label": "♪ それがあなたの幸せとしても / Heavenz"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:53:22",
+      "sec": 3202,
+      "label": "もし浮気されたら"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "0:55:18",
+      "sec": 3318,
+      "label": "♪ 愛言葉 / DECO*27"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "1:01:44",
+      "sec": 3704,
+      "label": "♪ 心拍数♯0822 / 蝶々P"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "1:12:42",
+      "sec": 4362,
+      "label": "1/6 / ぼーかりおどP"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "1:15:33",
+      "sec": 4533,
+      "label": "♪ メルト / ryo"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "1:20:58",
+      "sec": 4858,
+      "label": "♪ crack / keeno"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "AB9nio16Yxw",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】幸せなボカロ曲を歌いたい！私が幸せにします❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-03-27T09:00:42Z",
+      "t": "1:26:54",
+      "sec": 5214,
+      "label": "♪ Starduster / ジミーサムP"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "XkOiF41P0Yc",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】お昼休みを堪能しましょうね🎵🎵【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-03-27T03:00:56Z",
+      "t": "00:00:01",
+      "sec": 1,
+      "label": "01:23 声入り"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "XkOiF41P0Yc",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】お昼休みを堪能しましょうね🎵🎵【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-03-27T03:00:56Z",
+      "t": "00:22:20",
+      "sec": 1340,
+      "label": "01. Don't Call It a Night!!／XIDEN"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "XkOiF41P0Yc",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】お昼休みを堪能しましょうね🎵🎵【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-03-27T03:00:56Z",
+      "t": "00:51:47",
+      "sec": 3107,
+      "label": "02. Beat Eater／ポリスピカデリー"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "XkOiF41P0Yc",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】お昼休みを堪能しましょうね🎵🎵【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-03-27T03:00:56Z",
+      "t": "00:56:43",
+      "sec": 3403,
+      "label": "03. エンヴィキャットウォーク／トーマ"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "XkOiF41P0Yc",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】お昼休みを堪能しましょうね🎵🎵【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-03-27T03:00:56Z",
+      "t": "01:00:47",
+      "sec": 3647,
+      "label": "04. G4L／Giga"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "XkOiF41P0Yc",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】お昼休みを堪能しましょうね🎵🎵【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-03-27T03:00:56Z",
+      "t": "01:05:13",
+      "sec": 3913,
+      "label": "05. 革命道中／アイナ・ジ・エンド"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "XkOiF41P0Yc",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】お昼休みを堪能しましょうね🎵🎵【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-03-27T03:00:56Z",
+      "t": "01:11:24",
+      "sec": 4284,
+      "label": "06. 群青日和／東京事変"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "XkOiF41P0Yc",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】お昼休みを堪能しましょうね🎵🎵【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-03-27T03:00:56Z",
+      "t": "01:18:23",
+      "sec": 4703,
+      "label": "07. 落日／東京事変"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "XkOiF41P0Yc",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】お昼休みを堪能しましょうね🎵🎵【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-03-27T03:00:56Z",
+      "t": "01:58:10",
+      "sec": 7090,
+      "label": "09. ハッピージャムジャム／しまじろう・みみりん・とりっぴい・にゃっきい"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "XkOiF41P0Yc",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】お昼休みを堪能しましょうね🎵🎵【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-03-27T03:00:56Z",
+      "t": "02:00:55",
+      "sec": 7255,
+      "label": "10. 夢をかなえてドラえもん／mao"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "XkOiF41P0Yc",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】お昼休みを堪能しましょうね🎵🎵【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-03-27T03:00:56Z",
+      "t": "02:09:30",
+      "sec": 7770,
+      "label": "11. めざせポケモンマスター／松本梨香"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "XkOiF41P0Yc",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】お昼休みを堪能しましょうね🎵🎵【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-03-27T03:00:56Z",
+      "t": "02:13:52",
+      "sec": 8032,
+      "label": "12. ウィーアー！／きただにひろし"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "XkOiF41P0Yc",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】お昼休みを堪能しましょうね🎵🎵【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-03-27T03:00:56Z",
+      "t": "02:18:10",
+      "sec": 8290,
+      "label": "13. 爆裂愛してる／M!LK"
+    },
+    {
+      "date": "2026-03-27",
+      "videoId": "XkOiF41P0Yc",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】お昼休みを堪能しましょうね🎵🎵【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-03-27T03:00:56Z",
+      "t": "02:21:40",
+      "sec": 8500,
+      "label": "14. 好きすぎて滅！／M!LK"
+    },
     {
       "date": "2026-03-26",
       "videoId": "XQ1Bu9cny_c",
@@ -233249,7 +234509,7 @@
     },
     {
       "key": "ここかわいい",
-      "count": 38
+      "count": 39
     },
     {
       "key": "end",
@@ -233265,7 +234525,7 @@
     },
     {
       "key": "お名前呼び",
-      "count": 30
+      "count": 31
     },
     {
       "key": "スタート",
@@ -233512,6 +234772,14 @@
       "count": 10
     },
     {
+      "key": "真赤/my hair is bad",
+      "count": 10
+    },
+    {
+      "key": "butter-fly/和田光司",
+      "count": 10
+    },
+    {
       "key": "おやすみ泣き声、さよなら歌姫 / クリープハイプ",
       "count": 10
     },
@@ -233604,7 +234872,7 @@
       "count": 9
     },
     {
-      "key": "真赤/my hair is bad",
+      "key": "iris out/米津玄師",
       "count": 9
     },
     {
@@ -233617,10 +234885,6 @@
     },
     {
       "key": "you're notes / ヨノ",
-      "count": 9
-    },
-    {
-      "key": "butter-fly/和田光司",
       "count": 9
     },
     {
@@ -233688,7 +234952,7 @@
       "count": 8
     },
     {
-      "key": "iris out/米津玄師",
+      "key": "オレンジ/spyair",
       "count": 8
     },
     {
@@ -233776,10 +235040,6 @@
       "count": 7
     },
     {
-      "key": "オレンジ/spyair",
-      "count": 7
-    },
-    {
       "key": "ラフ・メイカー/bump of chicken",
       "count": 7
     },
@@ -233852,6 +235112,10 @@
       "count": 7
     },
     {
+      "key": "♪ crack / keeno",
+      "count": 7
+    },
+    {
       "key": "♪ ノーチラス / ヨルシカ",
       "count": 7
     },
@@ -233905,6 +235169,10 @@
     },
     {
       "key": "butter-fly / 和田光司",
+      "count": 6
+    },
+    {
+      "key": "カルマ/bump of chicken",
       "count": 6
     },
     {
@@ -234028,15 +235296,7 @@
       "count": 6
     },
     {
-      "key": "♪ crack / keeno",
-      "count": 6
-    },
-    {
       "key": "天ノ弱 / 164",
-      "count": 6
-    },
-    {
-      "key": "♪ me me she / radwimps",
       "count": 6
     }
   ]
