@@ -1,10 +1,1954 @@
 {
-  "generatedAt": "2026-04-01T05:34:44Z",
+  "generatedAt": "2026-04-01T21:29:41Z",
   "range": {
-    "files": 225,
-    "songs": 20124
+    "files": 226,
+    "songs": 20286
   },
   "songs": [
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:03:39",
+      "sec": 219,
+      "label": "1. CHE.R.RY / YUI"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:19:42",
+      "sec": 1182,
+      "label": "2. 春の歌 / スピッツ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:29:43",
+      "sec": 1783,
+      "label": "3. さくら(独唱) / 森山直太朗"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:37:27",
+      "sec": 2247,
+      "label": "4. さくら / ケツメイシ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:49:48",
+      "sec": 2988,
+      "label": "5. 春を告げる / yama"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:53:40",
+      "sec": 3220,
+      "label": "6. 晴る / ヨルシカ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:05:43",
+      "sec": 3943,
+      "label": "7. なごり雪 / イルカ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:10:32",
+      "sec": 4232,
+      "label": "8. 桜色舞うころ / 中島美嘉"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:21:51",
+      "sec": 4911,
+      "label": "9. 桜の時 / aiko"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:52:18",
+      "sec": 6738,
+      "label": "10. 桜 / コブクロ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:59:34",
+      "sec": 7174,
+      "label": "11. 桜坂 / 福山雅治"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "2:05:27",
+      "sec": 7527,
+      "label": "12. いい日 旅立ち / 山口百恵"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "2:18:56",
+      "sec": 8336,
+      "label": "13. 春よ、来い / 松任谷由実"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "2:24:55",
+      "sec": 8695,
+      "label": "14. SAKURAドロップス / 宇多田ヒカル"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "2:42:03",
+      "sec": 9723,
+      "label": "15. 春擬き / やなぎなぎ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:06:50",
+      "sec": 410,
+      "label": "リアクションカウンター実装しました"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:07:54",
+      "sec": 474,
+      "label": "こんばんは～表情が変わりました"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:09:53",
+      "sec": 593,
+      "label": "2ndシングル出ました"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:11:06",
+      "sec": 666,
+      "label": "凸してきました"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:13:25",
+      "sec": 805,
+      "label": "いのち…なんどでも？"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:14:31",
+      "sec": 871,
+      "label": "歌枠リレーのお話"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:16:56",
+      "sec": 1016,
+      "label": "今日は春曲歌いたい🌸"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:18:22",
+      "sec": 1102,
+      "label": "花粉やばい…🌲🌲🌲"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:24:07",
+      "sec": 1447,
+      "label": "春の歌のお話 [24:52"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:24:29",
+      "sec": 1469,
+      "label": "弾幕＆リアクションありがと～"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:27:26",
+      "sec": 1646,
+      "label": "ナオタロサァン"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:29:11",
+      "sec": 1751,
+      "label": "かっこいい！"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:33:49",
+      "sec": 2029,
+      "label": "春の曲素敵！🌸"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:34:41",
+      "sec": 2081,
+      "label": "ご飯食べすぎちゃった… [35:17"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:43:00",
+      "sec": 2580,
+      "label": "とっても素敵な曲！"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:44:37",
+      "sec": 2677,
+      "label": "スパ＆メンバーのお礼🌈"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:47:10",
+      "sec": 2830,
+      "label": "寝転がってますw"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:48:10",
+      "sec": 2890,
+      "label": "他の春曲は？"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:58:30",
+      "sec": 3510,
+      "label": "晴るのお話"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "0:59:31",
+      "sec": 3571,
+      "label": "何杯もシャンパン飲みます [1:00:15"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:03:43",
+      "sec": 3823,
+      "label": "お酒のお話🍶"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:09:20",
+      "sec": 4160,
+      "label": "なごり雪のお話"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:16:45",
+      "sec": 4605,
+      "label": "8杯目入りましたー🥂"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:17:08",
+      "sec": 4628,
+      "label": "バラード曲のお話"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:18:53",
+      "sec": 4733,
+      "label": "aikoさんの春曲歌いたい"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:26:33",
+      "sec": 5193,
+      "label": "✨音を浮かべてのお話"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:27:58",
+      "sec": 5278,
+      "label": "テーマ＆コンセプト"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:34:08",
+      "sec": 5648,
+      "label": "歌詞を書いてみたい"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:34:56",
+      "sec": 5696,
+      "label": "編曲のお話"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:37:43",
+      "sec": 5863,
+      "label": "楽曲提供していただいたお話"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:40:53",
+      "sec": 6053,
+      "label": "MVのお話"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:43:32",
+      "sec": 6212,
+      "label": "レコーディングのお話"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:45:50",
+      "sec": 6350,
+      "label": "誕生花のお話"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "1:49:29",
+      "sec": 6569,
+      "label": "初歌唱は歌枠リレーで！"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "2:10:27",
+      "sec": 7827,
+      "label": "いい日 旅立ちのお話"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "2:12:15",
+      "sec": 7935,
+      "label": "妖怪ため息吸い！[2:14:17"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "2:13:58",
+      "sec": 8038,
+      "label": "KMNZさん来てた!? [2:14:49"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "2:31:56",
+      "sec": 9116,
+      "label": "歌っていない春曲無い？"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "2:33:02",
+      "sec": 9182,
+      "label": "🎵 ・ 遠く遠く (アカペラ・セトリ外) / 槇原敬之"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "2:36:45",
+      "sec": 9405,
+      "label": "🎵 ・ 勿忘 (セトリ外) / Awesome City Club"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "2:39:03",
+      "sec": 9543,
+      "label": "ラスト曲決めます！"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "bf5G5IIICMI",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【歌枠】4月最初の歌配信、春を歌ヲウ～✽ 2nd Singleのお話も【wouca : RK Music】#utawouca 32 #karaoke",
+      "actualStartTime": "2026-04-01T13:02:42Z",
+      "t": "2:52:05",
+      "sec": 10325,
+      "label": "配信の予定"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "4Ee9BkT4KaM",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【歌枠】けろまるです。リズさんに変わって歌わせていただきます。【雨夜リズ/ミリプロ】",
+      "actualStartTime": "2026-04-01T11:40:27Z",
+      "t": "0:01:50",
+      "sec": 110,
+      "label": "01. ファンサ / mona(夏川椎菜"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "4Ee9BkT4KaM",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【歌枠】けろまるです。リズさんに変わって歌わせていただきます。【雨夜リズ/ミリプロ】",
+      "actualStartTime": "2026-04-01T11:40:27Z",
+      "t": "0:11:02",
+      "sec": 662,
+      "label": "02. おちゃめ機能 / ラマーズP"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "4Ee9BkT4KaM",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【歌枠】けろまるです。リズさんに変わって歌わせていただきます。【雨夜リズ/ミリプロ】",
+      "actualStartTime": "2026-04-01T11:40:27Z",
+      "t": "0:17:52",
+      "sec": 1072,
+      "label": "03. IRIS OUT / 米津玄師"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "4Ee9BkT4KaM",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【歌枠】けろまるです。リズさんに変わって歌わせていただきます。【雨夜リズ/ミリプロ】",
+      "actualStartTime": "2026-04-01T11:40:27Z",
+      "t": "0:22:31",
+      "sec": 1351,
+      "label": "04. JANE DOE / 米津玄師、宇多田ヒカル"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "4Ee9BkT4KaM",
+      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
+      "channelName": "雨夜リズ / Amayo Liz",
+      "oshiName": "雨夜リズ / Amayo Liz",
+      "title": "【歌枠】けろまるです。リズさんに変わって歌わせていただきます。【雨夜リズ/ミリプロ】",
+      "actualStartTime": "2026-04-01T11:40:27Z",
+      "t": "0:29:49",
+      "sec": 1789,
+      "label": "05. かえるのうた"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "ARipWtqLEao",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】コメント欄封鎖でコメント大荒れ【#宙月ティラ #Vsinger】",
+      "actualStartTime": "2026-04-01T11:00:12Z",
+      "t": "00:06:08",
+      "sec": 368,
+      "label": "01. 勇気100% / 光GENJI"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "ARipWtqLEao",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】コメント欄封鎖でコメント大荒れ【#宙月ティラ #Vsinger】",
+      "actualStartTime": "2026-04-01T11:00:12Z",
+      "t": "00:12:00",
+      "sec": 720,
+      "label": "02. リンダ リンダ / THE BLUE HEARTS"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "ARipWtqLEao",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelName": "宙月ティラ",
+      "oshiName": "宙月ティラ",
+      "title": "【歌枠】コメント欄封鎖でコメント大荒れ【#宙月ティラ #Vsinger】",
+      "actualStartTime": "2026-04-01T11:00:12Z",
+      "t": "00:23:49",
+      "sec": 1429,
+      "label": "03. 君のせい / the peggies"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "0:10:42",
+      "sec": 642,
+      "label": "さくら(独唱) / 森山直太朗"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "0:17:09",
+      "sec": 1029,
+      "label": "SAKURA / いきものがかり"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "0:25:02",
+      "sec": 1502,
+      "label": "蕾 / コブクロ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "0:34:08",
+      "sec": 2048,
+      "label": "さよならメモリーズ / supercell"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "0:43:12",
+      "sec": 2592,
+      "label": "CHE.R.RY / YUI"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "0:47:26",
+      "sec": 2846,
+      "label": "春風 / Rihwa"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "0:56:44",
+      "sec": 3404,
+      "label": "ライラック / Mrs. GREEN APPLE"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "1:03:35",
+      "sec": 3815,
+      "label": "ダンスホール / Mrs. GREEN APPLE"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "1:07:58",
+      "sec": 4078,
+      "label": "はいよろこんで/ こっちのけんと"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "1:12:35",
+      "sec": 4355,
+      "label": "Overdose / なとり"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "1:18:08",
+      "sec": 4688,
+      "label": "クラクラ / Ado"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "1:20:52",
+      "sec": 4852,
+      "label": "花になって / 緑黄色社会"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "1:25:48",
+      "sec": 5148,
+      "label": "Share The World / 東方神起"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "1:32:32",
+      "sec": 5552,
+      "label": "怪獣 / サカナクション"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "1:43:35",
+      "sec": 6215,
+      "label": "新宝島 / サカナクション"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "1:50:27",
+      "sec": 6627,
+      "label": "サクラ咲ケ / 嵐"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "1:57:22",
+      "sec": 7042,
+      "label": "SUN / 星野 源"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "2:04:17",
+      "sec": 7457,
+      "label": "桜ノ雨 / absorb"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "2:11:51",
+      "sec": 7911,
+      "label": "千本桜 / WhiteFlame feat.初音ミク"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "YGFLQOwQlfM",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【🌇歌枠】４月一番最初の歌枠！！桜の季節ですね🌸✨ #作業用BGM #睡眠用bgm 【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-01T09:04:03Z",
+      "t": "2:18:44",
+      "sec": 8324,
+      "label": "名前のない怪物 / EGOIST"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:02:14",
+      "sec": 134,
+      "label": "声入り"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:22:21",
+      "sec": 1341,
+      "label": "01. 嘘／シド"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:26:17",
+      "sec": 1577,
+      "label": "02. シャンティ／wotaku"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:29:33",
+      "sec": 1773,
+      "label": "03. 悪魔の踊り方／キタニタツヤ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:34:11",
+      "sec": 2051,
+      "label": "04. LOSER／米津玄師"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:56:54",
+      "sec": 3414,
+      "label": "05. フィクサー／ぬゆり"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "01:01:40",
+      "sec": 3700,
+      "label": "06. Flamingo／米津玄師"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "01:10:21",
+      "sec": 4221,
+      "label": "07. 春雷／米津玄師"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "01:21:02",
+      "sec": 4862,
+      "label": "08. 不可幸力／Vaundy"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "01:25:12",
+      "sec": 5112,
+      "label": "09. ギターと孤独と蒼い惑星／結束バンド"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:02:23",
+      "sec": 143,
+      "label": "寝起きザイデン"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:02:49",
+      "sec": 169,
+      "label": "┗ イケボザイデン？"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:03:10",
+      "sec": 190,
+      "label": "┗ 話が散乱"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:03:39",
+      "sec": 219,
+      "label": "┗ 04:47 ？？？「ｼｨｰﾃﾞﾝ！RKは替え歌ダメだよ！」"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:04:58",
+      "sec": 298,
+      "label": "┗ 耳鼻科で花粉症の検査をしてきた"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:07:03",
+      "sec": 423,
+      "label": "┗ アレルギー検査（採血）を急にやられた"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:10:28",
+      "sec": 628,
+      "label": "┗ 男だから約束は守る"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:11:56",
+      "sec": 716,
+      "label": "┗ イチゴは好き、イチゴ味はあんまり"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:12:59",
+      "sec": 779,
+      "label": "┗ 26.05.02.”RIOT BLUE SHOWCASE`26” 出演決定"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:15:45",
+      "sec": 945,
+      "label": "┗ チャット欄にトリコ（LEWNEさん）"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:18:53",
+      "sec": 1133,
+      "label": "┗ LE「先日（コラボの配信）は申し訳ございませんでした」"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:20:08",
+      "sec": 1208,
+      "label": "┗ MCなしでずっと歌い続けたい"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:21:50",
+      "sec": 1310,
+      "label": "┗ 話したこといっぱい！歌ってからにする！"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:38:13",
+      "sec": 2293,
+      "label": "MC①"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:39:10",
+      "sec": 2350,
+      "label": "┗ 26.04.05. ”RKMUSIC歌枠リレー”"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:44:35",
+      "sec": 2675,
+      "label": "┗ 26.04.19. \"Super9歌枠リレー ~LOWTONE~\""
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:45:53",
+      "sec": 2753,
+      "label": "┗ 26.04.18. XIDEN BIRTHDAY LIVE2026 \"BORN FROM aXIs\""
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:50:00",
+      "sec": 3000,
+      "label": "┗ 阿波踊り"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:50:53",
+      "sec": 3053,
+      "label": "┗ BD LIVEの宣伝用に作った動画"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "00:55:52",
+      "sec": 3352,
+      "label": "┗ ライブグッズはありますか？→これで察して"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "01:04:55",
+      "sec": 3895,
+      "label": "MC②"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "01:05:08",
+      "sec": 3908,
+      "label": "┗ 『Flamingo』1mmも知らないのに歌ってみたが好き"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "01:08:48",
+      "sec": 4128,
+      "label": "SP. さよーならまたいつか！／米津玄師（途中まで）"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "01:10:09",
+      "sec": 4209,
+      "label": "┗ 『さよーならまたいつか！』何もなかった"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "01:15:05",
+      "sec": 4505,
+      "label": "MC③"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "01:16:37",
+      "sec": 4597,
+      "label": "┗ 髪もメイクも超上手くいったのに横殴りの雨に台無しにされた"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "01:18:40",
+      "sec": 4720,
+      "label": "┗ 蟻に気を遣って歩きたくない"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "01:28:40",
+      "sec": 5320,
+      "label": "MC④"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "01:29:18",
+      "sec": 5358,
+      "label": "┗ 26.04.18. XIDEN BIRTHDAY LIVE2026 \"BORN FROM aXIs\""
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "0RoSGoBR-FM",
+      "channelId": "UCgPGVORhti-KKcV4CqUyumQ",
+      "channelName": "XIDEN",
+      "oshiName": "XIDEN",
+      "title": "【歌枠】真実はいつも1～6つ【XIDEN/RKMusic】#作業用bgm",
+      "actualStartTime": "2026-04-01T09:01:33Z",
+      "t": "01:32:11",
+      "sec": 5531,
+      "label": "┗ ばいばーい"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "0:07:04",
+      "sec": 424,
+      "label": "♪ ひとりごつ / ハチワレ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "0:11:22",
+      "sec": 682,
+      "label": "尻尾もあります"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "0:12:55",
+      "sec": 775,
+      "label": "♪ 赤いスイートピー / 松田聖子"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "0:18:46",
+      "sec": 1126,
+      "label": "♪ 風になる / つじあやの"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "0:24:45",
+      "sec": 1485,
+      "label": "吸収されるちびもね"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "0:28:00",
+      "sec": 1680,
+      "label": "♪ たばこ / コレサワ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "0:34:20",
+      "sec": 2060,
+      "label": "♪ あたしを彼女にしたいなら / コレサワ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "0:39:33",
+      "sec": 2373,
+      "label": "♪ Wherever you are / ONE OK ROCK"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "0:46:03",
+      "sec": 2763,
+      "label": "♪ Fly Me to the Moon / Bart Howard"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "0:51:12",
+      "sec": 3072,
+      "label": "♪ フリージア / Uru"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "0:55:50",
+      "sec": 3350,
+      "label": "小指を引きちぎってちびもねを生成"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "0:57:08",
+      "sec": 3428,
+      "label": "♪ 森の小さなレストラン / 手嶌葵"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "1:00:25",
+      "sec": 3625,
+      "label": "♪ look at the sea / おいしくるメロンパン"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "1:07:21",
+      "sec": 4041,
+      "label": "♪ ドライフラワー / 優里"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "1:17:14",
+      "sec": 4634,
+      "label": "♪ me me she / RADWIMPS"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "JyXNr-J-igM",
+      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
+      "channelName": "氷晶もね",
+      "oshiName": "氷晶もね",
+      "title": "【 #歌枠  弾き語り 】私と一緒に帰宅してください❄【 氷晶もね  NynChordProduction】",
+      "actualStartTime": "2026-04-01T09:00:09Z",
+      "t": "1:24:22",
+      "sec": 5062,
+      "label": "ちびもねでバイバイ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "XQQ-jx4fnAM",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【#初配信 】キミの体から産まれました！渚沢 汗です！汗汗💦【渚沢シチ / #ミクスト】",
+      "actualStartTime": "2026-04-01T08:01:27Z",
+      "t": "0:00:00",
+      "sec": 0,
+      "label": "出オチ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "XQQ-jx4fnAM",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【#初配信 】キミの体から産まれました！渚沢 汗です！汗汗💦【渚沢シチ / #ミクスト】",
+      "actualStartTime": "2026-04-01T08:01:27Z",
+      "t": "0:02:26",
+      "sec": 146,
+      "label": "画面入り"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "XQQ-jx4fnAM",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【#初配信 】キミの体から産まれました！渚沢 汗です！汗汗💦【渚沢シチ / #ミクスト】",
+      "actualStartTime": "2026-04-01T08:01:27Z",
+      "t": "0:02:35",
+      "sec": 155,
+      "label": "声入り"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "XQQ-jx4fnAM",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【#初配信 】キミの体から産まれました！渚沢 汗です！汗汗💦【渚沢シチ / #ミクスト】",
+      "actualStartTime": "2026-04-01T08:01:27Z",
+      "t": "0:24:33",
+      "sec": 1473,
+      "label": "夏色 / ゆず"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "XQQ-jx4fnAM",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【#初配信 】キミの体から産まれました！渚沢 汗です！汗汗💦【渚沢シチ / #ミクスト】",
+      "actualStartTime": "2026-04-01T08:01:27Z",
+      "t": "0:30:06",
+      "sec": 1806,
+      "label": "お願いマッスル / 紗倉ひびき(CV:ファイルーズあい) × 街雄鳴造(CV:石川界人"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "XQQ-jx4fnAM",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【#初配信 】キミの体から産まれました！渚沢 汗です！汗汗💦【渚沢シチ / #ミクスト】",
+      "actualStartTime": "2026-04-01T08:01:27Z",
+      "t": "0:37:21",
+      "sec": 2241,
+      "label": "忘れてください / ヨルシカ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "XQQ-jx4fnAM",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【#初配信 】キミの体から産まれました！渚沢 汗です！汗汗💦【渚沢シチ / #ミクスト】",
+      "actualStartTime": "2026-04-01T08:01:27Z",
+      "t": "0:43:18",
+      "sec": 2598,
+      "label": "雨とカプチーノ / ヨルシカ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "XQQ-jx4fnAM",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【#初配信 】キミの体から産まれました！渚沢 汗です！汗汗💦【渚沢シチ / #ミクスト】",
+      "actualStartTime": "2026-04-01T08:01:27Z",
+      "t": "0:53:45",
+      "sec": 3225,
+      "label": "糸 / 中島みゆき"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "rp9WjvhgtpY",
+      "channelId": "UC1NYgNBwE1i6dJNqljqhibg",
+      "channelName": "ミソラソラ - Misorasora",
+      "oshiName": "ミソラソラ - Misorasora",
+      "title": "【 新FCお披露目┋KARAOKE  】新しいファンクラブ開設式🩵.𖥔 ݁嬉しい特典も？！【 #sorasolive┋ミソラソラ 】",
+      "actualStartTime": "2026-04-01T05:12:05Z",
+      "t": "00:15:36",
+      "sec": 936,
+      "label": "【 】ライドリファンクラブについて"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "rp9WjvhgtpY",
+      "channelId": "UC1NYgNBwE1i6dJNqljqhibg",
+      "channelName": "ミソラソラ - Misorasora",
+      "oshiName": "ミソラソラ - Misorasora",
+      "title": "【 新FCお披露目┋KARAOKE  】新しいファンクラブ開設式🩵.𖥔 ݁嬉しい特典も？！【 #sorasolive┋ミソラソラ 】",
+      "actualStartTime": "2026-04-01T05:12:05Z",
+      "t": "00:20:14",
+      "sec": 1214,
+      "label": "【 】各プラン内容の説明"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "rp9WjvhgtpY",
+      "channelId": "UC1NYgNBwE1i6dJNqljqhibg",
+      "channelName": "ミソラソラ - Misorasora",
+      "oshiName": "ミソラソラ - Misorasora",
+      "title": "【 新FCお披露目┋KARAOKE  】新しいファンクラブ開設式🩵.𖥔 ݁嬉しい特典も？！【 #sorasolive┋ミソラソラ 】",
+      "actualStartTime": "2026-04-01T05:12:05Z",
+      "t": "00:34:39",
+      "sec": 2079,
+      "label": "【 】加入特典について"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "rp9WjvhgtpY",
+      "channelId": "UC1NYgNBwE1i6dJNqljqhibg",
+      "channelName": "ミソラソラ - Misorasora",
+      "oshiName": "ミソラソラ - Misorasora",
+      "title": "【 新FCお披露目┋KARAOKE  】新しいファンクラブ開設式🩵.𖥔 ݁嬉しい特典も？！【 #sorasolive┋ミソラソラ 】",
+      "actualStartTime": "2026-04-01T05:12:05Z",
+      "t": "00:43:19",
+      "sec": 2599,
+      "label": "【 】ファンクラブの移行理由"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "rp9WjvhgtpY",
+      "channelId": "UC1NYgNBwE1i6dJNqljqhibg",
+      "channelName": "ミソラソラ - Misorasora",
+      "oshiName": "ミソラソラ - Misorasora",
+      "title": "【 新FCお披露目┋KARAOKE  】新しいファンクラブ開設式🩵.𖥔 ݁嬉しい特典も？！【 #sorasolive┋ミソラソラ 】",
+      "actualStartTime": "2026-04-01T05:12:05Z",
+      "t": "00:56:17",
+      "sec": 3377,
+      "label": "【 】質問タイム"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "rp9WjvhgtpY",
+      "channelId": "UC1NYgNBwE1i6dJNqljqhibg",
+      "channelName": "ミソラソラ - Misorasora",
+      "oshiName": "ミソラソラ - Misorasora",
+      "title": "【 新FCお披露目┋KARAOKE  】新しいファンクラブ開設式🩵.𖥔 ݁嬉しい特典も？！【 #sorasolive┋ミソラソラ 】",
+      "actualStartTime": "2026-04-01T05:12:05Z",
+      "t": "01:26:15",
+      "sec": 5175,
+      "label": "【 】【重要】スーパーチャットで歌唱曲をリクエストするのがダメな理由"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "rp9WjvhgtpY",
+      "channelId": "UC1NYgNBwE1i6dJNqljqhibg",
+      "channelName": "ミソラソラ - Misorasora",
+      "oshiName": "ミソラソラ - Misorasora",
+      "title": "【 新FCお披露目┋KARAOKE  】新しいファンクラブ開設式🩵.𖥔 ݁嬉しい特典も？！【 #sorasolive┋ミソラソラ 】",
+      "actualStartTime": "2026-04-01T05:12:05Z",
+      "t": "01:31:29",
+      "sec": 5489,
+      "label": "【 】ネコミミ歌唱タイム!!ฅ^•ω•^ฅ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "rp9WjvhgtpY",
+      "channelId": "UC1NYgNBwE1i6dJNqljqhibg",
+      "channelName": "ミソラソラ - Misorasora",
+      "oshiName": "ミソラソラ - Misorasora",
+      "title": "【 新FCお披露目┋KARAOKE  】新しいファンクラブ開設式🩵.𖥔 ݁嬉しい特典も？！【 #sorasolive┋ミソラソラ 】",
+      "actualStartTime": "2026-04-01T05:12:05Z",
+      "t": "01:31:42",
+      "sec": 5502,
+      "label": "【 】01.かわいいだけじゃだめですか? / CUITE STREET"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "rp9WjvhgtpY",
+      "channelId": "UC1NYgNBwE1i6dJNqljqhibg",
+      "channelName": "ミソラソラ - Misorasora",
+      "oshiName": "ミソラソラ - Misorasora",
+      "title": "【 新FCお披露目┋KARAOKE  】新しいファンクラブ開設式🩵.𖥔 ݁嬉しい特典も？！【 #sorasolive┋ミソラソラ 】",
+      "actualStartTime": "2026-04-01T05:12:05Z",
+      "t": "01:36:17",
+      "sec": 5777,
+      "label": "【 】ネコミミスクショタイム!!📸ฅ^•ω•^ฅ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "rp9WjvhgtpY",
+      "channelId": "UC1NYgNBwE1i6dJNqljqhibg",
+      "channelName": "ミソラソラ - Misorasora",
+      "oshiName": "ミソラソラ - Misorasora",
+      "title": "【 新FCお披露目┋KARAOKE  】新しいファンクラブ開設式🩵.𖥔 ݁嬉しい特典も？！【 #sorasolive┋ミソラソラ 】",
+      "actualStartTime": "2026-04-01T05:12:05Z",
+      "t": "01:38:52",
+      "sec": 5932,
+      "label": "【 】02.嗚呼、素晴らしきニャン生 / Nem"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "rp9WjvhgtpY",
+      "channelId": "UC1NYgNBwE1i6dJNqljqhibg",
+      "channelName": "ミソラソラ - Misorasora",
+      "oshiName": "ミソラソラ - Misorasora",
+      "title": "【 新FCお披露目┋KARAOKE  】新しいファンクラブ開設式🩵.𖥔 ݁嬉しい特典も？！【 #sorasolive┋ミソラソラ 】",
+      "actualStartTime": "2026-04-01T05:12:05Z",
+      "t": "01:44:43",
+      "sec": 6283,
+      "label": "【 】03.エンヴィーキャットウォーク / トーマ"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "rp9WjvhgtpY",
+      "channelId": "UC1NYgNBwE1i6dJNqljqhibg",
+      "channelName": "ミソラソラ - Misorasora",
+      "oshiName": "ミソラソラ - Misorasora",
+      "title": "【 新FCお披露目┋KARAOKE  】新しいファンクラブ開設式🩵.𖥔 ݁嬉しい特典も？！【 #sorasolive┋ミソラソラ 】",
+      "actualStartTime": "2026-04-01T05:12:05Z",
+      "t": "01:48:49",
+      "sec": 6529,
+      "label": "【 】ネコミミタイム終了"
+    },
+    {
+      "date": "2026-04-01",
+      "videoId": "rp9WjvhgtpY",
+      "channelId": "UC1NYgNBwE1i6dJNqljqhibg",
+      "channelName": "ミソラソラ - Misorasora",
+      "oshiName": "ミソラソラ - Misorasora",
+      "title": "【 新FCお披露目┋KARAOKE  】新しいファンクラブ開設式🩵.𖥔 ݁嬉しい特典も？！【 #sorasolive┋ミソラソラ 】",
+      "actualStartTime": "2026-04-01T05:12:05Z",
+      "t": "01:54:04",
+      "sec": 6844,
+      "label": "【 】04.ケセラセラ / Mrs. GREEN APPLE"
+    },
     {
       "date": "2026-03-31",
       "videoId": "0Uj6q3yiP-8",
@@ -241497,7 +243441,7 @@
   "topSongs": [
     {
       "key": "声入り",
-      "count": 122
+      "count": 124
     },
     {
       "key": "ここかわいい",
@@ -241517,7 +243461,7 @@
     },
     {
       "key": "画面入り",
-      "count": 34
+      "count": 35
     },
     {
       "key": "お名前呼び",
@@ -241548,15 +243492,19 @@
       "count": 23
     },
     {
+      "key": "mc①",
+      "count": 23
+    },
+    {
+      "key": "mc②",
+      "count": 23
+    },
+    {
       "key": "革命道中 / アイナ・ジ・エンド",
       "count": 22
     },
     {
-      "key": "mc①",
-      "count": 22
-    },
-    {
-      "key": "mc②",
+      "key": "mc③",
       "count": 22
     },
     {
@@ -241564,15 +243512,15 @@
       "count": 21
     },
     {
-      "key": "mc③",
-      "count": 21
-    },
-    {
       "key": "雨とカプチーノ / ヨルシカ",
-      "count": 19
+      "count": 20
     },
     {
       "key": "iris out / 米津玄師",
+      "count": 19
+    },
+    {
+      "key": "mc④",
       "count": 19
     },
     {
@@ -241588,15 +243536,11 @@
       "count": 18
     },
     {
-      "key": "mc④",
+      "key": "怪獣 / サカナクション",
       "count": 18
     },
     {
       "key": "花に亡霊 / ヨルシカ",
-      "count": 17
-    },
-    {
-      "key": "怪獣 / サカナクション",
       "count": 17
     },
     {
@@ -241716,6 +243660,10 @@
       "count": 11
     },
     {
+      "key": "ライラック / mrs. green apple",
+      "count": 11
+    },
+    {
       "key": "だから僕は音楽を辞めた / ヨルシカ",
       "count": 11
     },
@@ -241780,7 +243728,7 @@
       "count": 10
     },
     {
-      "key": "ライラック / mrs. green apple",
+      "key": "overdose / なとり",
       "count": 10
     },
     {
@@ -241864,6 +243812,10 @@
       "count": 10
     },
     {
+      "key": "スパ＆メンバーのお礼🌈",
+      "count": 10
+    },
+    {
       "key": "アルジャーノン / ヨルシカ",
       "count": 10
     },
@@ -241889,10 +243841,6 @@
     },
     {
       "key": "シルエット / kana-boon",
-      "count": 9
-    },
-    {
-      "key": "overdose / なとり",
       "count": 9
     },
     {
@@ -241940,15 +243888,15 @@
       "count": 9
     },
     {
+      "key": "che.r.ry / yui",
+      "count": 9
+    },
+    {
       "key": "優しい彗星 / yoasobi",
       "count": 9
     },
     {
       "key": "ソワレ / 星街すいせい",
-      "count": 9
-    },
-    {
-      "key": "スパ＆メンバーのお礼🌈",
       "count": 9
     },
     {
@@ -242020,11 +243968,11 @@
       "count": 8
     },
     {
-      "key": "第一夜 / ヨルシカ",
+      "key": "新宝島 / サカナクション",
       "count": 8
     },
     {
-      "key": "che.r.ry / yui",
+      "key": "第一夜 / ヨルシカ",
       "count": 8
     },
     {
@@ -242053,6 +244001,10 @@
     },
     {
       "key": "靴の花火 / ヨルシカ",
+      "count": 7
+    },
+    {
+      "key": "名前のない怪物 / egoist",
       "count": 7
     },
     {
@@ -242100,10 +244052,6 @@
       "count": 7
     },
     {
-      "key": "新宝島 / サカナクション",
-      "count": 7
-    },
-    {
       "key": "火星人 / ヨルシカ",
       "count": 7
     },
@@ -242137,6 +244085,10 @@
     },
     {
       "key": "♪ ノーチラス / ヨルシカ",
+      "count": 7
+    },
+    {
+      "key": "♪ me me she / radwimps",
       "count": 7
     },
     {
@@ -242248,10 +244200,6 @@
       "count": 6
     },
     {
-      "key": "名前のない怪物 / egoist",
-      "count": 6
-    },
-    {
       "key": "366日/hy",
       "count": 6
     },
@@ -242289,10 +244237,6 @@
     },
     {
       "key": "jane doe / 米津玄師, 宇多田ヒカル",
-      "count": 6
-    },
-    {
-      "key": "カーテンコール / 優里",
       "count": 6
     }
   ]
