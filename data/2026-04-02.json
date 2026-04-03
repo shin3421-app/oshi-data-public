@@ -59,7 +59,7 @@
       "oshiName": "氷晶もね",
       "title": "【 #歌枠  弾き語り 】4月といえばご飯ですかね？みんなの四月はなんだろう！労働お疲れ様です【 氷晶もね  NynChordProduction】",
       "actualStartTime": "2026-04-02T09:00:43Z",
-      "durationSec": 3691,
+      "durationSec": 3695,
       "setlistType": "partial",
       "songCount": 8,
       "setlistComment": {
@@ -135,6 +135,23 @@
         "songCount": 26,
         "timestampFirst": "00:17:05",
         "timestampSecFirst": 1025
+      }
+    },
+    {
+      "videoId": "l9SJ3oYZk8A",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/弾き語り 】とっても久しぶりの弾き語りnight🌙【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-04-02T14:08:24Z",
+      "durationSec": 8769,
+      "setlistType": "full",
+      "songCount": 11,
+      "setlistComment": {
+        "rawText": "🌙🎼セトリ🌙🎼\r\n23:30 花びらたちのマーチ / Aimer\r\n\r\n35:57 Calc. / ジミーサムP\r\n\r\n43:33 カタオモイ / Aimer\r\n\r\n50:03 糸 / 中島みゆき\r\n\r\n01:00:27 春を待つ / Islet feat.倚水\r\n\r\n01:13:48 花に落ちる / ヨノ\r\n\r\n01:28:13 Planetes / EGOIST\r\n\r\n01:38:24 Good-bye days / YUI\r\n\r\n01:47:09 始発とカフカ / n-buna\r\n\r\n01:54:43 風を食む / ヨルシカ\r\n\r\n02:02:30 どこへも行かないよ / Moumoon",
+        "songCount": 11,
+        "timestampFirst": "23:30",
+        "timestampSecFirst": 1410
       }
     }
   ]
