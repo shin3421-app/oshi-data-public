@@ -8,7 +8,7 @@
       "oshiName": "氷晶もね",
       "title": "【 #歌枠  弾き語り 】今日もお疲れ様でした🌙今週も頑張ろうね❄【 氷晶もね  NynChordProduction】",
       "actualStartTime": "2026-04-06T09:00:40Z",
-      "durationSec": 5469,
+      "durationSec": 5470,
       "setlistType": "full",
       "songCount": 12,
       "setlistComment": {
@@ -33,6 +33,23 @@
         "songCount": 19,
         "timestampFirst": "0:06:29",
         "timestampSecFirst": 389
+      }
+    },
+    {
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "durationSec": 11342,
+      "setlistType": "full",
+      "songCount": 34,
+      "setlistComment": {
+        "rawText": "《Setlist》🐺🌟🎶\n  『3:51』  スタート\n  『7:43』  オリオンをなぞる / UNISON SQUARE GARDEN\n 『12:56』 ライラック / Mrs. GREEN APPLE\n 『21:42』 怪獣 / サカナクション\n 『27:31』 夜明けと蛍 / n-buna\n 『33:23』 斜陽 / ヨルシカ\n 『39:20』 春泥棒 / ヨルシカ\n 『45:11』  晴る / ヨルシカ\n 『50:22』 シルエット / KANA-BOON\n 『54:53』 アスノヨゾラ哨戒班 / Orangestar\n 『57:55』 アカシア / BUMP OF CHICKEN\n『1:05:01』 クスシキ / Mrs. Green Apple\n『1:09:11』 ただ君に晴れ / ヨルシカ\n『1:13:59』 シャルル / バルーン\n『1:17:53』 怪獣の花唄 / Vaundy\n『1:24:15』 ノマド / バルーン\n『1:29:45』 プラチナ / 坂本真綾\n『1:33:56』 インフェルノ / Mrs. Green Apple\n『1:38:18』 カルマ / BUMP OF CHICKEN\n『1:42:51』 Butter-Fly / 和田光司\n『1:48:34』 運命 / sumika\n『1:53:31』 ウィーアー！ / きただにひろし\n『1:59:24』 ANIMA / ReoNa\n『2:05:05』 残響散歌 / Aimer\n『2:09:02』 雫 / スキマスイッチ\n『2:12:44』 スパークル / RADWIMPS\n『2:22:22』 すずめ feat.十明 / RADWIMPS\n『2:29:13』 へび / ヨルシカ\n『2:34:41』 地獄恋文 / tuki.\n『2:39:10』 三原色 / YOASOBI\n『2:44:54』 Overdose / なとり\n『2:49:37』 ツバサ/ アンダーグラフ\n『2:55:10』 青いベンチ / サスケ\n『3:01:55』 ビビデバ / 星街すいせい\n『3:05:03』エゴロック / すりぃ",
+        "songCount": 34,
+        "timestampFirst": "7:43",
+        "timestampSecFirst": 463
       }
     },
     {
@@ -84,23 +101,6 @@
         "songCount": 34,
         "timestampFirst": "0:02:52",
         "timestampSecFirst": 172
-      }
-    },
-    {
-      "videoId": "cF2IRcaiaIY",
-      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
-      "channelName": "鈍色聴 / Yurushi Nibiiro",
-      "oshiName": "鈍色聴 / Yurushi Nibiiro",
-      "title": "【#歌枠/karaoke】30分しっとりテスト配信【 鈍色聴 / #666666live】",
-      "actualStartTime": "2026-04-06T14:04:01Z",
-      "durationSec": 2221,
-      "setlistType": "partial",
-      "songCount": 4,
-      "setlistComment": {
-        "rawText": "♪セトリ\n00:00:00 start\n00:00:55 opening\n00:03:40 てのひらワンダーランド/ねこぼーろ\n00:07:12 おはなし①\n00:09:07 迷晰夢/瀬名航\n00:13:02 おはなし②\n00:16:48 ウルトラプラネット/電ポルP\n00:22:52 おはなし③\n00:28:29 マヤの時辰儀/ヘブンズP\n00:33:19 おはなし④\n00:35:09 ending\n\n🗣MC\n00:07:12 おはなし①（テスト配信にようこそ）\n00:13:02 おはなし②（カメラ調整とか）\n00:22:52 おはなし③-1（安定感……）\n00:26:25 おはなし③-2（歌枠リレーのおしらせ）\n00:33:19 おはなし④（M3出展します）",
-        "songCount": 4,
-        "timestampFirst": "00:03:40",
-        "timestampSecFirst": 220
       }
     }
   ]

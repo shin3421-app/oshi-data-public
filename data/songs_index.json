@@ -1,118 +1,10 @@
 {
-  "generatedAt": "2026-04-06T21:24:03Z",
+  "generatedAt": "2026-04-07T05:24:29Z",
   "range": {
     "files": 231,
-    "songs": 21097
+    "songs": 21123
   },
   "songs": [
-    {
-      "date": "2026-04-06",
-      "videoId": "cF2IRcaiaIY",
-      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
-      "channelName": "鈍色聴 / Yurushi Nibiiro",
-      "oshiName": "鈍色聴 / Yurushi Nibiiro",
-      "title": "【#歌枠/karaoke】30分しっとりテスト配信【 鈍色聴 / #666666live】",
-      "actualStartTime": "2026-04-06T14:04:01Z",
-      "t": "00:03:40",
-      "sec": 220,
-      "label": "てのひらワンダーランド/ねこぼーろ"
-    },
-    {
-      "date": "2026-04-06",
-      "videoId": "cF2IRcaiaIY",
-      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
-      "channelName": "鈍色聴 / Yurushi Nibiiro",
-      "oshiName": "鈍色聴 / Yurushi Nibiiro",
-      "title": "【#歌枠/karaoke】30分しっとりテスト配信【 鈍色聴 / #666666live】",
-      "actualStartTime": "2026-04-06T14:04:01Z",
-      "t": "00:07:12",
-      "sec": 432,
-      "label": "おはなし①"
-    },
-    {
-      "date": "2026-04-06",
-      "videoId": "cF2IRcaiaIY",
-      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
-      "channelName": "鈍色聴 / Yurushi Nibiiro",
-      "oshiName": "鈍色聴 / Yurushi Nibiiro",
-      "title": "【#歌枠/karaoke】30分しっとりテスト配信【 鈍色聴 / #666666live】",
-      "actualStartTime": "2026-04-06T14:04:01Z",
-      "t": "00:09:07",
-      "sec": 547,
-      "label": "迷晰夢/瀬名航"
-    },
-    {
-      "date": "2026-04-06",
-      "videoId": "cF2IRcaiaIY",
-      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
-      "channelName": "鈍色聴 / Yurushi Nibiiro",
-      "oshiName": "鈍色聴 / Yurushi Nibiiro",
-      "title": "【#歌枠/karaoke】30分しっとりテスト配信【 鈍色聴 / #666666live】",
-      "actualStartTime": "2026-04-06T14:04:01Z",
-      "t": "00:13:02",
-      "sec": 782,
-      "label": "おはなし②"
-    },
-    {
-      "date": "2026-04-06",
-      "videoId": "cF2IRcaiaIY",
-      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
-      "channelName": "鈍色聴 / Yurushi Nibiiro",
-      "oshiName": "鈍色聴 / Yurushi Nibiiro",
-      "title": "【#歌枠/karaoke】30分しっとりテスト配信【 鈍色聴 / #666666live】",
-      "actualStartTime": "2026-04-06T14:04:01Z",
-      "t": "00:16:48",
-      "sec": 1008,
-      "label": "ウルトラプラネット/電ポルP"
-    },
-    {
-      "date": "2026-04-06",
-      "videoId": "cF2IRcaiaIY",
-      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
-      "channelName": "鈍色聴 / Yurushi Nibiiro",
-      "oshiName": "鈍色聴 / Yurushi Nibiiro",
-      "title": "【#歌枠/karaoke】30分しっとりテスト配信【 鈍色聴 / #666666live】",
-      "actualStartTime": "2026-04-06T14:04:01Z",
-      "t": "00:22:52",
-      "sec": 1372,
-      "label": "おはなし③"
-    },
-    {
-      "date": "2026-04-06",
-      "videoId": "cF2IRcaiaIY",
-      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
-      "channelName": "鈍色聴 / Yurushi Nibiiro",
-      "oshiName": "鈍色聴 / Yurushi Nibiiro",
-      "title": "【#歌枠/karaoke】30分しっとりテスト配信【 鈍色聴 / #666666live】",
-      "actualStartTime": "2026-04-06T14:04:01Z",
-      "t": "00:28:29",
-      "sec": 1709,
-      "label": "マヤの時辰儀/ヘブンズP"
-    },
-    {
-      "date": "2026-04-06",
-      "videoId": "cF2IRcaiaIY",
-      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
-      "channelName": "鈍色聴 / Yurushi Nibiiro",
-      "oshiName": "鈍色聴 / Yurushi Nibiiro",
-      "title": "【#歌枠/karaoke】30分しっとりテスト配信【 鈍色聴 / #666666live】",
-      "actualStartTime": "2026-04-06T14:04:01Z",
-      "t": "00:33:19",
-      "sec": 1999,
-      "label": "おはなし④"
-    },
-    {
-      "date": "2026-04-06",
-      "videoId": "cF2IRcaiaIY",
-      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
-      "channelName": "鈍色聴 / Yurushi Nibiiro",
-      "oshiName": "鈍色聴 / Yurushi Nibiiro",
-      "title": "【#歌枠/karaoke】30分しっとりテスト配信【 鈍色聴 / #666666live】",
-      "actualStartTime": "2026-04-06T14:04:01Z",
-      "t": "00:26:25",
-      "sec": 1585,
-      "label": "おはなし③-2（歌枠リレーのおしらせ）"
-    },
     {
       "date": "2026-04-06",
       "videoId": "LUV7Yuo4CTc",
@@ -892,6 +784,426 @@
       "t": "1:34:33",
       "sec": 5673,
       "label": "ROLLBACK／MEDA"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "3:51",
+      "sec": 231,
+      "label": "『 』 スタート"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "7:43",
+      "sec": 463,
+      "label": "『 』 オリオンをなぞる / UNISON SQUARE GARDEN"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "12:56",
+      "sec": 776,
+      "label": "『 』 ライラック / Mrs. GREEN APPLE"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "21:42",
+      "sec": 1302,
+      "label": "『 』 怪獣 / サカナクション"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "27:31",
+      "sec": 1651,
+      "label": "『 』 夜明けと蛍 / n-buna"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "33:23",
+      "sec": 2003,
+      "label": "『 』 斜陽 / ヨルシカ"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "39:20",
+      "sec": 2360,
+      "label": "『 』 春泥棒 / ヨルシカ"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "45:11",
+      "sec": 2711,
+      "label": "『 』 晴る / ヨルシカ"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "50:22",
+      "sec": 3022,
+      "label": "『 』 シルエット / KANA-BOON"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "54:53",
+      "sec": 3293,
+      "label": "『 』 アスノヨゾラ哨戒班 / Orangestar"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "57:55",
+      "sec": 3475,
+      "label": "『 』 アカシア / BUMP OF CHICKEN"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "1:05:01",
+      "sec": 3901,
+      "label": "『 』 クスシキ / Mrs. Green Apple"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "1:09:11",
+      "sec": 4151,
+      "label": "『 』 ただ君に晴れ / ヨルシカ"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "1:13:59",
+      "sec": 4439,
+      "label": "『 』 シャルル / バルーン"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "1:17:53",
+      "sec": 4673,
+      "label": "『 』 怪獣の花唄 / Vaundy"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "1:24:15",
+      "sec": 5055,
+      "label": "『 』 ノマド / バルーン"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "1:29:45",
+      "sec": 5385,
+      "label": "『 』 プラチナ / 坂本真綾"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "1:33:56",
+      "sec": 5636,
+      "label": "『 』 インフェルノ / Mrs. Green Apple"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "1:38:18",
+      "sec": 5898,
+      "label": "『 』 カルマ / BUMP OF CHICKEN"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "1:42:51",
+      "sec": 6171,
+      "label": "『 』 Butter-Fly / 和田光司"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "1:48:34",
+      "sec": 6514,
+      "label": "『 』 運命 / sumika"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "1:53:31",
+      "sec": 6811,
+      "label": "『 』 ウィーアー！ / きただにひろし"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "1:59:24",
+      "sec": 7164,
+      "label": "『 』 ANIMA / ReoNa"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "2:05:05",
+      "sec": 7505,
+      "label": "『 』 残響散歌 / Aimer"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "2:09:02",
+      "sec": 7742,
+      "label": "『 』 雫 / スキマスイッチ"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "2:12:44",
+      "sec": 7964,
+      "label": "『 』 スパークル / RADWIMPS"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "2:22:22",
+      "sec": 8542,
+      "label": "『 』 すずめ feat.十明 / RADWIMPS"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "2:29:13",
+      "sec": 8953,
+      "label": "『 』 へび / ヨルシカ"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "2:34:41",
+      "sec": 9281,
+      "label": "『 』 地獄恋文 / tuki."
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "2:39:10",
+      "sec": 9550,
+      "label": "『 』 三原色 / YOASOBI"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "2:44:54",
+      "sec": 9894,
+      "label": "『 』 Overdose / なとり"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "2:49:37",
+      "sec": 10177,
+      "label": "『 』 ツバサ/ アンダーグラフ"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "2:55:10",
+      "sec": 10510,
+      "label": "『 』 青いベンチ / サスケ"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "3:01:55",
+      "sec": 10915,
+      "label": "『 』 ビビデバ / 星街すいせい"
+    },
+    {
+      "date": "2026-04-06",
+      "videoId": "2Z9XJsI5olE",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【 歌枠 】求ム初見さん・初コメさん!! 最長は24時まで!!!! 実は歌うま⁉Xで噂の中性×関西弁なVsingerさん参上‼  singing stream【 新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-06T11:05:13Z",
+      "t": "3:05:03",
+      "sec": 11103,
+      "label": "『 』エゴロック / すりぃ"
     },
     {
       "date": "2026-04-06",
@@ -253316,18 +253628,6 @@
       "count": 14
     },
     {
-      "key": "おはなし①",
-      "count": 14
-    },
-    {
-      "key": "おはなし③",
-      "count": 14
-    },
-    {
-      "key": "おはなし④",
-      "count": 14
-    },
-    {
       "key": "スパークル / radwimps",
       "count": 14
     },
@@ -253340,7 +253640,15 @@
       "count": 13
     },
     {
-      "key": "おはなし②",
+      "key": "おはなし①",
+      "count": 13
+    },
+    {
+      "key": "おはなし③",
+      "count": 13
+    },
+    {
+      "key": "おはなし④",
       "count": 13
     },
     {
@@ -253385,6 +253693,10 @@
     },
     {
       "key": "心做し / 蝶々p",
+      "count": 12
+    },
+    {
+      "key": "おはなし②",
       "count": 12
     },
     {
