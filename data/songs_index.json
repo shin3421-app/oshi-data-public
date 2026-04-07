@@ -1,10 +1,802 @@
 {
-  "generatedAt": "2026-04-07T05:24:29Z",
+  "generatedAt": "2026-04-07T21:31:17Z",
   "range": {
-    "files": 231,
-    "songs": 21123
+    "files": 232,
+    "songs": 21189
   },
   "songs": [
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "00:00:00",
+      "sec": 0,
+      "label": "本日のサムネ"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "00:17:15",
+      "sec": 1035,
+      "label": "1. 魂のルフラン/高橋洋子"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "00:22:35",
+      "sec": 1355,
+      "label": "└ 採点結果"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "00:26:39",
+      "sec": 1599,
+      "label": "2. promise/広瀬香美 (+3"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "00:31:24",
+      "sec": 1884,
+      "label": "└ 採点結果"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "00:37:26",
+      "sec": 2246,
+      "label": "3. この世界で見つけたもの/EGOIST"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "00:42:26",
+      "sec": 2546,
+      "label": "└ 採点結果"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "00:47:54",
+      "sec": 2874,
+      "label": "4. とくべチュ、して/＝LOVE"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "00:51:55",
+      "sec": 3115,
+      "label": "└ 採点結果"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "00:58:07",
+      "sec": 3487,
+      "label": "5. 初恋サイダー/Buono!"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "01:01:38",
+      "sec": 3698,
+      "label": "└ 採点結果"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "01:13:27",
+      "sec": 4407,
+      "label": "└ 採点結果"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "01:18:23",
+      "sec": 4703,
+      "label": "7. 祝祭 (Movie edit) feat. 三浦透子/RADWIMPS"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "01:20:57",
+      "sec": 4857,
+      "label": "└ 採点結果"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "01:26:40",
+      "sec": 5200,
+      "label": "8. それがあなたの幸せとしても/ヘブンズP"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "01:31:26",
+      "sec": 5486,
+      "label": "└ 採点結果"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "01:36:42",
+      "sec": 5802,
+      "label": "9. 残酷な天使のテーゼ/高橋洋子"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "01:41:03",
+      "sec": 6063,
+      "label": "└ 採点結果"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "01:46:39",
+      "sec": 6399,
+      "label": "10. 世界中の誰よりきっと/中山美穂＆WANDS"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "01:50:45",
+      "sec": 6645,
+      "label": "└ 採点結果"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "BtqZPmWhzas",
+      "channelId": "UCDqno_7LWobowaVc_vzUuCA",
+      "channelName": "稍 麦 - yayamugi -",
+      "oshiName": "稍 麦 - yayamugi -",
+      "title": "【 #歌枠 】1年ぶりのあの鬼企画が返ってきた。90点未満で即終了‼️歌枠【VTuber】【稍麦】#4",
+      "actualStartTime": "2026-04-07T14:00:22Z",
+      "t": "01:02:44",
+      "sec": 3764,
+      "label": "昔は抑揚の女じゃなかった"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "r7VzExV_DCA",
+      "channelId": "UCFqVAFANOHm17UVy8sWkhqw",
+      "channelName": "魔ノむえる -Mano Mueru-",
+      "oshiName": "魔ノむえる -Mano Mueru-",
+      "title": "〖 歌枠￤KARAOKE 〗初見さん◎夜はまったりお歌を聴きませんか？🌷 #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+      "actualStartTime": "2026-04-07T12:18:01Z",
+      "t": "0:05:49",
+      "sec": 349,
+      "label": "声入り"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "r7VzExV_DCA",
+      "channelId": "UCFqVAFANOHm17UVy8sWkhqw",
+      "channelName": "魔ノむえる -Mano Mueru-",
+      "oshiName": "魔ノむえる -Mano Mueru-",
+      "title": "〖 歌枠￤KARAOKE 〗初見さん◎夜はまったりお歌を聴きませんか？🌷 #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+      "actualStartTime": "2026-04-07T12:18:01Z",
+      "t": "0:17:37",
+      "sec": 1057,
+      "label": "こころのたまご / Buono!"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "r7VzExV_DCA",
+      "channelId": "UCFqVAFANOHm17UVy8sWkhqw",
+      "channelName": "魔ノむえる -Mano Mueru-",
+      "oshiName": "魔ノむえる -Mano Mueru-",
+      "title": "〖 歌枠￤KARAOKE 〗初見さん◎夜はまったりお歌を聴きませんか？🌷 #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+      "actualStartTime": "2026-04-07T12:18:01Z",
+      "t": "0:31:54",
+      "sec": 1914,
+      "label": "アルジャーノン / ヨルシカ"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "r7VzExV_DCA",
+      "channelId": "UCFqVAFANOHm17UVy8sWkhqw",
+      "channelName": "魔ノむえる -Mano Mueru-",
+      "oshiName": "魔ノむえる -Mano Mueru-",
+      "title": "〖 歌枠￤KARAOKE 〗初見さん◎夜はまったりお歌を聴きませんか？🌷 #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+      "actualStartTime": "2026-04-07T12:18:01Z",
+      "t": "0:41:14",
+      "sec": 2474,
+      "label": "さよならメモリーズ / Supercell"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "r7VzExV_DCA",
+      "channelId": "UCFqVAFANOHm17UVy8sWkhqw",
+      "channelName": "魔ノむえる -Mano Mueru-",
+      "oshiName": "魔ノむえる -Mano Mueru-",
+      "title": "〖 歌枠￤KARAOKE 〗初見さん◎夜はまったりお歌を聴きませんか？🌷 #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+      "actualStartTime": "2026-04-07T12:18:01Z",
+      "t": "0:53:30",
+      "sec": 3210,
+      "label": "カワルミライ / ChouCho"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "r7VzExV_DCA",
+      "channelId": "UCFqVAFANOHm17UVy8sWkhqw",
+      "channelName": "魔ノむえる -Mano Mueru-",
+      "oshiName": "魔ノむえる -Mano Mueru-",
+      "title": "〖 歌枠￤KARAOKE 〗初見さん◎夜はまったりお歌を聴きませんか？🌷 #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+      "actualStartTime": "2026-04-07T12:18:01Z",
+      "t": "1:02:32",
+      "sec": 3752,
+      "label": "誇り高きアイドル / HoneyWorks feat.Kotoha"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "r7VzExV_DCA",
+      "channelId": "UCFqVAFANOHm17UVy8sWkhqw",
+      "channelName": "魔ノむえる -Mano Mueru-",
+      "oshiName": "魔ノむえる -Mano Mueru-",
+      "title": "〖 歌枠￤KARAOKE 〗初見さん◎夜はまったりお歌を聴きませんか？🌷 #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+      "actualStartTime": "2026-04-07T12:18:01Z",
+      "t": "1:14:40",
+      "sec": 4480,
+      "label": "星座になれたら / 結束バンド"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "r7VzExV_DCA",
+      "channelId": "UCFqVAFANOHm17UVy8sWkhqw",
+      "channelName": "魔ノむえる -Mano Mueru-",
+      "oshiName": "魔ノむえる -Mano Mueru-",
+      "title": "〖 歌枠￤KARAOKE 〗初見さん◎夜はまったりお歌を聴きませんか？🌷 #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+      "actualStartTime": "2026-04-07T12:18:01Z",
+      "t": "1:36:56",
+      "sec": 5816,
+      "label": "Snow halation / μ's"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "r7VzExV_DCA",
+      "channelId": "UCFqVAFANOHm17UVy8sWkhqw",
+      "channelName": "魔ノむえる -Mano Mueru-",
+      "oshiName": "魔ノむえる -Mano Mueru-",
+      "title": "〖 歌枠￤KARAOKE 〗初見さん◎夜はまったりお歌を聴きませんか？🌷 #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+      "actualStartTime": "2026-04-07T12:18:01Z",
+      "t": "1:52:15",
+      "sec": 6735,
+      "label": "天使にふれたよ / 放課後ティータイム"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "r7VzExV_DCA",
+      "channelId": "UCFqVAFANOHm17UVy8sWkhqw",
+      "channelName": "魔ノむえる -Mano Mueru-",
+      "oshiName": "魔ノむえる -Mano Mueru-",
+      "title": "〖 歌枠￤KARAOKE 〗初見さん◎夜はまったりお歌を聴きませんか？🌷 #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+      "actualStartTime": "2026-04-07T12:18:01Z",
+      "t": "1:59:27",
+      "sec": 7167,
+      "label": "Honey sweet tea time / 放課後ティータイム"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "r7VzExV_DCA",
+      "channelId": "UCFqVAFANOHm17UVy8sWkhqw",
+      "channelName": "魔ノむえる -Mano Mueru-",
+      "oshiName": "魔ノむえる -Mano Mueru-",
+      "title": "〖 歌枠￤KARAOKE 〗初見さん◎夜はまったりお歌を聴きませんか？🌷 #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+      "actualStartTime": "2026-04-07T12:18:01Z",
+      "t": "2:07:44",
+      "sec": 7664,
+      "label": "ときめきシュガー / 放課後ティータイム"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "r7VzExV_DCA",
+      "channelId": "UCFqVAFANOHm17UVy8sWkhqw",
+      "channelName": "魔ノむえる -Mano Mueru-",
+      "oshiName": "魔ノむえる -Mano Mueru-",
+      "title": "〖 歌枠￤KARAOKE 〗初見さん◎夜はまったりお歌を聴きませんか？🌷 #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+      "actualStartTime": "2026-04-07T12:18:01Z",
+      "t": "2:16:10",
+      "sec": 8170,
+      "label": "君+謎+私でJUMP!! / Larval Stage Planning"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "r7VzExV_DCA",
+      "channelId": "UCFqVAFANOHm17UVy8sWkhqw",
+      "channelName": "魔ノむえる -Mano Mueru-",
+      "oshiName": "魔ノむえる -Mano Mueru-",
+      "title": "〖 歌枠￤KARAOKE 〗初見さん◎夜はまったりお歌を聴きませんか？🌷 #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+      "actualStartTime": "2026-04-07T12:18:01Z",
+      "t": "2:23:57",
+      "sec": 8637,
+      "label": "モノクローム / 気多の巫女(CV:戸松遥"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "r7VzExV_DCA",
+      "channelId": "UCFqVAFANOHm17UVy8sWkhqw",
+      "channelName": "魔ノむえる -Mano Mueru-",
+      "oshiName": "魔ノむえる -Mano Mueru-",
+      "title": "〖 歌枠￤KARAOKE 〗初見さん◎夜はまったりお歌を聴きませんか？🌷 #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+      "actualStartTime": "2026-04-07T12:18:01Z",
+      "t": "2:37:27",
+      "sec": 9447,
+      "label": "カントリー・ロード / 本名陽子"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "0:02:01",
+      "sec": 121,
+      "label": "画面入り&声入り"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "0:16:22",
+      "sec": 982,
+      "label": "CHE.R.RY / YUI"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "0:23:42",
+      "sec": 1422,
+      "label": "さよならエレジー / 菅田将暉"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "0:29:44",
+      "sec": 1784,
+      "label": "水平線 / back number"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "0:37:59",
+      "sec": 2279,
+      "label": "風になる / つじあやの"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "0:44:03",
+      "sec": 2643,
+      "label": "魔法の絨毯 / 川崎鷹也"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "0:56:13",
+      "sec": 3373,
+      "label": "糸 / 中島みゆき"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "1:00:51",
+      "sec": 3651,
+      "label": "雨とカプチーノ / ヨルシカ"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "1:06:49",
+      "sec": 4009,
+      "label": "火星人 / ヨルシカ"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "1:26:53",
+      "sec": 5213,
+      "label": "第一夜 / ヨルシカ"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "1:32:49",
+      "sec": 5569,
+      "label": "左右盲 / ヨルシカ"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "1:38:52",
+      "sec": 5932,
+      "label": "からくりピエロ / 40mP"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "1:48:20",
+      "sec": 6500,
+      "label": "ただ君に晴れ / ヨルシカ"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "1:54:15",
+      "sec": 6855,
+      "label": "憂一乗 / ヨルシカ"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "2:00:59",
+      "sec": 7259,
+      "label": "香水 / 瑛人"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "2:07:01",
+      "sec": 7621,
+      "label": "プロポーズ / なとり"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "2:12:41",
+      "sec": 7961,
+      "label": "プロポーズ / 内緒のピアス"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "2:29:25",
+      "sec": 8965,
+      "label": "晴る / ヨルシカ"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "2:35:19",
+      "sec": 9319,
+      "label": "冬眠 / ヨルシカ"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "1WwJWZXHZXE",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【歌枠 / #karaoke 】おすすめで見つけてくれたキミへ🍃 弾き語りで癒されませんか？ singing stream #vsinger #弾き語り #shorts 【渚沢シチ / #ミクスト 】",
+      "actualStartTime": "2026-04-07T08:00:38Z",
+      "t": "2:41:35",
+      "sec": 9695,
+      "label": "春泥棒 / ヨルシカ"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "gbDnLs6HW5M",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】深夜って誰よその男【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-06T15:59:04Z",
+      "t": "0:06:44",
+      "sec": 404,
+      "label": "01. 老人と海 / ヨルシカ"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "gbDnLs6HW5M",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】深夜って誰よその男【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-06T15:59:04Z",
+      "t": "0:20:53",
+      "sec": 1253,
+      "label": "02. ソワレ / 星街すいせい"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "gbDnLs6HW5M",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】深夜って誰よその男【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-06T15:59:04Z",
+      "t": "0:31:49",
+      "sec": 1909,
+      "label": "03. ワールド・ランプシェード / buzzG"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "gbDnLs6HW5M",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】深夜って誰よその男【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-06T15:59:04Z",
+      "t": "1:04:04",
+      "sec": 3844,
+      "label": "04. サマータイムレコード / じん"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "gbDnLs6HW5M",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】深夜って誰よその男【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-06T15:59:04Z",
+      "t": "1:12:42",
+      "sec": 4362,
+      "label": "05. rain / におP"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "gbDnLs6HW5M",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】深夜って誰よその男【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-06T15:59:04Z",
+      "t": "1:25:15",
+      "sec": 5115,
+      "label": "06. 雨とカプチーノ / ヨルシカ"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "gbDnLs6HW5M",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】深夜って誰よその男【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-06T15:59:04Z",
+      "t": "1:41:57",
+      "sec": 6117,
+      "label": "07. 六月は雨上がりの街を書く / ヨルシカ >>>New!!!"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "gbDnLs6HW5M",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】深夜って誰よその男【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-06T15:59:04Z",
+      "t": "2:02:34",
+      "sec": 7354,
+      "label": "08. 一輪花 / tuki."
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "gbDnLs6HW5M",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】深夜って誰よその男【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-06T15:59:04Z",
+      "t": "2:27:33",
+      "sec": 8853,
+      "label": "08. 憂一乗 / ヨルシカ"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "gbDnLs6HW5M",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】深夜って誰よその男【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-06T15:59:04Z",
+      "t": "2:43:49",
+      "sec": 9829,
+      "label": "09. 修羅 / ヨルシカ"
+    },
+    {
+      "date": "2026-04-07",
+      "videoId": "gbDnLs6HW5M",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】深夜って誰よその男【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-06T15:59:04Z",
+      "t": "3:08:36",
+      "sec": 11316,
+      "label": "10. 奏 / スキマスイッチ"
+    },
     {
       "date": "2026-04-06",
       "videoId": "LUV7Yuo4CTc",
@@ -253485,7 +254277,7 @@
   "topSongs": [
     {
       "key": "声入り",
-      "count": 129
+      "count": 130
     },
     {
       "key": "ここかわいい",
@@ -253493,7 +254285,7 @@
     },
     {
       "key": "本日のサムネ",
-      "count": 43
+      "count": 44
     },
     {
       "key": "画面入り",
@@ -253524,12 +254316,12 @@
       "count": 26
     },
     {
-      "key": "【 】こんソラタイム",
+      "key": "水平線 / back number",
       "count": 26
     },
     {
-      "key": "水平線 / back number",
-      "count": 25
+      "key": "【 】こんソラタイム",
+      "count": 26
     },
     {
       "key": "革命道中 / アイナ・ジ・エンド",
@@ -253556,12 +254348,12 @@
       "count": 22
     },
     {
-      "key": "iris out / 米津玄師",
+      "key": "雨とカプチーノ / ヨルシカ",
       "count": 21
     },
     {
-      "key": "雨とカプチーノ / ヨルシカ",
-      "count": 20
+      "key": "iris out / 米津玄師",
+      "count": 21
     },
     {
       "key": "mc④",
@@ -253592,24 +254384,24 @@
       "count": 16
     },
     {
+      "key": "晴る / ヨルシカ",
+      "count": 16
+    },
+    {
       "key": "閉幕",
       "count": 16
     },
     {
-      "key": "シャルル / バルーン",
-      "count": 15
-    },
-    {
-      "key": "晴る / ヨルシカ",
-      "count": 15
-    },
-    {
       "key": "画面入り&声入り",
-      "count": 15
+      "count": 16
     },
     {
       "key": "からくりピエロ / 40mp",
-      "count": 14
+      "count": 15
+    },
+    {
+      "key": "シャルル / バルーン",
+      "count": 15
     },
     {
       "key": "●スタート",
@@ -253656,6 +254448,10 @@
       "count": 13
     },
     {
+      "key": "風になる / つじあやの",
+      "count": 13
+    },
+    {
       "key": "夜撫でるメノウ / ayase",
       "count": 13
     },
@@ -253696,6 +254492,10 @@
       "count": 12
     },
     {
+      "key": "プロポーズ / 内緒のピアス",
+      "count": 12
+    },
+    {
       "key": "おはなし②",
       "count": 12
     },
@@ -253704,11 +254504,11 @@
       "count": 12
     },
     {
-      "key": "運命 (unmei) /// sumika",
+      "key": "ただ君に晴れ / ヨルシカ",
       "count": 12
     },
     {
-      "key": "風になる / つじあやの",
+      "key": "運命 (unmei) /// sumika",
       "count": 12
     },
     {
@@ -253732,6 +254532,10 @@
       "count": 12
     },
     {
+      "key": "憂一乗 / ヨルシカ",
+      "count": 12
+    },
+    {
       "key": "夜に駆ける / yoasobi",
       "count": 11
     },
@@ -253741,10 +254545,6 @@
     },
     {
       "key": "残酷な天使のテーゼ / 高橋洋子",
-      "count": 11
-    },
-    {
-      "key": "プロポーズ / 内緒のピアス",
       "count": 11
     },
     {
@@ -253760,10 +254560,6 @@
       "count": 11
     },
     {
-      "key": "ただ君に晴れ / ヨルシカ",
-      "count": 11
-    },
-    {
       "key": "秒針を噛む / ずっと真夜中でいいのに。",
       "count": 11
     },
@@ -253773,6 +254569,14 @@
     },
     {
       "key": "mc⑥",
+      "count": 11
+    },
+    {
+      "key": "che.r.ry / yui",
+      "count": 11
+    },
+    {
+      "key": "冬眠 / ヨルシカ",
       "count": 11
     },
     {
@@ -253796,11 +254600,15 @@
       "count": 11
     },
     {
-      "key": "憂一乗 / ヨルシカ",
+      "key": "スパ＆メンバーのお礼🌈",
       "count": 11
     },
     {
-      "key": "スパ＆メンバーのお礼🌈",
+      "key": "アルジャーノン / ヨルシカ",
+      "count": 11
+    },
+    {
+      "key": "春泥棒 / ヨルシカ",
       "count": 11
     },
     {
@@ -253836,6 +254644,10 @@
       "count": 10
     },
     {
+      "key": "魔法の絨毯 / 川崎鷹也",
+      "count": 10
+    },
+    {
       "key": "群青 / yoasobi",
       "count": 10
     },
@@ -253860,19 +254672,15 @@
       "count": 10
     },
     {
+      "key": "さよならエレジー / 菅田将暉",
+      "count": 10
+    },
+    {
       "key": "高嶺の花子さん / back number",
       "count": 10
     },
     {
       "key": "たばこ / コレサワ",
-      "count": 10
-    },
-    {
-      "key": "che.r.ry / yui",
-      "count": 10
-    },
-    {
-      "key": "冬眠 / ヨルシカ",
       "count": 10
     },
     {
@@ -253900,15 +254708,11 @@
       "count": 10
     },
     {
-      "key": "アルジャーノン / ヨルシカ",
-      "count": 10
-    },
-    {
       "key": ". talk",
       "count": 10
     },
     {
-      "key": "春泥棒 / ヨルシカ",
+      "key": "└ 採点結果",
       "count": 10
     },
     {
@@ -253956,19 +254760,23 @@
       "count": 9
     },
     {
-      "key": "魔法の絨毯 / 川崎鷹也",
-      "count": 9
-    },
-    {
       "key": "新宝島 / サカナクション",
       "count": 9
     },
     {
-      "key": "さよならエレジー / 菅田将暉",
+      "key": "第一夜 / ヨルシカ",
+      "count": 9
+    },
+    {
+      "key": "火星人 / ヨルシカ",
       "count": 9
     },
     {
       "key": "ウタカタララバイ / ado",
+      "count": 9
+    },
+    {
+      "key": "左右盲 / ヨルシカ",
       "count": 9
     },
     {
@@ -254040,14 +254848,6 @@
       "count": 8
     },
     {
-      "key": "第一夜 / ヨルシカ",
-      "count": 8
-    },
-    {
-      "key": "火星人 / ヨルシカ",
-      "count": 8
-    },
-    {
       "key": "シュガーソングとビターステップ / unison square garden",
       "count": 8
     },
@@ -254072,7 +254872,7 @@
       "count": 8
     },
     {
-      "key": "左右盲 / ヨルシカ",
+      "key": "糸 / 中島みゆき",
       "count": 8
     },
     {
@@ -254244,10 +255044,6 @@
       "count": 7
     },
     {
-      "key": "糸 / 中島みゆき",
-      "count": 7
-    },
-    {
       "key": "┗ 26.04.18. xiden birthday live2026 \"born from axis\"",
       "count": 7
     },
@@ -254277,10 +255073,6 @@
     },
     {
       "key": "butter-fly / 和田光司",
-      "count": 6
-    },
-    {
-      "key": "カルマ/bump of chicken",
       "count": 6
     }
   ]
