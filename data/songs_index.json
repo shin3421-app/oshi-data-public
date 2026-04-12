@@ -1,10 +1,910 @@
 {
-  "generatedAt": "2026-04-12T05:34:39Z",
+  "generatedAt": "2026-04-12T21:19:41Z",
   "range": {
-    "files": 236,
-    "songs": 21654
+    "files": 237,
+    "songs": 21729
   },
   "songs": [
+    {
+      "date": "2026-04-12",
+      "videoId": "1IRACOMF-cc",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】まったり睡眠導入のうた【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-04-12T14:09:46Z",
+      "t": "29:27",
+      "sec": 1767,
+      "label": "ひまわりの約束 / 秦基博"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "1IRACOMF-cc",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】まったり睡眠導入のうた【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-04-12T14:09:46Z",
+      "t": "36:50",
+      "sec": 2210,
+      "label": "366日 / HY"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "1IRACOMF-cc",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】まったり睡眠導入のうた【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-04-12T14:09:46Z",
+      "t": "47:01",
+      "sec": 2821,
+      "label": "First Love / 宇多田ヒカル"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "1IRACOMF-cc",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】まったり睡眠導入のうた【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-04-12T14:09:46Z",
+      "t": "56:04",
+      "sec": 3364,
+      "label": "Pretender / Official髭男dism"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "1IRACOMF-cc",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】まったり睡眠導入のうた【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-04-12T14:09:46Z",
+      "t": "01:06:04",
+      "sec": 3964,
+      "label": "ダーリン / Mrs. GREEN APPLE"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "1IRACOMF-cc",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】まったり睡眠導入のうた【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-04-12T14:09:46Z",
+      "t": "01:16:33",
+      "sec": 4593,
+      "label": "クスシキ / Mrs. GREEN APPLE"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "1IRACOMF-cc",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】まったり睡眠導入のうた【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-04-12T14:09:46Z",
+      "t": "01:21:21",
+      "sec": 4881,
+      "label": "ハナミズキ / 一青窈"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "1IRACOMF-cc",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】まったり睡眠導入のうた【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-04-12T14:09:46Z",
+      "t": "01:30:32",
+      "sec": 5432,
+      "label": "10月無口な君を忘れる / あたらよ"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "1IRACOMF-cc",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】まったり睡眠導入のうた【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-04-12T14:09:46Z",
+      "t": "01:39:37",
+      "sec": 5977,
+      "label": "それがあなたの幸せとしても / Heavenz"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "1IRACOMF-cc",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】まったり睡眠導入のうた【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-04-12T14:09:46Z",
+      "t": "01:45:11",
+      "sec": 6311,
+      "label": "夜明けと蛍 / n-buna"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "1IRACOMF-cc",
+      "channelId": "UCqYXJ5M55HWE6zyvl6rjIaA",
+      "channelName": "ヨノ-Yono",
+      "oshiName": "ヨノ-Yono",
+      "title": "【 歌枠/KARAOKE 】まったり睡眠導入のうた【 #ヨノ  / RK Music】",
+      "actualStartTime": "2026-04-12T14:09:46Z",
+      "t": "01:54:40",
+      "sec": 6880,
+      "label": "ラプンツェル / n-buna"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "A_ldEuSGxH0",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【#ミクスト1stLive記念歌リレー 】歌で殴る。【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-04-12T12:28:23Z",
+      "t": "0:01:43",
+      "sec": 103,
+      "label": "画面入り"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "A_ldEuSGxH0",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【#ミクスト1stLive記念歌リレー 】歌で殴る。【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-04-12T12:28:23Z",
+      "t": "0:08:25",
+      "sec": 505,
+      "label": "逆光 / Ado"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "A_ldEuSGxH0",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【#ミクスト1stLive記念歌リレー 】歌で殴る。【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-04-12T12:28:23Z",
+      "t": "0:12:29",
+      "sec": 749,
+      "label": "愚か者たち / GLIM SPANKY"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "A_ldEuSGxH0",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【#ミクスト1stLive記念歌リレー 】歌で殴る。【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-04-12T12:28:23Z",
+      "t": "0:19:45",
+      "sec": 1185,
+      "label": "キミシダイ列車 / ONE OK ROCK"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "A_ldEuSGxH0",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "oshiName": "渚沢シチ / Shichi Channel【ミクスト】",
+      "title": "【#ミクスト1stLive記念歌リレー 】歌で殴る。【渚沢シチ / ミクスト 】",
+      "actualStartTime": "2026-04-12T12:28:23Z",
+      "t": "0:24:35",
+      "sec": 1475,
+      "label": "花の塔 / さユり"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "yCiLBC07eT0",
+      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
+      "channelName": "鈍色聴 / Yurushi Nibiiro",
+      "oshiName": "鈍色聴 / Yurushi Nibiiro",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】己の持ち味で魅せる……！【 鈍色聴 / #666666live】",
+      "actualStartTime": "2026-04-12T11:27:53Z",
+      "t": "00:02:21",
+      "sec": 141,
+      "label": "Glassbound/鈍色聴"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "yCiLBC07eT0",
+      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
+      "channelName": "鈍色聴 / Yurushi Nibiiro",
+      "oshiName": "鈍色聴 / Yurushi Nibiiro",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】己の持ち味で魅せる……！【 鈍色聴 / #666666live】",
+      "actualStartTime": "2026-04-12T11:27:53Z",
+      "t": "00:05:49",
+      "sec": 349,
+      "label": "おはなし①"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "yCiLBC07eT0",
+      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
+      "channelName": "鈍色聴 / Yurushi Nibiiro",
+      "oshiName": "鈍色聴 / Yurushi Nibiiro",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】己の持ち味で魅せる……！【 鈍色聴 / #666666live】",
+      "actualStartTime": "2026-04-12T11:27:53Z",
+      "t": "00:08:38",
+      "sec": 518,
+      "label": "薄明のネモフィラ/鈍色聴"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "yCiLBC07eT0",
+      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
+      "channelName": "鈍色聴 / Yurushi Nibiiro",
+      "oshiName": "鈍色聴 / Yurushi Nibiiro",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】己の持ち味で魅せる……！【 鈍色聴 / #666666live】",
+      "actualStartTime": "2026-04-12T11:27:53Z",
+      "t": "00:12:04",
+      "sec": 724,
+      "label": "おはなし②"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "yCiLBC07eT0",
+      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
+      "channelName": "鈍色聴 / Yurushi Nibiiro",
+      "oshiName": "鈍色聴 / Yurushi Nibiiro",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】己の持ち味で魅せる……！【 鈍色聴 / #666666live】",
+      "actualStartTime": "2026-04-12T11:27:53Z",
+      "t": "00:13:42",
+      "sec": 822,
+      "label": "StarRingChild/Aimer"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "yCiLBC07eT0",
+      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
+      "channelName": "鈍色聴 / Yurushi Nibiiro",
+      "oshiName": "鈍色聴 / Yurushi Nibiiro",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】己の持ち味で魅せる……！【 鈍色聴 / #666666live】",
+      "actualStartTime": "2026-04-12T11:27:53Z",
+      "t": "00:18:17",
+      "sec": 1097,
+      "label": "おはなし③"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "yCiLBC07eT0",
+      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
+      "channelName": "鈍色聴 / Yurushi Nibiiro",
+      "oshiName": "鈍色聴 / Yurushi Nibiiro",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】己の持ち味で魅せる……！【 鈍色聴 / #666666live】",
+      "actualStartTime": "2026-04-12T11:27:53Z",
+      "t": "00:20:42",
+      "sec": 1242,
+      "label": "湖畔のサンクチュアリ/鈍色聴"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "yCiLBC07eT0",
+      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
+      "channelName": "鈍色聴 / Yurushi Nibiiro",
+      "oshiName": "鈍色聴 / Yurushi Nibiiro",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】己の持ち味で魅せる……！【 鈍色聴 / #666666live】",
+      "actualStartTime": "2026-04-12T11:27:53Z",
+      "t": "00:23:44",
+      "sec": 1424,
+      "label": "おはなし④"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "yCiLBC07eT0",
+      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
+      "channelName": "鈍色聴 / Yurushi Nibiiro",
+      "oshiName": "鈍色聴 / Yurushi Nibiiro",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】己の持ち味で魅せる……！【 鈍色聴 / #666666live】",
+      "actualStartTime": "2026-04-12T11:27:53Z",
+      "t": "00:25:44",
+      "sec": 1544,
+      "label": "海月の骨/鈍色聴"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "yCiLBC07eT0",
+      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
+      "channelName": "鈍色聴 / Yurushi Nibiiro",
+      "oshiName": "鈍色聴 / Yurushi Nibiiro",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】己の持ち味で魅せる……！【 鈍色聴 / #666666live】",
+      "actualStartTime": "2026-04-12T11:27:53Z",
+      "t": "00:29:32",
+      "sec": 1772,
+      "label": "おはなし⑤"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "yCiLBC07eT0",
+      "channelId": "UCsq-OUWv1erpLBN6qLIc7jA",
+      "channelName": "鈍色聴 / Yurushi Nibiiro",
+      "oshiName": "鈍色聴 / Yurushi Nibiiro",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】己の持ち味で魅せる……！【 鈍色聴 / #666666live】",
+      "actualStartTime": "2026-04-12T11:27:53Z",
+      "t": "00:20:03",
+      "sec": 1203,
+      "label": "おはなし③-2（次は初めてリリースしたオリ曲です）"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "IqCM3HCK7h0",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】Vsinger各々の持ち味を味わっちゃヲウカ‥✽【wouca : RK Music】#karaoke",
+      "actualStartTime": "2026-04-12T10:28:14Z",
+      "t": "0:02:36",
+      "sec": 156,
+      "label": "1. Romantica / wouca"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "IqCM3HCK7h0",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】Vsinger各々の持ち味を味わっちゃヲウカ‥✽【wouca : RK Music】#karaoke",
+      "actualStartTime": "2026-04-12T10:28:14Z",
+      "t": "0:07:43",
+      "sec": 463,
+      "label": "2. SUN / 星野源"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "IqCM3HCK7h0",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】Vsinger各々の持ち味を味わっちゃヲウカ‥✽【wouca : RK Music】#karaoke",
+      "actualStartTime": "2026-04-12T10:28:14Z",
+      "t": "0:11:50",
+      "sec": 710,
+      "label": "3. ガーデン / 藤井風"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "IqCM3HCK7h0",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】Vsinger各々の持ち味を味わっちゃヲウカ‥✽【wouca : RK Music】#karaoke",
+      "actualStartTime": "2026-04-12T10:28:14Z",
+      "t": "0:16:37",
+      "sec": 997,
+      "label": "4. 深昏睡 / 春野"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "IqCM3HCK7h0",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】Vsinger各々の持ち味を味わっちゃヲウカ‥✽【wouca : RK Music】#karaoke",
+      "actualStartTime": "2026-04-12T10:28:14Z",
+      "t": "0:20:43",
+      "sec": 1243,
+      "label": "5. 落日 / 東京事変"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "IqCM3HCK7h0",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】Vsinger各々の持ち味を味わっちゃヲウカ‥✽【wouca : RK Music】#karaoke",
+      "actualStartTime": "2026-04-12T10:28:14Z",
+      "t": "0:27:30",
+      "sec": 1650,
+      "label": "6. 音を浮かべて / wouca"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "IqCM3HCK7h0",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】Vsinger各々の持ち味を味わっちゃヲウカ‥✽【wouca : RK Music】#karaoke",
+      "actualStartTime": "2026-04-12T10:28:14Z",
+      "t": "0:05:22",
+      "sec": 322,
+      "label": "🎤MC①"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "IqCM3HCK7h0",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】Vsinger各々の持ち味を味わっちゃヲウカ‥✽【wouca : RK Music】#karaoke",
+      "actualStartTime": "2026-04-12T10:28:14Z",
+      "t": "0:06:38",
+      "sec": 398,
+      "label": "Romanticaのお話"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "IqCM3HCK7h0",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】Vsinger各々の持ち味を味わっちゃヲウカ‥✽【wouca : RK Music】#karaoke",
+      "actualStartTime": "2026-04-12T10:28:14Z",
+      "t": "0:15:38",
+      "sec": 938,
+      "label": "🎤MC➁"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "IqCM3HCK7h0",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】Vsinger各々の持ち味を味わっちゃヲウカ‥✽【wouca : RK Music】#karaoke",
+      "actualStartTime": "2026-04-12T10:28:14Z",
+      "t": "0:15:59",
+      "sec": 959,
+      "label": "SUNとガーデンのお話"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "IqCM3HCK7h0",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】Vsinger各々の持ち味を味わっちゃヲウカ‥✽【wouca : RK Music】#karaoke",
+      "actualStartTime": "2026-04-12T10:28:14Z",
+      "t": "0:24:58",
+      "sec": 1498,
+      "label": "🎤MC③"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "IqCM3HCK7h0",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】Vsinger各々の持ち味を味わっちゃヲウカ‥✽【wouca : RK Music】#karaoke",
+      "actualStartTime": "2026-04-12T10:28:14Z",
+      "t": "0:25:05",
+      "sec": 1505,
+      "label": "深昏睡と落日の話"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "IqCM3HCK7h0",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】Vsinger各々の持ち味を味わっちゃヲウカ‥✽【wouca : RK Music】#karaoke",
+      "actualStartTime": "2026-04-12T10:28:14Z",
+      "t": "0:26:01",
+      "sec": 1561,
+      "label": "🥤次枠 炭酸水様のご紹介"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "IqCM3HCK7h0",
+      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
+      "channelName": "wouca",
+      "oshiName": "wouca",
+      "title": "【#オリ曲で紡ぐ歌枠リレー】Vsinger各々の持ち味を味わっちゃヲウカ‥✽【wouca : RK Music】#karaoke",
+      "actualStartTime": "2026-04-12T10:28:14Z",
+      "t": "0:26:54",
+      "sec": 1614,
+      "label": "ラスト曲の音を浮かべてのお話"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "j1e_HrW_qOk",
+      "channelId": "UCRXWpdEe987CRaZt5HNf-WA",
+      "channelName": "ファム・ファタル - (f)EMME FATALE",
+      "oshiName": "ファム・ファタル - (f)EMME FATALE",
+      "title": "【#オリ曲で紡ぐ歌枠リレー 】オリ曲、結構あります【ファム・ファタル/LADY:MUSE PRODUCTION】#FFFF",
+      "actualStartTime": "2026-04-12T07:58:08Z",
+      "t": "0:02:08",
+      "sec": 128,
+      "label": "Stripe/ファ厶・ファタル"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "j1e_HrW_qOk",
+      "channelId": "UCRXWpdEe987CRaZt5HNf-WA",
+      "channelName": "ファム・ファタル - (f)EMME FATALE",
+      "oshiName": "ファム・ファタル - (f)EMME FATALE",
+      "title": "【#オリ曲で紡ぐ歌枠リレー 】オリ曲、結構あります【ファム・ファタル/LADY:MUSE PRODUCTION】#FFFF",
+      "actualStartTime": "2026-04-12T07:58:08Z",
+      "t": "0:08:24",
+      "sec": 504,
+      "label": "Make up!!/ファ厶・ファタル"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "j1e_HrW_qOk",
+      "channelId": "UCRXWpdEe987CRaZt5HNf-WA",
+      "channelName": "ファム・ファタル - (f)EMME FATALE",
+      "oshiName": "ファム・ファタル - (f)EMME FATALE",
+      "title": "【#オリ曲で紡ぐ歌枠リレー 】オリ曲、結構あります【ファム・ファタル/LADY:MUSE PRODUCTION】#FFFF",
+      "actualStartTime": "2026-04-12T07:58:08Z",
+      "t": "0:14:13",
+      "sec": 853,
+      "label": "彷徨/ファム・ファタルfeat.Sorari"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "j1e_HrW_qOk",
+      "channelId": "UCRXWpdEe987CRaZt5HNf-WA",
+      "channelName": "ファム・ファタル - (f)EMME FATALE",
+      "oshiName": "ファム・ファタル - (f)EMME FATALE",
+      "title": "【#オリ曲で紡ぐ歌枠リレー 】オリ曲、結構あります【ファム・ファタル/LADY:MUSE PRODUCTION】#FFFF",
+      "actualStartTime": "2026-04-12T07:58:08Z",
+      "t": "0:19:03",
+      "sec": 1143,
+      "label": "Ghost of You/ファム・ファタル"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "j1e_HrW_qOk",
+      "channelId": "UCRXWpdEe987CRaZt5HNf-WA",
+      "channelName": "ファム・ファタル - (f)EMME FATALE",
+      "oshiName": "ファム・ファタル - (f)EMME FATALE",
+      "title": "【#オリ曲で紡ぐ歌枠リレー 】オリ曲、結構あります【ファム・ファタル/LADY:MUSE PRODUCTION】#FFFF",
+      "actualStartTime": "2026-04-12T07:58:08Z",
+      "t": "0:26:30",
+      "sec": 1590,
+      "label": "EOL/ファ厶・ファタル"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "0:02:34",
+      "sec": 154,
+      "label": "声入り"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "0:13:42",
+      "sec": 822,
+      "label": "Coffee / Mrs. GREEN APPLE"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "0:18:23",
+      "sec": 1103,
+      "label": "Talk_1"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "0:30:58",
+      "sec": 1858,
+      "label": "君じゃなきゃダメみたい / オーイシマサヨシ"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "0:35:12",
+      "sec": 2112,
+      "label": "美しい鰭 / スピッツ"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "0:38:37",
+      "sec": 2317,
+      "label": "Talk_2"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "0:53:59",
+      "sec": 3239,
+      "label": "春雷 / 米津玄師"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "0:58:43",
+      "sec": 3523,
+      "label": "Talk_3"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "1:12:58",
+      "sec": 4378,
+      "label": "我愛你 / Penthouse"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "1:16:12",
+      "sec": 4572,
+      "label": "Talk_4"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "1:32:07",
+      "sec": 5527,
+      "label": "東京フラッシュ / Vaundy"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "1:36:24",
+      "sec": 5784,
+      "label": "Talk_5"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "1:52:13",
+      "sec": 6733,
+      "label": "地獄でなぜ悪い / 星野源"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "1:55:52",
+      "sec": 6952,
+      "label": "Talk_6"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "2:02:03",
+      "sec": 7323,
+      "label": "アロハ・エ・コモ・マイ / 荒牧陽子・山寺宏一"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "2:04:28",
+      "sec": 7468,
+      "label": "Talk_7"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "2:22:27",
+      "sec": 8547,
+      "label": "IN_MY_HEAD / なとり"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "2:25:55",
+      "sec": 8755,
+      "label": "Talk_8"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "cA_Sa0LSWss",
+      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
+      "channelName": "狼朗ハツキ - Rourou Hatsuki -",
+      "oshiName": "狼朗ハツキ - Rourou Hatsuki",
+      "title": "【 #歌枠 /#KARAOKE 】あなたの心に刺さる歌、ここにあります【狼朗ハツキ/声優Vtuber】",
+      "actualStartTime": "2026-04-12T03:01:20Z",
+      "t": "2:33:36",
+      "sec": 9216,
+      "label": "Fire◎Flower(Sparkler Version) / halyosy"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "BRrPe483aX0",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】飢えーい【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-11T15:58:36Z",
+      "t": "0:04:14",
+      "sec": 254,
+      "label": "01. 命に嫌われている。 / カンザキイオリ"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "BRrPe483aX0",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】飢えーい【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-11T15:58:36Z",
+      "t": "0:38:15",
+      "sec": 2295,
+      "label": "02. 夜もすがら君想ふ / TOKOTOKO"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "BRrPe483aX0",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】飢えーい【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-11T15:58:36Z",
+      "t": "1:10:22",
+      "sec": 4222,
+      "label": "03. 丸ノ内サディスティック / 椎名林檎"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "BRrPe483aX0",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】飢えーい【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-11T15:58:36Z",
+      "t": "1:19:40",
+      "sec": 4780,
+      "label": "04. アイ / 秦基博"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "BRrPe483aX0",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】飢えーい【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-11T15:58:36Z",
+      "t": "1:50:05",
+      "sec": 6605,
+      "label": "05. たばこ / コレサワ"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "BRrPe483aX0",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】飢えーい【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-11T15:58:36Z",
+      "t": "2:21:00",
+      "sec": 8460,
+      "label": "06. Departures 〜あなたにおくるアイの歌〜 / EGOIST"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "BRrPe483aX0",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】飢えーい【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-11T15:58:36Z",
+      "t": "2:44:46",
+      "sec": 9886,
+      "label": "07. 蝶々結び / Aimer"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "BRrPe483aX0",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】飢えーい【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-11T15:58:36Z",
+      "t": "3:01:18",
+      "sec": 10878,
+      "label": "08. 変わらないもの / 奥華子"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "BRrPe483aX0",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】飢えーい【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-11T15:58:36Z",
+      "t": "3:15:03",
+      "sec": 11703,
+      "label": "09. アヤノの幸福理論 / じん"
+    },
+    {
+      "date": "2026-04-12",
+      "videoId": "BRrPe483aX0",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】飢えーい【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-11T15:58:36Z",
+      "t": "3:22:59",
+      "sec": 12179,
+      "label": "10. タイムマシン / 1640mP"
+    },
     {
       "date": "2026-04-11",
       "videoId": "7kXCWKvM9qE",
@@ -259857,7 +260757,7 @@
   "topSongs": [
     {
       "key": "声入り",
-      "count": 135
+      "count": 136
     },
     {
       "key": "本日のサムネ",
@@ -259869,7 +260769,7 @@
     },
     {
       "key": "画面入り",
-      "count": 38
+      "count": 39
     },
     {
       "key": "end",
@@ -259920,12 +260820,12 @@
       "count": 25
     },
     {
-      "key": "革命道中 / アイナ・ジ・エンド",
+      "key": "夜明けと蛍 / n-buna",
       "count": 24
     },
     {
-      "key": "夜明けと蛍 / n-buna",
-      "count": 23
+      "key": "革命道中 / アイナ・ジ・エンド",
+      "count": 24
     },
     {
       "key": "mc④",
@@ -260008,6 +260908,18 @@
       "count": 14
     },
     {
+      "key": "おはなし①",
+      "count": 14
+    },
+    {
+      "key": "おはなし③",
+      "count": 14
+    },
+    {
+      "key": "おはなし④",
+      "count": 14
+    },
+    {
       "key": "mc⑤",
       "count": 14
     },
@@ -260028,15 +260940,7 @@
       "count": 13
     },
     {
-      "key": "おはなし①",
-      "count": 13
-    },
-    {
-      "key": "おはなし③",
-      "count": 13
-    },
-    {
-      "key": "おはなし④",
+      "key": "おはなし②",
       "count": 13
     },
     {
@@ -260053,6 +260957,10 @@
     },
     {
       "key": "太陽系デスコ / ナユタン星人",
+      "count": 13
+    },
+    {
+      "key": "366日 / hy",
       "count": 13
     },
     {
@@ -260084,7 +260992,7 @@
       "count": 12
     },
     {
-      "key": "おはなし②",
+      "key": "おはなし⑤",
       "count": 12
     },
     {
@@ -260116,11 +261024,11 @@
       "count": 12
     },
     {
-      "key": "太陽 / ヨルシカ",
+      "key": "ダーリン / mrs. green apple",
       "count": 12
     },
     {
-      "key": "366日 / hy",
+      "key": "太陽 / ヨルシカ",
       "count": 12
     },
     {
@@ -260145,10 +261053,6 @@
     },
     {
       "key": "残酷な天使のテーゼ / 高橋洋子",
-      "count": 11
-    },
-    {
-      "key": "おはなし⑤",
       "count": 11
     },
     {
@@ -260184,11 +261088,11 @@
       "count": 11
     },
     {
-      "key": "ソワレ / 星街すいせい",
+      "key": "クスシキ / mrs. green apple",
       "count": 11
     },
     {
-      "key": "ダーリン / mrs. green apple",
+      "key": "ソワレ / 星街すいせい",
       "count": 11
     },
     {
@@ -260269,10 +261173,6 @@
     },
     {
       "key": "高嶺の花子さん / back number",
-      "count": 10
-    },
-    {
-      "key": "クスシキ / mrs. green apple",
       "count": 10
     },
     {
@@ -260444,6 +261344,10 @@
       "count": 8
     },
     {
+      "key": "ひまわりの約束 / 秦基博",
+      "count": 8
+    },
+    {
       "key": "シュガーソングとビターステップ / unison square garden",
       "count": 8
     },
@@ -260560,10 +261464,6 @@
       "count": 7
     },
     {
-      "key": "ひまわりの約束 / 秦基博",
-      "count": 7
-    },
-    {
       "key": "パレード / ヨルシカ",
       "count": 7
     },
@@ -260636,6 +261536,10 @@
       "count": 7
     },
     {
+      "key": "逆光 / ado",
+      "count": 7
+    },
+    {
       "key": "3月9日 / レミオロメン",
       "count": 7
     },
@@ -260649,10 +261553,6 @@
     },
     {
       "key": "酔いどれ知らず / kanaria",
-      "count": 6
-    },
-    {
-      "key": "コネクト / claris",
       "count": 6
     }
   ]
