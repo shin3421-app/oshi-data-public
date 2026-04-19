@@ -76,7 +76,7 @@
       "oshiName": "XIDEN",
       "title": "XIDEN BIRTHDAY LIVE 2026 \"BORN FROM aXIs\" 第2部【XIDEN / RK Music┆冒頭無料】",
       "actualStartTime": "2026-04-18T09:30:08Z",
-      "durationSec": 2704,
+      "durationSec": 2712,
       "setlistType": "partial",
       "songCount": 4,
       "setlistComment": {
@@ -152,6 +152,23 @@
         "songCount": 13,
         "timestampFirst": "00:14:13",
         "timestampSecFirst": 853
+      }
+    },
+    {
+      "videoId": "oUm2ejXSLnI",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】こんばんWhat’ｓ up!【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-18T14:59:19Z",
+      "durationSec": 14511,
+      "setlistType": "full",
+      "songCount": 13,
+      "setlistComment": {
+        "rawText": "00:02:43 開始\r\n\r\n【セットリスト】\r\n00:03:06 01. 一途 / King Gnu\r\n00:28:00 02. レプリカント / ヨルシカ\r\n00:54:57 03. from Y to Y / ジミーサムP\r\n01:26:11 04. 落日 / 東京事変\r\n01:51:15 05. 楔 / 奥華子\r\n02:07:13 06. orion / 米津玄師\r\n02:27:29 07. 靴の花火 / ヨルシカ\r\n02:36:21 08. 夜明けと蛍 / n-buna\r\n02:55:08 09. かたち / 安月名莉子\r\n03:07:12 10. テルーの唄 / 手嶌葵\r\n03:17:43 11. 心做し / 蝶々P\r\n03:33:13 12. 贖罪 / 傘村トータ\r\n03:46:58 13. プロローグ / Uru",
+        "songCount": 13,
+        "timestampFirst": "00:03:06",
+        "timestampSecFirst": 186
       }
     }
   ]
