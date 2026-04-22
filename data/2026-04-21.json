@@ -59,7 +59,7 @@
       "oshiName": "wouca",
       "title": "【コラボ歌枠】優しくも、儚い二人の歌声で紡ぐ音楽をお届けします✽【ヨノ / wouca : RK Music】#ヨノウカ",
       "actualStartTime": "2026-04-21T13:03:40Z",
-      "durationSec": 6668,
+      "durationSec": 6676,
       "setlistType": "full",
       "songCount": 10,
       "setlistComment": {
@@ -84,6 +84,23 @@
         "songCount": 11,
         "timestampFirst": "0:04:12",
         "timestampSecFirst": 252
+      }
+    },
+    {
+      "videoId": "uSECtNo9zrc",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【歌枠】ピアノでしっとり１時間だけ歌う🎤🎹【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-21T14:02:47Z",
+      "durationSec": 3639,
+      "setlistType": "partial",
+      "songCount": 8,
+      "setlistComment": {
+        "rawText": "3:04　開始\n\n5:36　最後のバイバイ。 / りりあ。\n11:56　ハッピーエンド / back number\n21:19　奏 / スキマスイッチ\n29:08　初めての恋が終わる時 / supercell\n36:00　アイロニ / すこっぷ\n42:45　心拍数#0822 / 蝶々P\n49:11　深海少女 / ゆうゆ\n54:15　地球最後の告白を / Kemu",
+        "songCount": 8,
+        "timestampFirst": "5:36",
+        "timestampSecFirst": 336
       }
     }
   ]

@@ -1,10 +1,106 @@
 {
-  "generatedAt": "2026-04-21T21:33:39Z",
+  "generatedAt": "2026-04-22T05:37:48Z",
   "range": {
     "files": 246,
-    "songs": 23153
+    "songs": 23161
   },
   "songs": [
+    {
+      "date": "2026-04-21",
+      "videoId": "uSECtNo9zrc",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【歌枠】ピアノでしっとり１時間だけ歌う🎤🎹【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-21T14:02:47Z",
+      "t": "5:36",
+      "sec": 336,
+      "label": "最後のバイバイ。 / りりあ。"
+    },
+    {
+      "date": "2026-04-21",
+      "videoId": "uSECtNo9zrc",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【歌枠】ピアノでしっとり１時間だけ歌う🎤🎹【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-21T14:02:47Z",
+      "t": "11:56",
+      "sec": 716,
+      "label": "ハッピーエンド / back number"
+    },
+    {
+      "date": "2026-04-21",
+      "videoId": "uSECtNo9zrc",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【歌枠】ピアノでしっとり１時間だけ歌う🎤🎹【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-21T14:02:47Z",
+      "t": "21:19",
+      "sec": 1279,
+      "label": "奏 / スキマスイッチ"
+    },
+    {
+      "date": "2026-04-21",
+      "videoId": "uSECtNo9zrc",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【歌枠】ピアノでしっとり１時間だけ歌う🎤🎹【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-21T14:02:47Z",
+      "t": "29:08",
+      "sec": 1748,
+      "label": "初めての恋が終わる時 / supercell"
+    },
+    {
+      "date": "2026-04-21",
+      "videoId": "uSECtNo9zrc",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【歌枠】ピアノでしっとり１時間だけ歌う🎤🎹【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-21T14:02:47Z",
+      "t": "36:00",
+      "sec": 2160,
+      "label": "アイロニ / すこっぷ"
+    },
+    {
+      "date": "2026-04-21",
+      "videoId": "uSECtNo9zrc",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【歌枠】ピアノでしっとり１時間だけ歌う🎤🎹【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-21T14:02:47Z",
+      "t": "42:45",
+      "sec": 2565,
+      "label": "心拍数#0822 / 蝶々P"
+    },
+    {
+      "date": "2026-04-21",
+      "videoId": "uSECtNo9zrc",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【歌枠】ピアノでしっとり１時間だけ歌う🎤🎹【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-21T14:02:47Z",
+      "t": "49:11",
+      "sec": 2951,
+      "label": "深海少女 / ゆうゆ"
+    },
+    {
+      "date": "2026-04-21",
+      "videoId": "uSECtNo9zrc",
+      "channelId": "UCzbDTH6ennkRENJDBCk-NPw",
+      "channelName": "狐宵いなり - Inari Koyoi -",
+      "oshiName": "狐宵いなり - Inari Koyoi -",
+      "title": "【歌枠】ピアノでしっとり１時間だけ歌う🎤🎹【Karaoke】 #shorts",
+      "actualStartTime": "2026-04-21T14:02:47Z",
+      "t": "54:15",
+      "sec": 3255,
+      "label": "地球最後の告白を / Kemu"
+    },
     {
       "date": "2026-04-21",
       "videoId": "h4DebTlOTxI",
@@ -278060,6 +278156,10 @@
       "count": 13
     },
     {
+      "key": "地球最後の告白を / kemu",
+      "count": 13
+    },
+    {
       "key": "re:i am / aimer",
       "count": 13
     },
@@ -278124,10 +278224,6 @@
       "count": 12
     },
     {
-      "key": "地球最後の告白を / kemu",
-      "count": 12
-    },
-    {
       "key": "overdose / なとり",
       "count": 12
     },
@@ -278181,6 +278277,10 @@
     },
     {
       "key": "優しい彗星 / yoasobi",
+      "count": 12
+    },
+    {
+      "key": "奏 / スキマスイッチ",
       "count": 12
     },
     {
@@ -278245,10 +278345,6 @@
     },
     {
       "key": "ソワレ / 星街すいせい",
-      "count": 11
-    },
-    {
-      "key": "奏 / スキマスイッチ",
       "count": 11
     },
     {
