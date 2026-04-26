@@ -1,0 +1,39 @@
+{
+  "date": "2026-04-26",
+  "streams": [
+    {
+      "videoId": "PZVl1ddfEE0",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelName": "深影",
+      "oshiName": "深影",
+      "title": "【 歌枠 | #karaoke  】高評価1000ゆるく目指しちゃう【深影 / RK Music】#ghostreaming",
+      "actualStartTime": "2026-04-25T16:03:33Z",
+      "durationSec": 15449,
+      "setlistType": "full",
+      "songCount": 14,
+      "setlistComment": {
+        "rawText": "+｡.｡･.｡*ﾟ+｡｡.｡･.｡*ﾟSetList+ﾟ*ﾟ.｡.｡･.｡｡+ﾟ*ﾟ.｡.｡･.｡｡+\r\n\r\n0:07:50　01. 言って。 / ヨルシカ\r\n0:11:55　02. ただ君に晴れ / ヨルシカ\r\n0:37:21　03. 声 / ヨルシカ\r\n1:11:25　04. Mela! / 緑黄色社会\r\n1:29:19　05. エウテルペ / EGOIST\n2:04:08　06. アルジャーノン / ヨルシカ\r\n2:31:20　07. 風のとおり道 / 杉並児童合唱団\r\n2:48:01　08. 透影 / 深影\r\n2:58:44　09. ロストメモリー / 深影\r\n3:15:30　10. Departures 〜あなたにおくるアイの歌〜 / EGOIST\r\n3:23:58　11. 花女 / 花譜\r\n3:35:10　12. 老人と海 / ヨルシカ\r\n3:46:24　13. 変わらないもの / 奥華子\r\n3:58:57　14. サムライハート / SPYAIR\r\n\r\n\r\n+｡.｡･.｡*ﾟ+｡｡.｡･.｡*ﾟ-+-+-+-+ﾟ*ﾟ.｡.｡･.｡｡+ﾟ*ﾟ.｡.｡･.｡｡+",
+        "songCount": 14,
+        "timestampFirst": "0:07:50",
+        "timestampSecFirst": 470
+      }
+    },
+    {
+      "videoId": "SL2WJpmSSOI",
+      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
+      "channelName": "五木つかさ -Itsuki Tsukasa -",
+      "oshiName": "五木つかさ",
+      "title": "【#バーコネ歌枠リレー】さぁ、狼さんと月夜を楽しもうか singing stream【#バーコネ月/新人vtuber/五木つかさ 】",
+      "actualStartTime": "2026-04-26T13:59:11Z",
+      "durationSec": 1879,
+      "setlistType": "partial",
+      "songCount": 6,
+      "setlistComment": {
+        "rawText": "【 SET LIST 】🐺タイムスタンプ\r\n0:02:00 スタート\r\n0:02:44 忘れじの言の葉 / 未来古代楽団\r\n0:09:04 幾年月 / Mili\r\n0:12:50 フクロウ ～フクロウが知らせる客が来たと～ / KOKIA\r\n0:17:40 すずめ feat.十明 / RADWIMPS\r\n0:22:02 雫 / スキマスイッチ\r\n0:25:28 終端の王と異世界の騎士 〜The Endia & The Knights〜 / Sound Horizon",
+        "songCount": 6,
+        "timestampFirst": "0:02:44",
+        "timestampSecFirst": 164
+      }
+    }
+  ]
+}
